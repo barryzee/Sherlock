@@ -1,0 +1,621 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Veiled Lodger"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 73817    window = 73816 73822
+
+
+
+==>      When one considers that Mr. Sherlock Holmes was in active practice <==
+     for twenty-three years, and that during seventeen of these I was
+     allowed to cooperate with him and to keep notes of his doings, it
+     will be clear that I have a mass of material at my command. The
+     problem has always been not to find but to choose. There is the long
+     row of year-books which fill a shelf, and there are the
+
+[line number in individual story] matching line = 18    window = 13 23
+
+[line number in concatenated text file] matching line = 73833    window = 73828 73838
+
+
+     have nothing to fear. The discretion and high sense of professional
+     honour which have always distinguished my friend are still at work in
+     the choice of these memoirs, and no confidence will be abused. I
+     deprecate, however, in the strongest way the attempts which have been
+     made lately to get at and to destroy these papers. The source of
+==>      these outrages is known, and if they are repeated I have Mr. Holmes's <==
+     authority for saying that the whole story concerning the politician,
+     the lighthouse, and the trained cormorant will be given to the
+     public. There is at least one reader who will understand.
+
+     It is not reasonable to suppose that every one of these cases gave
+
+[line number in individual story] matching line = 24    window = 19 29
+
+[line number in concatenated text file] matching line = 73839    window = 73834 73844
+
+
+     authority for saying that the whole story concerning the politician,
+     the lighthouse, and the trained cormorant will be given to the
+     public. There is at least one reader who will understand.
+
+     It is not reasonable to suppose that every one of these cases gave
+==>      Holmes the opportunity of showing those curious gifts of instinct and <==
+     observation which I have endeavoured to set forth in these memoirs.
+     Sometimes he had with much effort to pick the fruit, sometimes it
+     fell easily into his lap. But the most terrible human tragedies were
+     often involved in those cases which brought him the fewest personal
+     opportunities, and it is one of these which I now desire to record.
+
+[line number in individual story] matching line = 34    window = 29 39
+
+[line number in concatenated text file] matching line = 73849    window = 73844 73854
+
+
+     opportunities, and it is one of these which I now desire to record.
+     In telling it, I have made a slight change of name and place, but
+     otherwise the facts are as stated.
+
+     One forenoon--it was late in 1896--I received a hurried note from
+==>      Holmes asking for my attendance. When I arrived I found him seated in <==
+     a smoke-laden atmosphere, with an elderly, motherly woman of the
+     buxom landlady type in the corresponding chair in front of him.
+
+     "This is Mrs. Merrilow, of South Brixton," said my friend with a wave
+     of the hand. "Mrs. Merrilow does not object to tobacco, Watson, if
+
+[line number in individual story] matching line = 50    window = 45 55
+
+[line number in concatenated text file] matching line = 73865    window = 73860 73870
+
+
+
+     "You will understand, Mrs. Merrilow, that if I come to Mrs. Ronder I
+     should prefer to have a witness. You will make her understand that
+     before we arrive."
+
+==>      "Lord bless you, Mr. Holmes," said our visitor, "she is that anxious <==
+     to see you that you might bring the whole parish at your heels!"
+
+     "Then we shall come early in the afternoon. Let us see that we have
+     our facts correct before we start. If we go over them it will help
+     Dr. Watson to understand the situation. You say that Mrs. Ronder has
+
+[line number in individual story] matching line = 63    window = 58 68
+
+[line number in concatenated text file] matching line = 73878    window = 73873 73883
+
+
+
+     "And I wish to God I had not!" said Mrs. Merrilow.
+
+     "It was, I understand, terribly mutilated."
+
+==>      "Well, Mr. Holmes, you would hardly say it was a face at all. That's <==
+     how it looked. Our milkman got a glimpse of her once peeping out of
+     the upper window, and he dropped his tin and the milk all over the
+     front garden. That is the kind of face it is. When I saw her--I
+     happened on her unawares--she covered up quick, and then she said,
+     'Now, Mrs. Merrilow, you know at last why it is that I never raise my
+
+[line number in individual story] matching line = 93    window = 88 98
+
+[line number in concatenated text file] matching line = 73908    window = 73903 73913
+
+
+
+     "You say that she never showed her face from first to last save on
+     the one accidental occasion. Well, it is a very remarkable story,
+     most remarkable, and I don't wonder that you want it examined."
+
+==>      "I don't, Mr. Holmes. I am quite satisfied so long as I get my rent. <==
+     You could not have a quieter lodger, or one who gives less trouble."
+
+     "Then what has brought matters to a head?"
+
+     "Her health, Mr. Holmes. She seems to be wasting away. And there's
+
+[line number in individual story] matching line = 98    window = 93 103
+
+[line number in concatenated text file] matching line = 73913    window = 73908 73918
+
+
+     "I don't, Mr. Holmes. I am quite satisfied so long as I get my rent.
+     You could not have a quieter lodger, or one who gives less trouble."
+
+     "Then what has brought matters to a head?"
+
+==>      "Her health, Mr. Holmes. She seems to be wasting away. And there's <==
+     something terrible on her mind. 'Murder!' she cries. 'Murder!' And
+     once I heard her: 'You cruel beast! You monster!' she cried. It was
+     in the night, and it fair rang through the house and sent the shivers
+     through me. So I went to her in the morning. 'Mrs. Ronder,' I says,
+     'if you have anything that is troubling your soul, there's the
+
+[line number in individual story] matching line = 109    window = 104 114
+
+[line number in concatenated text file] matching line = 73924    window = 73919 73929
+
+
+     clergy,' I says, 'and there's the police. Between them you should get
+     some help.' 'For God's sake, not the police!' says she, 'and the
+     clergy can't change what is past. And yet,' she says, 'it would ease
+     my mind if someone knew the truth before I died.' 'Well,' says I, 'if
+     you won't have the regulars, there is this detective man what we read
+==>      about'--beggin' your pardon, Mr. Holmes. And she, she fair jumped at <==
+     it. 'That's the man,' says she. 'I wonder I never thought of it
+     before. Bring him here, Mrs. Merrilow, and if he won't come, tell him
+     I am the wife of Ronder's wild beast show. Say that, and give him the
+     name Abbas Parva. Here it is as she wrote it, Abbas Parva. 'That will
+     bring him if he's the man I think he is.'"
+
+[line number in individual story] matching line = 116    window = 111 121
+
+[line number in concatenated text file] matching line = 73931    window = 73926 73936
+
+
+     before. Bring him here, Mrs. Merrilow, and if he won't come, tell him
+     I am the wife of Ronder's wild beast show. Say that, and give him the
+     name Abbas Parva. Here it is as she wrote it, Abbas Parva. 'That will
+     bring him if he's the man I think he is.'"
+
+==>      "And it will, too," remarked Holmes. "Very good, Mrs. Merrilow. I <==
+     should like to have a little chat with Dr. Watson. That will carry us
+     till lunch-time. About three o'clock you may expect to see us at your
+     house in Brixton."
+
+     Our visitor had no sooner waddled out of the room--no other verb can
+
+[line number in individual story] matching line = 122    window = 117 127
+
+[line number in concatenated text file] matching line = 73937    window = 73932 73942
+
+
+     should like to have a little chat with Dr. Watson. That will carry us
+     till lunch-time. About three o'clock you may expect to see us at your
+     house in Brixton."
+
+     Our visitor had no sooner waddled out of the room--no other verb can
+==>      describe Mrs. Merrilow's method of progression--than Sherlock Holmes <==
+     threw himself with fierce energy upon the pile of commonplace books
+     in the corner. For a few minutes there was a constant swish of the
+     leaves, and then with a grunt of satisfaction he came upon what he
+     sought. So excited was he that he did not rise, but sat upon the
+     floor like some strange Buddha, with crossed legs, the huge books all
+
+[line number in individual story] matching line = 135    window = 130 140
+
+[line number in concatenated text file] matching line = 73950    window = 73945 73955
+
+
+     "The case worried me at the time, Watson. Here are my marginal notes
+     to prove it. I confess that I could make nothing of it. And yet I was
+     convinced that the coroner was wrong. Have you no recollection of the
+     Abbas Parva tragedy?"
+
+==>      "None, Holmes." <==
+
+     "And yet you were with me then. But certainly my own impression was
+     very superficial. For there was nothing to go by, and none of the
+     parties had engaged my services. Perhaps you would care to read the
+     papers?"
+
+[line number in individual story] matching line = 243    window = 238 248
+
+[line number in concatenated text file] matching line = 74058    window = 74053 74063
+
+
+     having encouraged the beast's rage by turning. If they had faced it
+     they might have cowed it. Hence her cries of 'Coward!'"
+
+     "Brilliant, Watson! Only one flaw in your diamond."
+
+==>      "What is the flaw, Holmes?" <==
+
+     "If they were both ten paces from the cage, how came the beast to get
+     loose?"
+
+     "Is it possible that they had some enemy who loosed it?"
+
+[line number in individual story] matching line = 255    window = 250 260
+
+[line number in concatenated text file] matching line = 74070    window = 74065 74075
+
+
+     "And why should it attack them savagely when it was in the habit of
+     playing with them, and doing tricks with them inside the cage?"
+
+     "Possibly the same enemy had done something to enrage it."
+
+==>      Holmes looked thoughtful and remained in silence for some moments. <==
+
+     "Well, Watson, there is this to be said for your theory. Ronder was a
+     man of many enemies. Edmunds told me that in his cups he was
+     horrible. A huge bully of a man, he cursed and slashed at everyone
+     who came in his way. I expect those cries about a monster, of which
+
+[line number in individual story] matching line = 288    window = 283 293
+
+[line number in concatenated text file] matching line = 74103    window = 74098 74108
+
+
+     was cut off close at her upper lip and disclosed a perfectly shaped
+     mouth and a delicately rounded chin. I could well conceive that she
+     had indeed been a very remarkable woman. Her voice, too, was well
+     modulated and pleasing.
+
+==>      "My name is not unfamiliar to you, Mr. Holmes," said she. "I thought <==
+     that it would bring you."
+
+     "That is so, madam, though I do not know how you are aware that I was
+     interested in your case."
+
+
+[line number in individual story] matching line = 321    window = 316 326
+
+[line number in concatenated text file] matching line = 74136    window = 74131 74141
+
+
+
+     "You compliment me, madam. At the same time, I am a responsible
+     person. I do not promise you that when you have spoken I may not
+     myself think it my duty to refer the case to the police."
+
+==>      "I think not, Mr. Holmes. I know your character and methods too well, <==
+     for I have followed your work for some years. Reading is the only
+     pleasure which fate has left me, and I miss little which passes in
+     the world. But in any case, I will take my chance of the use which
+     you may make of my tragedy. It will ease my mind to tell it."
+
+
+[line number in individual story] matching line = 410    window = 405 415
+
+[line number in concatenated text file] matching line = 74225    window = 74220 74230
+
+
+     and I was hardly conscious of pain. With the palms of my hands I
+     tried to push the great steaming, blood-stained jaws away from me,
+     and I screamed for help. I was conscious that the camp was stirring,
+     and then dimly I remembered a group of men. Leonardo, Griggs, and
+     others, dragging me from under the creature's paws. That was my last
+==>      memory, Mr. Holmes, for many a weary month. When I came to myself and <==
+     saw myself in the mirror, I cursed that lion--oh, how I cursed
+     him!--not because he had torn away my beauty but because he had not
+     torn away my life. I had but one desire, Mr. Holmes, and I had enough
+     money to gratify it. It was that I should cover myself so that my
+     poor face should be seen by none, and that I should dwell where none
+
+[line number in individual story] matching line = 413    window = 408 418
+
+[line number in concatenated text file] matching line = 74228    window = 74223 74233
+
+
+     and then dimly I remembered a group of men. Leonardo, Griggs, and
+     others, dragging me from under the creature's paws. That was my last
+     memory, Mr. Holmes, for many a weary month. When I came to myself and
+     saw myself in the mirror, I cursed that lion--oh, how I cursed
+     him!--not because he had torn away my beauty but because he had not
+==>      torn away my life. I had but one desire, Mr. Holmes, and I had enough <==
+     money to gratify it. It was that I should cover myself so that my
+     poor face should be seen by none, and that I should dwell where none
+     whom I had ever known should find me. That was all that was left to
+     me to do--and that is what I have done. A poor wounded beast that has
+     crawled into its hole to die--that is the end of Eugenia Ronder."
+
+[line number in individual story] matching line = 421    window = 416 426
+
+[line number in concatenated text file] matching line = 74236    window = 74231 74241
+
+
+     whom I had ever known should find me. That was all that was left to
+     me to do--and that is what I have done. A poor wounded beast that has
+     crawled into its hole to die--that is the end of Eugenia Ronder."
+
+     We sat in silence for some time after the unhappy woman had told her
+==>      story. Then Holmes stretched out his long arm and patted her hand <==
+     with such a show of sympathy as I had seldom known him to exhibit.
+
+     "Poor girl!" he said. "Poor girl! The ways of fate are indeed hard to
+     understand. If there is not some compensation hereafter, then the
+     world is a cruel jest. But what of this man Leonardo?"
+
+[line number in individual story] matching line = 445    window = 440 450
+
+[line number in concatenated text file] matching line = 74260    window = 74255 74265
+
+
+     in the paper."
+
+     "And what did he do with this five-clawed club, which is the most
+     singular and ingenious part of all your story?"
+
+==>      "I cannot tell, Mr. Holmes. There is a chalk-pit by the camp, with a <==
+     deep green pool at the base of it. Perhaps in the depths of that
+     pool--"
+
+     "Well, well, it is of little consequence now. The case is closed."
+
+
+[line number in individual story] matching line = 454    window = 449 459
+
+[line number in concatenated text file] matching line = 74269    window = 74264 74274
+
+
+     "Well, well, it is of little consequence now. The case is closed."
+
+     "Yes," said the woman, "the case is closed."
+
+     We had risen to go, but there was something in the woman's voice
+==>      which arrested Holmes's attention. He turned swiftly upon her. <==
+
+     "Your life is not your own," he said. "Keep your hands off it."
+
+     "What use is it to anyone?"
+
+
+[line number in individual story] matching line = 471    window = 466 476
+
+[line number in concatenated text file] matching line = 74286    window = 74281 74291
+
+
+     "I wonder if you would bear it," she said.
+
+     It was horrible. No words can describe the framework of a face when
+     the face itself is gone. Two living and beautiful brown eyes looking
+     sadly out from that grisly ruin did but make the view more awful.
+==>      Holmes held up his hand in a gesture of pity and protest, and <==
+     together we left the room.
+
+     Two days later, when I called upon my friend, he pointed with some
+     pride to a small blue bottle upon his mantelpiece. I picked it up.
+     There was a red poison label. A pleasant almondy odour rose when I
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+        in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------- 
+ Holmes   22      0     0.011572856391373           0              Inf     6.26369155153392e-06 
+ Mr       12      1    0.00631246712256707 0.000520020800832033   12.139   0.00512528331825781  
+ case     6       0    0.00315623356128353          0              Inf      0.0396879482172359  
+ says     6       0    0.00315623356128353          0              Inf      0.0396879482172359  
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Veiled Lodger"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 39    window = 34 44
+
+[line number in concatenated text file] matching line = 73854    window = 73849 73859
+
+
+     Holmes asking for my attendance. When I arrived I found him seated in
+     a smoke-laden atmosphere, with an elderly, motherly woman of the
+     buxom landlady type in the corresponding chair in front of him.
+
+     "This is Mrs. Merrilow, of South Brixton," said my friend with a wave
+==>      of the hand. "Mrs. Merrilow does not object to tobacco, Watson, if <==
+     you wish to indulge your filthy habits. Mrs. Merrilow has an
+     interesting story to tell which may well lead to further developments
+     in which your presence may be useful."
+
+     "Anything I can do--"
+
+[line number in individual story] matching line = 55    window = 50 60
+
+[line number in concatenated text file] matching line = 73870    window = 73865 73875
+
+
+     "Lord bless you, Mr. Holmes," said our visitor, "she is that anxious
+     to see you that you might bring the whole parish at your heels!"
+
+     "Then we shall come early in the afternoon. Let us see that we have
+     our facts correct before we start. If we go over them it will help
+==>      Dr. Watson to understand the situation. You say that Mrs. Ronder has <==
+     been your lodger for seven years and that you have only once seen her
+     face."
+
+     "And I wish to God I had not!" said Mrs. Merrilow.
+
+
+[line number in individual story] matching line = 117    window = 112 122
+
+[line number in concatenated text file] matching line = 73932    window = 73927 73937
+
+
+     I am the wife of Ronder's wild beast show. Say that, and give him the
+     name Abbas Parva. Here it is as she wrote it, Abbas Parva. 'That will
+     bring him if he's the man I think he is.'"
+
+     "And it will, too," remarked Holmes. "Very good, Mrs. Merrilow. I
+==>      should like to have a little chat with Dr. Watson. That will carry us <==
+     till lunch-time. About three o'clock you may expect to see us at your
+     house in Brixton."
+
+     Our visitor had no sooner waddled out of the room--no other verb can
+     describe Mrs. Merrilow's method of progression--than Sherlock Holmes
+
+[line number in individual story] matching line = 130    window = 125 135
+
+[line number in concatenated text file] matching line = 73945    window = 73940 73950
+
+
+     leaves, and then with a grunt of satisfaction he came upon what he
+     sought. So excited was he that he did not rise, but sat upon the
+     floor like some strange Buddha, with crossed legs, the huge books all
+     round him, and one open upon his knees.
+
+==>      "The case worried me at the time, Watson. Here are my marginal notes <==
+     to prove it. I confess that I could make nothing of it. And yet I was
+     convinced that the coroner was wrong. Have you no recollection of the
+     Abbas Parva tragedy?"
+
+     "None, Holmes."
+
+[line number in individual story] matching line = 241    window = 236 246
+
+[line number in concatenated text file] matching line = 74056    window = 74051 74061
+
+
+     refuge. She made for it, and just as she reached it the beast bounded
+     after her and knocked her over. She was angry with her husband for
+     having encouraged the beast's rage by turning. If they had faced it
+     they might have cowed it. Hence her cries of 'Coward!'"
+
+==>      "Brilliant, Watson! Only one flaw in your diamond." <==
+
+     "What is the flaw, Holmes?"
+
+     "If they were both ten paces from the cage, how came the beast to get
+     loose?"
+
+[line number in individual story] matching line = 257    window = 252 262
+
+[line number in concatenated text file] matching line = 74072    window = 74067 74077
+
+
+
+     "Possibly the same enemy had done something to enrage it."
+
+     Holmes looked thoughtful and remained in silence for some moments.
+
+==>      "Well, Watson, there is this to be said for your theory. Ronder was a <==
+     man of many enemies. Edmunds told me that in his cups he was
+     horrible. A huge bully of a man, he cursed and slashed at everyone
+     who came in his way. I expect those cries about a monster, of which
+     our visitor has spoken, were nocturnal reminiscences of the dear
+     departed. However, our speculations are futile until we have all the
+
+[line number in individual story] matching line = 263    window = 258 268
+
+[line number in concatenated text file] matching line = 74078    window = 74073 74083
+
+
+     man of many enemies. Edmunds told me that in his cups he was
+     horrible. A huge bully of a man, he cursed and slashed at everyone
+     who came in his way. I expect those cries about a monster, of which
+     our visitor has spoken, were nocturnal reminiscences of the dear
+     departed. However, our speculations are futile until we have all the
+==>      facts. There is a cold partridge on the sideboard, Watson, and a <==
+     bottle of Montrachet. Let us renew our energies before we make a
+     fresh call upon them."
+
+     When our hansom deposited us at the house of Mrs. Merrilow, we found
+     that plump lady blocking up the open door of her humble but retired
+
+[line number in individual story] matching line = 482    window = 477 487
+
+[line number in concatenated text file] matching line = 74297    window = 74292 74302
+
+
+     opened it.
+
+     "Prussic acid?" said I.
+
+     "Exactly. It came by post. 'I send you my temptation. I will follow
+==>      your advice.' That was the message. I think, Watson, we can guess the <==
+     name of the brave woman who sent it."
+
+
+
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================ 
+          in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------ 
+ Watson     8       0    0.0122511485451761           0              Inf     6.19860115521819e-07 
+ Merrilow   7       3    0.0107197549770291  0.00125628140703518    8.533    0.000786537509087299 
+ Mrs        8       6    0.0122511485451761  0.00251256281407035    4.876    0.00337330408198632  
+ our        6       3    0.00918836140888208 0.00125628140703518    7.314    0.00373001307665098  
+ visitor    3       0    0.00459418070444104          0              Inf     0.00904023807909652  
+ we         8      10    0.0122511485451761  0.00418760469011725    2.926     0.0363880077394161  
+ your       8      10    0.0122511485451761  0.00418760469011725    2.926     0.0363880077394161  
+ Abbas      3       1    0.00459418070444104 0.000418760469011725   10.971    0.0455519339803778  
+ Parva      3       1    0.00459418070444104 0.000418760469011725   10.971    0.0455519339803778  
+ ------------------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Veiled Lodger"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Veiled Lodger"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

@@ -1,0 +1,688 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The "Gloria Scott""
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 24113    window = 24112 24118
+
+
+
+==>      "I have some papers here," said my friend Sherlock Holmes, as we sat <==
+     one winter's night on either side of the fire, "which I really think,
+     Watson, that it would be worth your while to glance over. These are
+     the documents in the extraordinary case of the Gloria Scott, and this
+     is the message which struck Justice of the Peace Trevor dead with
+     horror when he read it."
+
+[line number in individual story] matching line = 18    window = 13 23
+
+[line number in concatenated text file] matching line = 24129    window = 24124 24134
+
+
+     "The supply of game for London is going steadily up," it ran.
+     "Head-keeper Hudson, we believe, has been now told to receive all
+     orders for fly-paper and for preservation of your hen-pheasant's
+     life."
+
+==>      As I glanced up from reading this enigmatical message, I saw Holmes <==
+     chuckling at the expression upon my face.
+
+     "You look a little bewildered," said he.
+
+     "I cannot see how such a message as this could inspire horror. It
+
+[line number in individual story] matching line = 94    window = 89 99
+
+[line number in concatenated text file] matching line = 24205    window = 24200 24210
+
+
+     system, although I had not yet appreciated the part which they were
+     to play in my life. The old man evidently thought that his son was
+     exaggerating in his description of one or two trivial feats which I
+     had performed.
+
+==>      "'Come, now, Mr. Holmes,' said he, laughing good-humoredly. 'I'm an <==
+     excellent subject, if you can deduce anything from me.'
+
+     "'I fear there is not very much,' I answered; 'I might suggest that
+     you have gone about in fear of some personal attack within the last
+     twelve months.'
+
+[line number in individual story] matching line = 155    window = 150 160
+
+[line number in concatenated text file] matching line = 24266    window = 24261 24271
+
+
+     gave a gasp or two and sat up.
+
+     "'Ah, boys,' said he, forcing a smile, 'I hope I haven't frightened
+     you. Strong as I look, there is a weak place in my heart, and it does
+     not take much to knock me over. I don't know how you manage this, Mr.
+==>      Holmes, but it seems to me that all the detectives of fact and of <==
+     fancy would be children in your hands. That's your line of life, sir,
+     and you may take the word of a man who has seen something of the
+     world.'
+
+     "And that recommendation, with the exaggerated estimate of my ability
+
+[line number in individual story] matching line = 295    window = 290 300
+
+[line number in concatenated text file] matching line = 24406    window = 24401 24411
+
+
+
+     "'Do you know who it was that we let into the house that day?'
+
+     "'I have no idea.'
+
+==>      "'It was the devil, Holmes,' he cried. <==
+
+     "I stared at him in astonishment.
+
+     "'Yes, it was the devil himself. We have not had a peaceful hour
+     since--not one. The governor has never held up his head from that
+
+[line number in individual story] matching line = 309    window = 304 314
+
+[line number in concatenated text file] matching line = 24420    window = 24415 24425
+
+
+     "'What power had he, then?'
+
+     "'Ah, that is what I would give so much to know. The kindly,
+     charitable, good old governor--how could he have fallen into the
+     clutches of such a ruffian! But I am so glad that you have come,
+==>      Holmes. I trust very much to your judgment and discretion, and I know <==
+     that you will advise me for the best.'
+
+     "We were dashing along the smooth white country road, with the long
+     stretch of the Broads in front of us glimmering in the red light of
+     the setting sun. From a grove upon our left I could already see the
+
+[line number in individual story] matching line = 326    window = 321 331
+
+[line number in concatenated text file] matching line = 24437    window = 24432 24442
+
+
+     language. The dad raised their wages all round to recompense them for
+     the annoyance. The fellow would take the boat and my father's best
+     gun and treat himself to little shooting trips. And all this with
+     such a sneering, leering, insolent face that I would have knocked him
+     down twenty times over if he had been a man of my own age. I tell
+==>      you, Holmes, I have had to keep a tight hold upon myself all this <==
+     time; and now I am asking myself whether, if I had let myself go a
+     little more, I might not have been a wiser man.
+
+     "'Well, matters went from bad to worse with us, and this animal
+     Hudson became more and more intrusive, until at last, on making some
+
+[line number in individual story] matching line = 488    window = 483 493
+
+[line number in concatenated text file] matching line = 24599    window = 24594 24604
+
+
+     "'Then it is undoubtedly from him that the note comes,' said I. 'It
+     only remains for us to find out what this secret was which the sailor
+     Hudson seems to have held over the heads of these two wealthy and
+     respected men.'
+
+==>      "'Alas, Holmes, I fear that it is one of sin and shame!' cried my <==
+     friend. 'But from you I shall have no secrets. Here is the statement
+     which was drawn up by my father when he knew that the danger from
+     Hudson had become imminent. I found it in the Japanese cabinet, as he
+     told the doctor. Take it and read it to me, for I have neither the
+     strength nor the courage to do it myself.'
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================= 
+        in.raw out.raw       in.norm             out.norm       ratio.norm        pval         
+ --------------------------------------------------------------------------------------------- 
+ Holmes   8       0    0.0106809078771696           0              Inf     8.9371420844849e-11 
+ fear     3       1    0.00400534045393859 0.000218770509735288   18.308   0.0053456340686176  
+ horror   2       0    0.00267022696929239          0              Inf     0.0132273637460998  
+ myself   4       4    0.00534045393858478 0.000875082038941151   6.103    0.0157465734544364  
+ have     12     34    0.0160213618157543  0.00743819733099978    2.154    0.0324422513934678  
+ --------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The "Gloria Scott""
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 4    window = 1 9
+
+[line number in concatenated text file] matching line = 24115    window = 24112 24120
+
+
+
+     "I have some papers here," said my friend Sherlock Holmes, as we sat
+     one winter's night on either side of the fire, "which I really think,
+==>      Watson, that it would be worth your while to glance over. These are <==
+     the documents in the extraordinary case of the Gloria Scott, and this
+     is the message which struck Justice of the Peace Trevor dead with
+     horror when he read it."
+
+     He had picked from a drawer a little tarnished cylinder, and, undoing
+
+[line number in individual story] matching line = 43    window = 38 48
+
+[line number in concatenated text file] matching line = 24154    window = 24149 24159
+
+
+     arm-chair and spread out the documents upon his knees. Then he lit
+     his pipe and sat for some time smoking and turning them over.
+
+     "You never heard me talk of Victor Trevor?" he asked. "He was the
+     only friend I made during the two years I was at college. I was never
+==>      a very sociable fellow, Watson, always rather fond of moping in my <==
+     rooms and working out my own little methods of thought, so that I
+     never mixed much with the men of my year. Bar fencing and boxing I
+     had few athletic tastes, and then my line of study was quite distinct
+     from that of the other fellows, so that we had no points of contact
+     at all. Trevor was the only man I knew, and that only through the
+
+[line number in individual story] matching line = 147    window = 142 152
+
+[line number in concatenated text file] matching line = 24258    window = 24253 24263
+
+
+
+     "Mr. Trevor stood slowly up, fixed his large blue eyes upon me with a
+     strange wild stare, and then pitched forward, with his face among the
+     nutshells which strewed the cloth, in a dead faint.
+
+==>      "You can imagine, Watson, how shocked both his son and I were. His <==
+     attack did not last long, however, for when we undid his collar, and
+     sprinkled the water from one of the finger-glasses over his face, he
+     gave a gasp or two and sat up.
+
+     "'Ah, boys,' said he, forcing a smile, 'I hope I haven't frightened
+
+[line number in individual story] matching line = 161    window = 156 166
+
+[line number in concatenated text file] matching line = 24272    window = 24267 24277
+
+
+     fancy would be children in your hands. That's your line of life, sir,
+     and you may take the word of a man who has seen something of the
+     world.'
+
+     "And that recommendation, with the exaggerated estimate of my ability
+==>      with which he prefaced it, was, if you will believe me, Watson, the <==
+     very first thing which ever made me feel that a profession might be
+     made out of what had up to that time been the merest hobby. At the
+     moment, however, I was too much concerned at the sudden illness of my
+     host to think of anything else.
+
+
+[line number in individual story] matching line = 281    window = 276 286
+
+[line number in concatenated text file] matching line = 24392    window = 24387 24397
+
+
+     "'Impossible!' I cried. 'What is the matter?'
+
+     "'Apoplexy. Nervous shock, He's been on the verge all day. I doubt if
+     we shall find him alive.'
+
+==>      "I was, as you may think, Watson, horrified at this unexpected news. <==
+
+     "'What has caused it?' I asked.
+
+     "'Ah, that is the point. Jump in and we can talk it over while we
+     drive. You remember that fellow who came upon the evening before you
+
+[line number in individual story] matching line = 495    window = 490 500
+
+[line number in concatenated text file] matching line = 24606    window = 24601 24611
+
+
+     which was drawn up by my father when he knew that the danger from
+     Hudson had become imminent. I found it in the Japanese cabinet, as he
+     told the doctor. Take it and read it to me, for I have neither the
+     strength nor the courage to do it myself.'
+
+==>      "These are the very papers, Watson, which he handed to me, and I will <==
+     read them to you, as I read them in the old study that night to him.
+     They are endorsed outside, as you see, 'Some particulars of the
+     voyage of the bark Gloria Scott, from her leaving Falmouth on the 8th
+     October, 1855, to her destruction in N. Lat. 15Â° 20', W. Long. 25Â°
+     14' on Nov. 6th.' It is in the form of a letter, and runs in this
+
+[line number in individual story] matching line = 813    window = 808 818
+
+[line number in concatenated text file] matching line = 24924    window = 24919 24929
+
+
+     "Underneath is written in a hand so shaky as to be hardly legible,
+     'Beddoes writes in cipher to say H. has told all. Sweet Lord, have
+     mercy on our souls!'
+
+     "That was the narrative which I read that night to young Trevor, and
+==>      I think, Watson, that under the circumstances it was a dramatic one. <==
+     The good fellow was heart-broken at it, and went out to the Terai tea
+     planting, where I hear that he is doing well. As to the sailor and
+     Beddoes, neither of them was ever heard of again after that day on
+     which the letter of warning was written. They both disappeared
+     utterly and completely. No complaint had been lodged with the police,
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================ 
+           in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------ 
+ Watson      7       0    0.00957592339261286          0             Inf     2.54376207459742e-09 
+ read        5       5    0.00683994528043776 0.00113481615978212   6.027    0.00530501672198045  
+ documents   2       0    0.0027359781121751           0             Inf      0.0138758089761529  
+ These       2       0    0.0027359781121751           0             Inf      0.0138758089761529  
+ written     2       0    0.0027359781121751           0             Inf      0.0138758089761529  
+ ------------------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The "Gloria Scott""
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+[line number in individual story] matching line = 14    window = 9 19
+
+[line number in concatenated text file] matching line = 24125    window = 24120 24130
+
+
+     He had picked from a drawer a little tarnished cylinder, and, undoing
+     the tape, he handed me a short note scrawled upon a half-sheet of
+     slate gray-paper.
+
+     "The supply of game for London is going steadily up," it ran.
+==>      "Head-keeper Hudson, we believe, has been now told to receive all <==
+     orders for fly-paper and for preservation of your hen-pheasant's
+     life."
+
+     As I glanced up from reading this enigmatical message, I saw Holmes
+     chuckling at the expression upon my face.
+
+[line number in individual story] matching line = 229    window = 224 234
+
+[line number in concatenated text file] matching line = 24340    window = 24335 24345
+
+
+     "The sailor stood looking at him with puckered eyes, and with the
+     same loose-lipped smile upon his face.
+
+     "'You don't know me?' he asked.
+
+==>      "'Why, dear me, it is surely Hudson,' said Mr. Trevor in a tone of <==
+     surprise.
+
+     "'Hudson it is, sir,' said the seaman. 'Why, it's thirty year and
+     more since I saw you last. Here you are in your house, and me still
+     picking my salt meat out of the harness cask.'
+
+[line number in individual story] matching line = 232    window = 227 237
+
+[line number in concatenated text file] matching line = 24343    window = 24338 24348
+
+
+     "'You don't know me?' he asked.
+
+     "'Why, dear me, it is surely Hudson,' said Mr. Trevor in a tone of
+     surprise.
+
+==>      "'Hudson it is, sir,' said the seaman. 'Why, it's thirty year and <==
+     more since I saw you last. Here you are in your house, and me still
+     picking my salt meat out of the harness cask.'
+
+     "'Tut, you will find that I have not forgotten old times,' cried Mr.
+     Trevor, and, walking towards the sailor, he said something in a low
+
+[line number in individual story] matching line = 302    window = 297 307
+
+[line number in concatenated text file] matching line = 24413    window = 24408 24418
+
+
+     "I stared at him in astonishment.
+
+     "'Yes, it was the devil himself. We have not had a peaceful hour
+     since--not one. The governor has never held up his head from that
+     evening, and now the life has been crushed out of him and his heart
+==>      broken, all through this accursed Hudson.' <==
+
+     "'What power had he, then?'
+
+     "'Ah, that is what I would give so much to know. The kindly,
+     charitable, good old governor--how could he have fallen into the
+
+[line number in individual story] matching line = 331    window = 326 336
+
+[line number in concatenated text file] matching line = 24442    window = 24437 24447
+
+
+     you, Holmes, I have had to keep a tight hold upon myself all this
+     time; and now I am asking myself whether, if I had let myself go a
+     little more, I might not have been a wiser man.
+
+     "'Well, matters went from bad to worse with us, and this animal
+==>      Hudson became more and more intrusive, until at last, on making some <==
+     insolent reply to my father in my presence one day, I took him by the
+     shoulders and turned him out of the room. He slunk away with a livid
+     face and two venomous eyes which uttered more threats than his tongue
+     could do. I don't know what passed between the poor dad and him after
+     that, but the dad came to me next day and asked me whether I would
+
+[line number in individual story] matching line = 337    window = 332 342
+
+[line number in concatenated text file] matching line = 24448    window = 24443 24453
+
+
+     insolent reply to my father in my presence one day, I took him by the
+     shoulders and turned him out of the room. He slunk away with a livid
+     face and two venomous eyes which uttered more threats than his tongue
+     could do. I don't know what passed between the poor dad and him after
+     that, but the dad came to me next day and asked me whether I would
+==>      mind apologizing to Hudson. I refused, as you can imagine, and asked <==
+     my father how he could allow such a wretch to take such liberties
+     with himself and his household.
+
+     "'"Ah, my boy," said he, "it is all very well to talk, but you don't
+     know how I am placed. But you shall know, Victor. I'll see that you
+
+[line number in individual story] matching line = 349    window = 344 354
+
+[line number in concatenated text file] matching line = 24460    window = 24455 24465
+
+
+     father, would you, lad?" He was very much moved, and shut himself up
+     in the study all day, where I could see through the window that he
+     was writing busily.
+
+     "'That evening there came what seemed to me to be a grand release,
+==>      for Hudson told us that he was going to leave us. He walked into the <==
+     dining-room as we sat after dinner, and announced his intention in
+     the thick voice of a half-drunken man.
+
+     "'"I've had enough of Norfolk," said he. "I'll run down to Mr.
+     Beddoes in Hampshire. He'll be as glad to see me as you were, I dare
+
+[line number in individual story] matching line = 357    window = 352 362
+
+[line number in concatenated text file] matching line = 24468    window = 24463 24473
+
+
+
+     "'"I've had enough of Norfolk," said he. "I'll run down to Mr.
+     Beddoes in Hampshire. He'll be as glad to see me as you were, I dare
+     say."
+
+==>      "'"You're not going away in any kind of spirit, Hudson, I hope," said <==
+     my father, with a tameness which mad my blood boil.
+
+     "'"I've not had my 'pology," said he sulkily, glancing in my
+     direction.
+
+
+[line number in individual story] matching line = 423    window = 418 428
+
+[line number in concatenated text file] matching line = 24534    window = 24529 24539
+
+
+     too, should he faint at an allusion to the half-effaced initials upon
+     his arm, and die of fright when he had a letter from Fordingham? 
+     Then I remembered that Fordingham was in Hampshire, and that this Mr.
+     Beddoes, whom the seaman had gone to visit and presumably to
+     blackmail, had also been mentioned as living in Hampshire. The
+==>      letter, then, might either come from Hudson, the seaman, saying that <==
+     he had betrayed the guilty secret which appeared to exist, or it
+     might come from Beddoes, warning an old confederate that such a
+     betrayal was imminent. So far it seemed clear enough. But then how
+     could this letter be trivial and grotesque, as described by the son? 
+     He must have misread it. If so, it must have been one of those
+
+[line number in individual story] matching line = 438    window = 433 443
+
+[line number in concatenated text file] matching line = 24549    window = 24544 24554
+
+
+     in a lamp, and close at her heels came my friend Trevor, pale but
+     composed, with these very papers which lie upon my knee held in his
+     grasp. He sat down opposite to me, drew the lamp to the edge of the
+     table, and handed me a short note scribbled, as you see, upon a
+     single sheet of gray paper. 'The supply of game for London is going
+==>      steadily up,' it ran. 'Head-keeper Hudson, we believe, has been now <==
+     told to receive all orders for fly-paper and for preservation of your
+     hen-pheasant's life.'
+
+     "I dare say my face looked as bewildered as yours did just now when
+     first I read this message. Then I reread it very carefully. It was
+
+[line number in individual story] matching line = 449    window = 444 454
+
+[line number in concatenated text file] matching line = 24560    window = 24555 24565
+
+
+     evidently as I had thought, and some secret meaning must lie buried
+     in this strange combination of words. Or could it be that there was a
+     prearranged significance to such phrases as 'fly-paper' and
+     'hen-pheasant'?  Such a meaning would be arbitrary and could not be
+     deduced in any way. And yet I was loath to believe that this was the
+==>      case, and the presence of the word Hudson seemed to show that the <==
+     subject of the message was as I had guessed, and that it was from
+     Beddoes rather than the sailor. I tried it backwards, but the
+     combination 'life pheasant's hen' was not encouraging. Then I tried
+     alternate words, but neither 'the of for' nor 'supply game London'
+     promised to throw any light upon it.
+
+[line number in individual story] matching line = 463    window = 458 468
+
+[line number in concatenated text file] matching line = 24574    window = 24569 24579
+
+
+     message which might well drive old Trevor to despair.
+
+     "It was short and terse, the warning, as I now read it to my
+     companion:
+
+==>      "'The game is up. Hudson has told all. Fly for your life.' <==
+
+     "Victor Trevor sank his face into his shaking hands, 'It must be
+     that, I suppose,' said he. "This is worse than death, for it means
+     disgrace as well. But what is the meaning of these "head-keepers" and
+     "hen-pheasants"?
+
+[line number in individual story] matching line = 485    window = 480 490
+
+[line number in concatenated text file] matching line = 24596    window = 24591 24601
+
+
+     father used to have an invitation from him to shoot over his
+     preserves every autumn.'
+
+     "'Then it is undoubtedly from him that the note comes,' said I. 'It
+     only remains for us to find out what this secret was which the sailor
+==>      Hudson seems to have held over the heads of these two wealthy and <==
+     respected men.'
+
+     "'Alas, Holmes, I fear that it is one of sin and shame!' cried my
+     friend. 'But from you I shall have no secrets. Here is the statement
+     which was drawn up by my father when he knew that the danger from
+
+[line number in individual story] matching line = 491    window = 486 496
+
+[line number in concatenated text file] matching line = 24602    window = 24597 24607
+
+
+     respected men.'
+
+     "'Alas, Holmes, I fear that it is one of sin and shame!' cried my
+     friend. 'But from you I shall have no secrets. Here is the statement
+     which was drawn up by my father when he knew that the danger from
+==>      Hudson had become imminent. I found it in the Japanese cabinet, as he <==
+     told the doctor. Take it and read it to me, for I have neither the
+     strength nor the courage to do it myself.'
+
+     "These are the very papers, Watson, which he handed to me, and I will
+     read them to you, as I read them in the old study that night to him.
+
+[line number in individual story] matching line = 765    window = 760 770
+
+[line number in concatenated text file] matching line = 24876    window = 24871 24881
+
+
+     number of crates and fragments of spars rising and falling on the
+     waves showed us where the vessel had foundered; but there was no sign
+     of life, and we had turned away in despair when we heard a cry for
+     help, and saw at some distance a piece of wreckage with a man lying
+     stretched across it. When we pulled him aboard the boat he proved to
+==>      be a young seaman of the name of Hudson, who was so burned and <==
+     exhausted that he could give us no account of what had happened until
+     the following morning.
+
+     "'It seemed that after we had left, Prendergast and his gang had
+     proceeded to put to death the five remaining prisoners. The two
+
+[line number in individual story] matching line = 782    window = 777 787
+
+[line number in concatenated text file] matching line = 24893    window = 24888 24898
+
+
+     rushing down the deck he plunged into the after-hold. A dozen
+     convicts, who descended with their pistols in search of him, found
+     him with a match-box in his hand seated beside an open powder-barrel,
+     which was one of a hundred carried on board, and swearing that he
+     would blow all hands up if he were in any way molested. An instant
+==>      later the explosion occurred, though Hudson thought it was caused by <==
+     the misdirected bullet of one of the convicts rather than the mate's
+     match. Be the cause what I may, it was the end of the Gloria Scott
+     and of the rabble who held command of her.
+
+     "'Such, in a few words, my dear boy, is the history of this terrible
+
+[line number in individual story] matching line = 819    window = 814 824
+
+[line number in concatenated text file] matching line = 24930    window = 24925 24935
+
+
+     The good fellow was heart-broken at it, and went out to the Terai tea
+     planting, where I hear that he is doing well. As to the sailor and
+     Beddoes, neither of them was ever heard of again after that day on
+     which the letter of warning was written. They both disappeared
+     utterly and completely. No complaint had been lodged with the police,
+==>      so that Beddoes had mistaken a threat for a deed. Hudson had been <==
+     seen lurking about, and it was believed by the police that he had
+     done away with Beddoes and had fled. For myself I believe that the
+     truth was exactly the opposite. I think that it is most probable that
+     Beddoes, pushed to desperation and believing himself to have been
+     already betrayed, had revenged himself upon Hudson, and had fled from
+
+[line number in individual story] matching line = 824    window = 819 829
+
+[line number in concatenated text file] matching line = 24935    window = 24930 24940
+
+
+     so that Beddoes had mistaken a threat for a deed. Hudson had been
+     seen lurking about, and it was believed by the police that he had
+     done away with Beddoes and had fled. For myself I believe that the
+     truth was exactly the opposite. I think that it is most probable that
+     Beddoes, pushed to desperation and believing himself to have been
+==>      already betrayed, had revenged himself upon Hudson, and had fled from <==
+     the country with as much money as he could lay his hands on. Those
+     are the facts of the case, Doctor, and if they are of any use to your
+     collection, I am sure that they are very heartily at your service."
+
+
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================= 
+           in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------- 
+ Hudson      18      0    0.0108564535585042           0              Inf     2.25337550031717e-11 
+ hen         5       0    0.00301568154402895          0              Inf     0.00158689971577546  
+ Beddoes     8       4    0.00482509047044632 0.000900698040981761   5.357    0.00591664116076979  
+ held        4       0    0.00241254523522316          0              Inf     0.00668337007364374  
+ pheasant    4       0    0.00241254523522316          0              Inf     0.00668337007364374  
+ paper       5       1    0.00301568154402895 0.00022517451024544    13.393   0.00844372257869309  
+ sailor      5       1    0.00301568154402895 0.00022517451024544    13.393   0.00844372257869309  
+ fly         3       0    0.00180940892641737          0              Inf      0.0287854825596098  
+ Hampshire   3       0    0.00180940892641737          0              Inf      0.0287854825596098  
+ neither     3       0    0.00180940892641737          0              Inf      0.0287854825596098  
+ note        3       0    0.00180940892641737          0              Inf      0.0287854825596098  
+ supply      3       0    0.00180940892641737          0              Inf      0.0287854825596098  
+ game        4       1    0.00241254523522316 0.00022517451024544    10.714    0.0313408203964277  
+ life        6       4    0.00361881785283474 0.000900698040981761   4.018     0.0478576001334059  
+ ------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The "Gloria Scott""
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

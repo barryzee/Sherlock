@@ -1,0 +1,60 @@
+A Study In Scarlet	43167	0.000000
+The Sign of the Four	42915	0.000140
+A Scandal in Bohemia	8512	0.000000
+The Red-Headed League	9098	0.000000
+A Case of Identity	6971	0.000000
+The Boscombe Valley Mystery	9614	0.000000
+The Five Orange Pips	7312	0.000140
+The Man with the Twisted Lip	9192	0.000000
+The Adventure of the Blue Carbuncle	7805	0.000130
+The Adventure of the Speckled Band	9801	0.000200
+The Adventure of the Engineer's Thumb	8281	0.000000
+The Adventure of the Noble Bachelor	8100	0.000000
+The Adventure of the Beryl Coronet	9674	0.000000
+The Adventure of the Copper Beeches	9943	0.000000
+Silver Blaze	9573	0.000000
+The Yellow Face	7497	0.000000
+The Stock-Broker's Clerk	6782	0.000000
+The "Gloria Scott"	7835	0.002300
+The Musgrave Ritual	7568	0.000000
+The Reigate Squires	7196	0.000000
+The Crooked Man	7126	0.000420
+The Resident Patient	6607	0.000000
+The Greek Interpreter	6996	0.000000
+The Naval Treaty	12603	0.000160
+The Final Problem	7155	0.000000
+The Adventure of the Empty House	8689	0.000690
+The Adventure of the Norwood Builder	9213	0.000000
+The Adventure of the Dancing Men	9702	0.000100
+The Adventure of the Solitary Cyclist	7824	0.000000
+The Adventure of the Priory School	11458	0.000000
+The Adventure of Black Peter	8098	0.000250
+The Adventure of Charles Augustus Milverton	6699	0.000000
+The Adventure of the Six Napoleons	8319	0.001080
+The Adventure of the Three Students	6456	0.000000
+The Adventure of the Golden Pince-Nez	8921	0.000000
+The Adventure of the Missing Three-Quarter	8011	0.000000
+The Adventure of the Abbey Grange	9141	0.000000
+The Adventure of the Second Stain	9621	0.000100
+The Hound of the Baskervilles	59015	0.000000
+The Valley Of Fear	57480	0.000020
+The Adventure of Wisteria Lodge	11375	0.000180
+The Adventure of the Cardboard Box	8510	0.000000
+The Adventure of the Red Circle	7277	0.000000
+The Adventure of the Bruce-Partington Plans	10668	0.000000
+The Adventure of the Dying Detective	5769	0.000690
+The Disappearance of Lady Frances Carfax	7665	0.000130
+The Adventure of the Devil's Foot	9968	0.000000
+His Last Bow	6054	0.000000
+The Illustrious Client	9731	0.000000
+The Blanched Soldier	7705	0.000000
+The Adventure Of The Mazarin Stone	5639	0.000350
+The Adventure of the Three Gables	6039	0.000000
+The Adventure of the Sussex Vampire	5957	0.000000
+The Adventure of the Three Garridebs	6184	0.000160
+The Problem of Thor Bridge	9569	0.000000
+The Adventure of the Creeping Man	7646	0.000000
+The Adventure of the Lion's Mane	7171	0.000000
+The Adventure of the Veiled Lodger	4457	0.000000
+The Adventure of Shoscombe Old Place	6230	0.000000
+The Adventure of the Retired Colourman	5498	0.000000

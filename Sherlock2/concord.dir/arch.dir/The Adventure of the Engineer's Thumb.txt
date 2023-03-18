@@ -1,0 +1,336 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Engineer's Thumb"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 3    window = 1 8
+
+[line number in concatenated text file] matching line = 17226    window = 17224 17231
+
+
+
+     Of all the problems which have been submitted to my friend, Mr.
+==>      Sherlock Holmes, for solution during the years of our intimacy, there <==
+     were only two which I was the means of introducing to his
+     notice--that of Mr. Hatherley's thumb, and that of Colonel
+     Warburton's madness. Of these the latter may have afforded a finer
+     field for an acute and original observer, but the other was so
+     strange in its inception and so dramatic in its details that it may
+
+[line number in individual story] matching line = 22    window = 17 27
+
+[line number in concatenated text file] matching line = 17245    window = 17240 17250
+
+
+     At the time the circumstances made a deep impression upon me, and the
+     lapse of two years has hardly served to weaken the effect.
+
+     It was in the summer of '89, not long after my marriage, that the
+     events occurred which I am now about to summarise. I had returned to
+==>      civil practice and had finally abandoned Holmes in his Baker Street <==
+     rooms, although I continually visited him and occasionally even
+     persuaded him to forgo his Bohemian habits so far as to come and
+     visit us. My practice had steadily increased, and as I happened to
+     live at no very great distance from Paddington Station, I got a few
+     patients from among the officials. One of these, whom I had cured of
+
+[line number in individual story] matching line = 150    window = 145 155
+
+[line number in concatenated text file] matching line = 17373    window = 17368 17378
+
+
+     clues which I can give them are so vague that it is a question
+     whether justice will be done."
+
+     "Ha!" cried I, "if it is anything in the nature of a problem which
+     you desire to see solved, I should strongly recommend you to come to
+==>      my friend, Mr. Sherlock Holmes, before you go to the official <==
+     police."
+
+     "Oh, I have heard of that fellow," answered my visitor, "and I should
+     be very glad if he would take the matter up, though of course I must
+     use the official police as well. Would you give me an introduction to
+
+[line number in individual story] matching line = 172    window = 167 177
+
+[line number in concatenated text file] matching line = 17395    window = 17390 17400
+
+
+     "Then my servant will call a cab, and I shall be with you in an
+     instant." I rushed upstairs, explained the matter shortly to my wife,
+     and in five minutes was inside a hansom, driving with my new
+     acquaintance to Baker Street.
+
+==>      Sherlock Holmes was, as I expected, lounging about his sitting-room <==
+     in his dressing-gown, reading the agony column of The Times and
+     smoking his before-breakfast pipe, which was composed of all the
+     plugs and dottles left from his smokes of the day before, all
+     carefully dried and collected on the corner of the mantelpiece. He
+     received us in his quietly genial fashion, ordered fresh rashers and
+
+[line number in individual story] matching line = 192    window = 187 197
+
+[line number in concatenated text file] matching line = 17415    window = 17410 17420
+
+
+     "Thank you," said my patient. "but I have felt another man since the
+     doctor bandaged me, and I think that your breakfast has completed the
+     cure. I shall take up as little of your valuable time as possible, so
+     I shall start at once upon my peculiar experiences."
+
+==>      Holmes sat in his big armchair with the weary, heavy-lidded <==
+     expression which veiled his keen and eager nature, while I sat
+     opposite to him, and we listened in silence to the strange story
+     which our visitor detailed to us.
+
+     "You must know," said he, "that I am an orphan and a bachelor,
+
+[line number in individual story] matching line = 413    window = 408 418
+
+[line number in concatenated text file] matching line = 17636    window = 17631 17641
+
+
+     waiting in the shadow upon the other side. Without a word he grasped
+     my arm and hurried me into a carriage, the door of which was standing
+     open. He drew up the windows on either side, tapped on the wood-work,
+     and away we went as fast as the horse could go."
+
+==>      "One horse?" interjected Holmes. <==
+
+     "Yes, only one."
+
+     "Did you observe the colour?"
+
+
+[line number in individual story] matching line = 740    window = 735 745
+
+[line number in concatenated text file] matching line = 17963    window = 17958 17968
+
+
+     wound dressed, and then the doctor was kind enough to bring me along
+     here. I put the case into your hands and shall do exactly what you
+     advise."
+
+     We both sat in silence for some little time after listening to this
+==>      extraordinary narrative. Then Sherlock Holmes pulled down from the <==
+     shelf one of the ponderous commonplace books in which he placed his
+     cuttings.
+
+     "Here is an advertisement which will interest you," said he. "It
+     appeared in all the papers about a year ago. Listen to this:
+
+[line number in individual story] matching line = 766    window = 761 771
+
+[line number in concatenated text file] matching line = 17989    window = 17984 17994
+
+
+     now is precious, so if you feel equal to it we shall go down to
+     Scotland Yard at once as a preliminary to starting for Eyford."
+
+     Some three hours or so afterwards we were all in the train together,
+     bound from Reading to the little Berkshire village. There were
+==>      Sherlock Holmes, the hydraulic engineer, Inspector Bradstreet, of <==
+     Scotland Yard, a plain-clothes man, and myself. Bradstreet had spread
+     an ordnance map of the county out upon the seat and was busy with his
+     compasses drawing a circle with Eyford for its centre.
+
+     "There you are," said he. "That circle is drawn at a radius of ten
+
+[line number in individual story] matching line = 794    window = 789 799
+
+[line number in concatenated text file] matching line = 18017    window = 18012 18022
+
+
+
+     "Oh, we shall soon clear up all that," said Bradstreet. "Well, I have
+     drawn my circle, and I only wish I knew at what point upon it the
+     folk that we are in search of are to be found."
+
+==>      "I think I could lay my finger on it," said Holmes quietly. <==
+
+     "Really, now!" cried the inspector, "you have formed your opinion!
+     Come, now, we shall see who agrees with you. I say it is south, for
+     the country is more deserted there."
+
+
+[line number in individual story] matching line = 829    window = 824 834
+
+[line number in concatenated text file] matching line = 18052    window = 18047 18057
+
+
+
+     "Indeed, it is a likely ruse enough," observed Bradstreet
+     thoughtfully. "Of course there can be no doubt as to the nature of
+     this gang."
+
+==>      "None at all," said Holmes. "They are coiners on a large scale, and <==
+     have used the machine to form the amalgam which has taken the place
+     of silver."
+
+     "We have known for some time that a clever gang was at work," said
+     the inspector. "They have been turning out half-crowns by the
+
+[line number in individual story] matching line = 879    window = 874 884
+
+[line number in concatenated text file] matching line = 18102    window = 18097 18107
+
+
+
+     "That's it!" cried Hatherley, in intense excitement. "There is the
+     gravel-drive, and there are the rose-bushes where I lay. That second
+     window is the one that I jumped from."
+
+==>      "Well, at least," said Holmes, "you have had your revenge upon them. <==
+     There can be no question that it was your oil-lamp which, when it was
+     crushed in the press, set fire to the wooden walls, though no doubt
+     they were too excited in the chase after you to observe it at the
+     time. Now keep your eyes open in this crowd for your friends of last
+     night, though I very much fear that they are a good hundred miles off
+
+[line number in individual story] matching line = 887    window = 882 892
+
+[line number in concatenated text file] matching line = 18110    window = 18105 18115
+
+
+     they were too excited in the chase after you to observe it at the
+     time. Now keep your eyes open in this crowd for your friends of last
+     night, though I very much fear that they are a good hundred miles off
+     by now."
+
+==>      And Holmes' fears came to be realised, for from that day to this no <==
+     word has ever been heard either of the beautiful woman, the sinister
+     German, or the morose Englishman. Early that morning a peasant had
+     met a cart containing several people and some very bulky boxes
+     driving rapidly in the direction of Reading, but there all traces of
+     the fugitives disappeared, and even Holmes' ingenuity failed ever to
+
+[line number in individual story] matching line = 892    window = 887 897
+
+[line number in concatenated text file] matching line = 18115    window = 18110 18120
+
+
+     And Holmes' fears came to be realised, for from that day to this no
+     word has ever been heard either of the beautiful woman, the sinister
+     German, or the morose Englishman. Early that morning a peasant had
+     met a cart containing several people and some very bulky boxes
+     driving rapidly in the direction of Reading, but there all traces of
+==>      the fugitives disappeared, and even Holmes' ingenuity failed ever to <==
+     discover the least clue as to their whereabouts.
+
+     The firemen had been much perturbed at the strange arrangements which
+     they had found within, and still more so by discovering a newly
+     severed human thumb upon a window-sill of the second floor. About
+
+[line number in individual story] matching line = 922    window = 917 927
+
+[line number in concatenated text file] matching line = 18145    window = 18140 18150
+
+
+     "Well," said our engineer ruefully as we took our seats to return
+     once more to London, "it has been a pretty business for me! I have
+     lost my thumb and I have lost a fifty-guinea fee, and what have I
+     gained?"
+
+==>      "Experience," said Holmes, laughing. "Indirectly it may be of value, <==
+     you know; you have only to put it into words to gain the reputation
+     of being excellent company for the remainder of your existence."
+
+
+
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================== 
+            in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ -------------------------------------------------------------------------------------------------- 
+ Holmes       14      0     0.011336032388664           0              Inf     1.96414892419515e-12 
+ Sherlock     5       0    0.00404858299595142          0              Inf     0.000119918314895539 
+ Bradstreet   4       1    0.00323886639676113 0.000209292591042277   15.475   0.00616587418239956  
+ Of           3       0    0.00242914979757085          0              Inf     0.00708268829772927  
+ circle       3       1    0.00242914979757085 0.000209292591042277   11.606    0.0377044378111654  
+ sat          3       1    0.00242914979757085 0.000209292591042277   11.606    0.0377044378111654  
+ -------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Engineer's Thumb"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Engineer's Thumb"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Engineer's Thumb"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

@@ -1,0 +1,658 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Beryl Coronet"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 19158    window = 19157 19163
+
+
+
+==>      "Holmes," said I as I stood one morning in our bow-window looking <==
+     down the street, "here is a madman coming along. It seems rather sad
+     that his relatives should allow him to come out alone."
+
+     My friend rose lazily from his armchair and stood with his hands in
+     the pockets of his dressing-gown, looking over my shoulder. It was a
+
+[line number in individual story] matching line = 31    window = 26 36
+
+[line number in concatenated text file] matching line = 19187    window = 19182 19192
+
+
+     his face into the most extraordinary contortions.
+
+     "What on earth can be the matter with him?" I asked. "He is looking
+     up at the numbers of the houses."
+
+==>      "I believe that he is coming here," said Holmes, rubbing his hands. <==
+
+     "Here?"
+
+     "Yes; I rather think he is coming to consult me professionally. I
+     think that I recognise the symptoms. Ha! did I not tell you?" As he
+
+[line number in individual story] matching line = 47    window = 42 52
+
+[line number in concatenated text file] matching line = 19203    window = 19198 19208
+
+
+     eyes that our smiles were turned in an instant to horror and pity.
+     For a while he could not get his words out, but swayed his body and
+     plucked at his hair like one who has been driven to the extreme
+     limits of his reason. Then, suddenly springing to his feet, he beat
+     his head against the wall with such force that we both rushed upon
+==>      him and tore him away to the centre of the room. Sherlock Holmes <==
+     pushed him down into the easy-chair and, sitting beside him, patted
+     his hand and chatted with him in the easy, soothing tones which he
+     knew so well how to employ.
+
+     "You have come to me to tell your story, have you not?" said he. "You
+
+[line number in individual story] matching line = 63    window = 58 68
+
+[line number in concatenated text file] matching line = 19219    window = 19214 19224
+
+
+     against his emotion. Then he passed his handkerchief over his brow,
+     set his lips tight, and turned his face towards us.
+
+     "No doubt you think me mad?" said he.
+
+==>      "I see that you have had some great trouble," responded Holmes. <==
+
+     "God knows I have!--a trouble which is enough to unseat my reason, so
+     sudden and so terrible is it. Public disgrace I might have faced,
+     although I am a man whose character has never yet borne a stain.
+     Private affliction also is the lot of every man; but the two coming
+
+[line number in individual story] matching line = 73    window = 68 78
+
+[line number in concatenated text file] matching line = 19229    window = 19224 19234
+
+
+     Private affliction also is the lot of every man; but the two coming
+     together, and in so frightful a form, have been enough to shake my
+     very soul. Besides, it is not I alone. The very noblest in the land
+     may suffer unless some way be found out of this horrible affair."
+
+==>      "Pray compose yourself, sir," said Holmes, "and let me have a clear <==
+     account of who you are and what it is that has befallen you."
+
+     "My name," answered our visitor, "is probably familiar to your ears.
+     I am Alexander Holder, of the banking firm of Holder & Stevenson, of
+     Threadneedle Street."
+
+[line number in individual story] matching line = 199    window = 194 204
+
+[line number in concatenated text file] matching line = 19355    window = 19350 19360
+
+
+     my reach. With this intention, I called a cab and drove out to my
+     house at Streatham, carrying the jewel with me. I did not breathe
+     freely until I had taken it upstairs and locked it in the bureau of
+     my dressing-room.
+
+==>      "And now a word as to my household, Mr. Holmes, for I wish you to <==
+     thoroughly understand the situation. My groom and my page sleep out
+     of the house, and may be set aside altogether. I have three
+     maid-servants who have been with me a number of years and whose
+     absolute reliability is quite above suspicion. Another, Lucy Parr,
+     the second waiting-maid, has only been in my service a few months.
+
+[line number in individual story] matching line = 213    window = 208 218
+
+[line number in concatenated text file] matching line = 19369    window = 19364 19374
+
+
+     which we have found to her, but we believe her to be a thoroughly
+     good girl in every way.
+
+     "So much for the servants. My family itself is so small that it will
+     not take me long to describe it. I am a widower and have an only son,
+==>      Arthur. He has been a disappointment to me, Mr. Holmes--a grievous <==
+     disappointment. I have no doubt that I am myself to blame. People
+     tell me that I have spoiled him. Very likely I have. When my dear
+     wife died I felt that he was all I had to love. I could not bear to
+     see the smile fade even for a moment from his face. I have never
+     denied him a wish. Perhaps it would have been better for both of us
+
+[line number in individual story] matching line = 260    window = 255 265
+
+[line number in concatenated text file] matching line = 19416    window = 19411 19421
+
+
+     but each time she has refused him. I think that if anyone could have
+     drawn him into the right path it would have been she, and that his
+     marriage might have changed his whole life; but now, alas! it is too
+     late--forever too late!
+
+==>      "Now, Mr. Holmes, you know the people who live under my roof, and I <==
+     shall continue with my miserable story.
+
+     "When we were taking coffee in the drawing-room that night after
+     dinner, I told Arthur and Mary my experience, and of the precious
+     treasure which we had under our roof, suppressing only the name of my
+
+[line number in individual story] matching line = 331    window = 326 336
+
+[line number in concatenated text file] matching line = 19487    window = 19482 19492
+
+
+     "'Quite sure, dad.'
+
+     "'Then, good-night.' I kissed her and went up to my bedroom again,
+     where I was soon asleep.
+
+==>      "I am endeavouring to tell you everything, Mr. Holmes, which may have <==
+     any bearing upon the case, but I beg that you will question me upon
+     any point which I do not make clear."
+
+     "On the contrary, your statement is singularly lucid."
+
+
+[line number in individual story] matching line = 433    window = 428 438
+
+[line number in concatenated text file] matching line = 19589    window = 19584 19594
+
+
+
+     He put a hand on either side of his head and rocked himself to and
+     fro, droning to himself like a child whose grief has got beyond
+     words.
+
+==>      Sherlock Holmes sat silent for some few minutes, with his brows <==
+     knitted and his eyes fixed upon the fire.
+
+     "Do you receive much company?" he asked.
+
+     "None save my partner with his family and an occasional friend of
+
+[line number in individual story] matching line = 493    window = 488 498
+
+[line number in concatenated text file] matching line = 19649    window = 19644 19654
+
+
+     "Have they thought of looking outside the house?"
+
+     "Yes, they have shown extraordinary energy. The whole garden has
+     already been minutely examined."
+
+==>      "Now, my dear sir," said Holmes. "is it not obvious to you now that <==
+     this matter really strikes very much deeper than either you or the
+     police were at first inclined to think? It appeared to you to be a
+     simple case; to me it seems exceedingly complex. Consider what is
+     involved by your theory. You suppose that your son came down from his
+     bed, went, at great risk, to your dressing-room, opened your bureau,
+
+[line number in individual story] matching line = 510    window = 505 515
+
+[line number in concatenated text file] matching line = 19666    window = 19661 19671
+
+
+
+     "But what other is there?" cried the banker with a gesture of
+     despair. "If his motives were innocent, why does he not explain
+     them?"
+
+==>      "It is our task to find that out," replied Holmes; "so now, if you <==
+     please, Mr. Holder, we will set off for Streatham together, and
+     devote an hour to glancing a little more closely into details."
+
+     My friend insisted upon my accompanying them in their expedition,
+     which I was eager enough to do, for my curiosity and sympathy were
+
+[line number in individual story] matching line = 518    window = 513 523
+
+[line number in concatenated text file] matching line = 19674    window = 19669 19679
+
+
+
+     My friend insisted upon my accompanying them in their expedition,
+     which I was eager enough to do, for my curiosity and sympathy were
+     deeply stirred by the story to which we had listened. I confess that
+     the guilt of the banker's son appeared to me to be as obvious as it
+==>      did to his unhappy father, but still I had such faith in Holmes' <==
+     judgment that I felt that there must be some grounds for hope as long
+     as he was dissatisfied with the accepted explanation. He hardly spoke
+     a word the whole way out to the southern suburb, but sat with his
+     chin upon his breast and his hat drawn over his eyes, sunk in the
+     deepest thought. Our client appeared to have taken fresh heart at the
+
+[line number in individual story] matching line = 537    window = 532 542
+
+[line number in concatenated text file] matching line = 19693    window = 19688 19698
+
+
+     the entrance. On the right side was a small wooden thicket, which led
+     into a narrow path between two neat hedges stretching from the road
+     to the kitchen door, and forming the tradesmen's entrance. On the
+     left ran a lane which led to the stables, and was not itself within
+     the grounds at all, being a public, though little used, thoroughfare.
+==>      Holmes left us standing at the door and walked slowly all round the <==
+     house, across the front, down the tradesmen's path, and so round by
+     the garden behind into the stable lane. So long was he that Mr.
+     Holder and I went into the dining-room and waited by the fire until
+     he should return. We were sitting there in silence when the door
+     opened and a young lady came in. She was rather above the middle
+
+[line number in individual story] matching line = 591    window = 586 596
+
+[line number in concatenated text file] matching line = 19747    window = 19742 19752
+
+
+     find there? Ah! this, I suppose, is he. I trust, sir, that you will
+     succeed in proving, what I feel sure is the truth, that my cousin
+     Arthur is innocent of this crime."
+
+     "I fully share your opinion, and I trust, with you, that we may prove
+==>      it," returned Holmes, going back to the mat to knock the snow from <==
+     his shoes. "I believe I have the honour of addressing Miss Mary
+     Holder. Might I ask you a question or two?"
+
+     "Pray do, sir, if it may help to clear this horrible affair up."
+
+
+[line number in individual story] matching line = 636    window = 631 641
+
+[line number in concatenated text file] matching line = 19792    window = 19787 19797
+
+
+     "Do you know him?"
+
+     "Oh, yes! he is the green-grocer who brings our vegetables round. 
+     His name is Francis Prosper."
+
+==>      "He stood," said Holmes, "to the left of the door--that is to say, <==
+     farther up the path than is necessary to reach the door?"
+
+     "Yes, he did."
+
+     "And he is a man with a wooden leg?"
+
+[line number in individual story] matching line = 645    window = 640 650
+
+[line number in concatenated text file] matching line = 19801    window = 19796 19806
+
+
+
+     "And he is a man with a wooden leg?"
+
+     Something like fear sprang up in the young lady's expressive black
+     eyes. "Why, you are like a magician," said she. "How do you know
+==>      that?" She smiled, but there was no answering smile in Holmes' thin, <==
+     eager face.
+
+     "I should be very glad now to go upstairs," said he. "I shall
+     probably wish to go over the outside of the house again. Perhaps I
+     had better take a look at the lower windows before I go up."
+
+[line number in individual story] matching line = 659    window = 654 664
+
+[line number in concatenated text file] matching line = 19815    window = 19810 19820
+
+
+     opened and made a very careful examination of the sill with his
+     powerful magnifying lens. "Now we shall go upstairs," said he at
+     last.
+
+     The banker's dressing-room was a plainly furnished little chamber,
+==>      with a grey carpet, a large bureau, and a long mirror. Holmes went to <==
+     the bureau first and looked hard at the lock.
+
+     "Which key was used to open it?" he asked.
+
+     "That which my son himself indicated--that of the cupboard of the
+
+[line number in individual story] matching line = 671    window = 666 676
+
+[line number in concatenated text file] matching line = 19827    window = 19822 19832
+
+
+
+     "Have you it here?"
+
+     "That is it on the dressing-table."
+
+==>      Sherlock Holmes took it up and opened the bureau. <==
+
+     "It is a noiseless lock," said he. "It is no wonder that it did not
+     wake you. This case, I presume, contains the coronet. We must have a
+     look at it." He opened the case, and taking out the diadem he laid it
+     upon the table. It was a magnificent specimen of the jeweller's art,
+
+[line number in individual story] matching line = 681    window = 676 686
+
+[line number in concatenated text file] matching line = 19837    window = 19832 19842
+
+
+     upon the table. It was a magnificent specimen of the jeweller's art,
+     and the thirty-six stones were the finest that I have ever seen. At
+     one side of the coronet was a cracked edge, where a corner holding
+     three gems had been torn away.
+
+==>      "Now, Mr. Holder," said Holmes, "here is the corner which corresponds <==
+     to that which has been so unfortunately lost. Might I beg that you
+     will break it off."
+
+     The banker recoiled in horror. "I should not dream of trying," said
+     he.
+
+[line number in individual story] matching line = 688    window = 683 693
+
+[line number in concatenated text file] matching line = 19844    window = 19839 19849
+
+
+     will break it off."
+
+     The banker recoiled in horror. "I should not dream of trying," said
+     he.
+
+==>      "Then I will." Holmes suddenly bent his strength upon it, but without <==
+     result. "I feel it give a little," said he; "but, though I am
+     exceptionally strong in the fingers, it would take me all my time to
+     break it. An ordinary man could not do it. Now, what do you think
+     would happen if I did break it, Mr. Holder? There would be a noise
+     like a pistol shot. Do you tell me that all this happened within a
+
+[line number in individual story] matching line = 720    window = 715 725
+
+[line number in concatenated text file] matching line = 19876    window = 19871 19881
+
+
+     snow and his features as inscrutable as ever.
+
+     "I think that I have seen now all that there is to see, Mr. Holder,"
+     said he; "I can serve you best by returning to my rooms."
+
+==>      "But the gems, Mr. Holmes. Where are they?" <==
+
+     "I cannot tell."
+
+     The banker wrung his hands. "I shall never see them again!" he cried.
+     "And my son? You give me hopes?"
+
+[line number in individual story] matching line = 836    window = 831 841
+
+[line number in concatenated text file] matching line = 19992    window = 19987 19997
+
+
+     search for me, for it will be fruitless labour and an ill-service to
+     me. In life or in death, I am ever
+     "'Your loving
+     "'Mary.'
+
+==>      "What could she mean by that note, Mr. Holmes? Do you think it points <==
+     to suicide?"
+
+     "No, no, nothing of the kind. It is perhaps the best possible
+     solution. I trust, Mr. Holder, that you are nearing the end of your
+     troubles."
+
+[line number in individual story] matching line = 843    window = 838 848
+
+[line number in concatenated text file] matching line = 19999    window = 19994 20004
+
+
+
+     "No, no, nothing of the kind. It is perhaps the best possible
+     solution. I trust, Mr. Holder, that you are nearing the end of your
+     troubles."
+
+==>      "Ha! You say so! You have heard something, Mr. Holmes; you have <==
+     learned something! Where are the gems?"
+
+     "You would not think Â£1000 pounds apiece an excessive sum for them?"
+
+     "I would pay ten."
+
+[line number in individual story] matching line = 854    window = 849 859
+
+[line number in concatenated text file] matching line = 20010    window = 20005 20015
+
+
+
+     "That would be unnecessary. Three thousand will cover the matter. And
+     there is a little reward, I fancy. Have you your check-book?  Here is
+     a pen. Better make it out for Â£4000."
+
+==>      With a dazed face the banker made out the required check. Holmes <==
+     walked over to his desk, took out a little triangular piece of gold
+     with three gems in it, and threw it down upon the table.
+
+     With a shriek of joy our client clutched it up.
+
+
+[line number in individual story] matching line = 865    window = 860 870
+
+[line number in concatenated text file] matching line = 20021    window = 20016 20026
+
+
+     "You have it!" he gasped. "I am saved! I am saved!"
+
+     The reaction of joy was as passionate as his grief had been, and he
+     hugged his recovered gems to his bosom.
+
+==>      "There is one other thing you owe, Mr. Holder," said Sherlock Holmes <==
+     rather sternly.
+
+     "Owe!" He caught up a pen. "Name the sum, and I will pay it."
+
+     "No, the debt is not to me. You owe a very humble apology to that
+
+[line number in individual story] matching line = 970    window = 965 975
+
+[line number in concatenated text file] matching line = 20126    window = 20121 20131
+
+
+     cried Mr. Holder. "Oh, my God! what a blind fool I have been! And his
+     asking to be allowed to go out for five minutes! The dear fellow
+     wanted to see if the missing piece were at the scene of the struggle.
+     How cruelly I have misjudged him!"
+
+==>      "When I arrived at the house," continued Holmes, "I at once went very <==
+     carefully round it to observe if there were any traces in the snow
+     which might help me. I knew that none had fallen since the evening
+     before, and also that there had been a strong frost to preserve
+     impressions. I passed along the tradesmen's path, but found it all
+     trampled down and indistinguishable. Just beyond it, however, at the
+
+[line number in individual story] matching line = 1077    window = 1072 1082
+
+[line number in concatenated text file] matching line = 20233    window = 20228 20238
+
+
+     exceeded all that I have heard of it. And now I must fly to my dear
+     boy to apologise to him for the wrong which I have done him. As to
+     what you tell me of poor Mary, it goes to my very heart. Not even
+     your skill can inform me where she is now."
+
+==>      "I think that we may safely say," returned Holmes, "that she is <==
+     wherever Sir George Burnwell is. It is equally certain, too, that
+     whatever her sins are, they will soon receive a more than sufficient
+     punishment."
+
+
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================= 
+           in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------- 
+ Holmes      28      0    0.0115798180314309           0              Inf     2.33261361484543e-15 
+ Mr          15      5    0.00620347394540943 0.000879198171267804   7.056    2.97157326374926e-05 
+ like        5       0    0.00206782464846981          0              Inf      0.0032670816736823  
+ path        5       0    0.00206782464846981          0              Inf      0.0032670816736823  
+ Holder      11      7    0.00454921422663358 0.00123087743977493    3.696    0.00815147497912889  
+ we          10      6    0.00413564929693962 0.00105503780552136     3.92    0.00973029096422181  
+ Sherlock    4       0    0.00165425971877585          0              Inf      0.0116883548293965  
+ sir         4       0    0.00165425971877585          0              Inf      0.0116883548293965  
+ is          40     55    0.0165425971877585  0.00967117988394584    1.711     0.0118370473296596  
+ Have        3       0    0.00124069478908189          0              Inf      0.0427945353937738  
+ tradesmen   3       0    0.00124069478908189          0              Inf      0.0427945353937738  
+ dressing    5       2    0.00206782464846981 0.000351679268507122    5.88      0.0462460989961    
+ Now         5       2    0.00206782464846981 0.000351679268507122    5.88      0.0462460989961    
+ dear        4       1    0.00165425971877585 0.000175839634253561   9.408     0.0495691952865019  
+ ------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Beryl Coronet"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 755    window = 750 760
+
+[line number in concatenated text file] matching line = 19911    window = 19906 19916
+
+
+     to his chamber and was down again in a few minutes dressed as a
+     common loafer. With his collar turned up, his shiny, seedy coat, his
+     red cravat, and his worn boots, he was a perfect sample of the class.
+
+     "I think that this should do," said he, glancing into the glass above
+==>      the fireplace. "I only wish that you could come with me, Watson, but <==
+     I fear that it won't do. I may be on the trail in this matter, or I
+     may be following a will-o'-the-wisp, but I shall soon know which it
+     is. I hope that I may be back in a few hours." He cut a slice of beef
+     from the joint upon the sideboard, sandwiched it between two rounds
+     of bread, and thrusting this rude meal into his pocket he started off
+
+[line number in individual story] matching line = 796    window = 791 801
+
+[line number in concatenated text file] matching line = 19952    window = 19947 19957
+
+
+     lateness caused me no surprise. I do not know at what hour he came
+     in, but when I came down to breakfast in the morning there he was
+     with a cup of coffee in one hand and the paper in the other, as fresh
+     and trim as possible.
+
+==>      "You will excuse my beginning without you, Watson," said he, "but you <==
+     remember that our client has rather an early appointment this
+     morning."
+
+     "Why, it is after nine now," I answered. "I should not be surprised
+     if that were he. I thought I heard a ring."
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ======================================================================================= 
+             in.raw out.raw       in.norm       out.norm ratio.norm         pval         
+ --------------------------------------------------------------------------------------- 
+ Watson        2       0    0.00851063829787234    0        Inf     6.42242445465878e-06 
+ appointment   1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ beef          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ bread         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ breakfast     1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ class         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ collar        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ common        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ cravat        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ early         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ excuse        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ fireplace     1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ following     1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ glass         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ hours         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ joint         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ lateness      1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ meal          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ paper         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ perfect       1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ pocket        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ red           1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ ring          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ rounds        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ rude          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ sample        1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ sandwiched    1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ seedy         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ shiny         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ sideboard     1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ slice         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ surprise      1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ thrusting     1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ trail         1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ trim          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ wisp          1       0    0.00425531914893617    0        Inf      0.0403888720173943  
+ --------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Beryl Coronet"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Beryl Coronet"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

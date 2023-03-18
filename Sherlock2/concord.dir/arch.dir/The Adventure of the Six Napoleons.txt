@@ -1,0 +1,2082 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Six Napoleons"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 4    window = 1 9
+
+[line number in concatenated text file] matching line = 38452    window = 38449 38457
+
+
+
+     It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to
+     look in upon us of an evening, and his visits were welcome to
+==>      Sherlock Holmes, for they enabled him to keep in touch with all that <==
+     was going on at the police head-quarters. In return for the news
+     which Lestrade would bring, Holmes was always ready to listen with
+     attention to the details of any case upon which the detective was
+     engaged, and was able occasionally, without any active interference,
+     to give some hint or suggestion drawn from his own vast knowledge and
+
+[line number in individual story] matching line = 6    window = 1 11
+
+[line number in concatenated text file] matching line = 38454    window = 38449 38459
+
+
+
+     It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to
+     look in upon us of an evening, and his visits were welcome to
+     Sherlock Holmes, for they enabled him to keep in touch with all that
+     was going on at the police head-quarters. In return for the news
+==>      which Lestrade would bring, Holmes was always ready to listen with <==
+     attention to the details of any case upon which the detective was
+     engaged, and was able occasionally, without any active interference,
+     to give some hint or suggestion drawn from his own vast knowledge and
+     experience.
+
+
+[line number in individual story] matching line = 14    window = 9 19
+
+[line number in concatenated text file] matching line = 38462    window = 38457 38467
+
+
+     to give some hint or suggestion drawn from his own vast knowledge and
+     experience.
+
+     On this particular evening Lestrade had spoken of the weather and the
+     newspapers. Then he had fallen silent, puffing thoughtfully at his
+==>      cigar. Holmes looked keenly at him. <==
+
+     "Anything remarkable on hand?" he asked.
+
+     "Oh, no, Mr. Holmes, nothing very particular."
+
+
+[line number in individual story] matching line = 18    window = 13 23
+
+[line number in concatenated text file] matching line = 38466    window = 38461 38471
+
+
+     newspapers. Then he had fallen silent, puffing thoughtfully at his
+     cigar. Holmes looked keenly at him.
+
+     "Anything remarkable on hand?" he asked.
+
+==>      "Oh, no, Mr. Holmes, nothing very particular." <==
+
+     "Then tell me about it."
+
+     Lestrade laughed.
+
+
+[line number in individual story] matching line = 24    window = 19 29
+
+[line number in concatenated text file] matching line = 38472    window = 38467 38477
+
+
+
+     "Then tell me about it."
+
+     Lestrade laughed.
+
+==>      "Well, Mr. Holmes, there is no use denying that there is something on <==
+     my mind. And yet it is such an absurd business that I hesitated to
+     bother you about it. On the other hand, although it is trivial, it is
+     undoubtedly queer, and I know that you have a taste for all that is
+     out of the common. But in my opinion it comes more in Dr. Watson's
+     line than ours."
+
+[line number in individual story] matching line = 38    window = 33 43
+
+[line number in concatenated text file] matching line = 38486    window = 38481 38491
+
+
+     "Madness, anyhow. And a queer madness too! You wouldn't think there
+     was anyone living at this time of day who had such a hatred of
+     Napoleon the First that he would break any image of him that he could
+     see."
+
+==>      Holmes sank back in his chair. <==
+
+     "That's no business of mine," said he.
+
+     "Exactly. That's what I said. But then, when the man commits burglary
+     in order to break images which are not his own, that brings it away
+
+[line number in individual story] matching line = 46    window = 41 51
+
+[line number in concatenated text file] matching line = 38494    window = 38489 38499
+
+
+
+     "Exactly. That's what I said. But then, when the man commits burglary
+     in order to break images which are not his own, that brings it away
+     from the doctor and on to the policeman."
+
+==>      Holmes sat up again. <==
+
+     "Burglary! This is more interesting. Let me hear the details."
+
+     Lestrade took out his official note-book and refreshed his memory
+     from its pages.
+
+[line number in individual story] matching line = 88    window = 83 93
+
+[line number in concatenated text file] matching line = 38536    window = 38531 38541
+
+
+     been burgled during the night, but that nothing had been taken save
+     the plaster head from the hall. It had been carried out and had been
+     dashed savagely against the garden wall, under which its splintered
+     fragments were discovered."
+
+==>      Holmes rubbed his hands. <==
+
+     "This is certainly very novel," said he.
+
+     "I thought it would please you. But I have not got to the end yet.
+     Dr. Barnicot was due at his surgery at twelve o'clock, and you can
+
+[line number in individual story] matching line = 99    window = 94 104
+
+[line number in concatenated text file] matching line = 38547    window = 38542 38552
+
+
+     imagine his amazement when, on arriving there, he found that the
+     window had been opened in the night, and that the broken pieces of
+     his second bust were strewn all over the room. It had been smashed to
+     atoms where it stood. In neither case were there any signs which
+     could give us a clue as to the criminal or lunatic who had done the
+==>      mischief. Now, Mr. Holmes, you have got the facts." <==
+
+     "They are singular, not to say grotesque," said Holmes. "May I ask
+     whether the two busts smashed in Dr. Barnicot's rooms were the exact
+     duplicates of the one which was destroyed in Morse Hudson's shop?"
+
+
+[line number in individual story] matching line = 101    window = 96 106
+
+[line number in concatenated text file] matching line = 38549    window = 38544 38554
+
+
+     his second bust were strewn all over the room. It had been smashed to
+     atoms where it stood. In neither case were there any signs which
+     could give us a clue as to the criminal or lunatic who had done the
+     mischief. Now, Mr. Holmes, you have got the facts."
+
+==>      "They are singular, not to say grotesque," said Holmes. "May I ask <==
+     whether the two busts smashed in Dr. Barnicot's rooms were the exact
+     duplicates of the one which was destroyed in Morse Hudson's shop?"
+
+     "They were taken from the same mould."
+
+
+[line number in individual story] matching line = 131    window = 126 136
+
+[line number in concatenated text file] matching line = 38579    window = 38574 38584
+
+
+     deeply about Napoleon, or who had possibly received some hereditary
+     family injury through the great war, might conceivably form such an
+     idÃ©e fixe and under its influence be capable of any fantastic
+     outrage."
+
+==>      "That won't do, my dear Watson," said Holmes, shaking his head; "for <==
+     no amount of idÃ©e fixe would enable your interesting monomaniac to
+     find out where these busts were situated."
+
+     "Well, how do you explain it?"
+
+
+[line number in individual story] matching line = 155    window = 150 160
+
+[line number in concatenated text file] matching line = 38603    window = 38598 38608
+
+
+     of events."
+
+     The development for which my friend had asked came in a quicker and
+     an infinitely more tragic form than he could have imagined. I was
+     still dressing in my bedroom next morning when there was a tap at the
+==>      door and Holmes entered, a telegram in his hand. He read it aloud: <==
+
+     "Come instantly, 131, Pitt Street, Kensington.
+     "Lestrade."
+
+     "What is it, then?" I asked.
+
+[line number in individual story] matching line = 171    window = 166 176
+
+[line number in concatenated text file] matching line = 38619    window = 38614 38624
+
+
+
+     In half an hour we had reached Pitt Street, a quiet little backwater
+     just beside one of the briskest currents of London life. No. 131 was
+     one of a row, all flat-chested, respectable, and most unromantic
+     dwellings. As we drove up we found the railings in front of the house
+==>      lined by a curious crowd. Holmes whistled. <==
+
+     "By George! it's attempted murder at the least. Nothing less will
+     hold the London message-boy. There's a deed of violence indicated in
+     that fellow's round shoulders and outstretched neck. What's this,
+     Watson? The top steps swilled down and the other ones dry. Footsteps
+
+[line number in individual story] matching line = 187    window = 182 192
+
+[line number in concatenated text file] matching line = 38635    window = 38630 38640
+
+
+     clad in a flannel dressing-gown, was pacing up and down. He was
+     introduced to us as the owner of the house--Mr. Horace Harker, of the
+     Central Press Syndicate.
+
+     "It's the Napoleon bust business again," said Lestrade. "You seemed
+==>      interested last night, Mr. Holmes, so I thought perhaps you would be <==
+     glad to be present now that the affair has taken a very much graver
+     turn."
+
+     "What has it turned to, then?"
+
+
+[line number in individual story] matching line = 206    window = 201 211
+
+[line number in concatenated text file] matching line = 38654    window = 38649 38659
+
+
+     come my own way I am so confused and bothered that I can't put two
+     words together. If I had come in here as a journalist I should have
+     interviewed myself and had two columns in every evening paper. As it
+     is I am giving away valuable copy by telling my story over and over
+     to a string of different people, and I can make no use of it myself.
+==>      However, I've heard your name, Mr. Sherlock Holmes, and if you'll <==
+     only explain this queer business I shall be paid for my trouble in
+     telling you the story."
+
+     Holmes sat down and listened.
+
+
+[line number in individual story] matching line = 210    window = 205 215
+
+[line number in concatenated text file] matching line = 38658    window = 38653 38663
+
+
+     to a string of different people, and I can make no use of it myself.
+     However, I've heard your name, Mr. Sherlock Holmes, and if you'll
+     only explain this queer business I shall be paid for my trouble in
+     telling you the story."
+
+==>      Holmes sat down and listened. <==
+
+     "It all seems to centre round that bust of Napoleon which I bought
+     for this very room about four months ago. I picked it up cheap from
+     Harding Brothers, two doors from the High Street Station. A great
+     deal of my journalistic work is done at night, and I often write
+
+[line number in individual story] matching line = 221    window = 216 226
+
+[line number in concatenated text file] matching line = 38669    window = 38664 38674
+
+
+     until the early morning. So it was to-day. I was sitting in my den,
+     which is at the back of the top of the house, about three o'clock,
+     when I was convinced that I heard some sounds downstairs. I listened,
+     but they were not repeated, and I concluded that they came from
+     outside. Then suddenly, about five minutes later, there came a most
+==>      horrible yell--the most dreadful sound, Mr. Holmes, that ever I <==
+     heard. It will ring in my ears as long as I live. I sat frozen with
+     horror for a minute or two. Then I seized the poker and went
+     downstairs. When I entered this room I found the window wide open,
+     and I at once observed that the bust was gone from the mantelpiece.
+     Why any burglar should take such a thing passes my understanding, for
+
+[line number in individual story] matching line = 240    window = 235 245
+
+[line number in concatenated text file] matching line = 38688    window = 38683 38693
+
+
+     blood. He lay on his back, his knees drawn up, and his mouth horribly
+     open. I shall see him in my dreams. I had just time to blow on my
+     police-whistle, and then I must have fainted, for I knew nothing more
+     until I found the policeman standing over me in the hall."
+
+==>      "Well, who was the murdered man?" asked Holmes. <==
+
+     "There's nothing to show who he was," said Lestrade. "You shall see
+     the body at the mortuary, but we have made nothing of it up to now.
+     He is a tall man, sunburned, very powerful, not more than thirty. He
+     is poorly dressed, and yet does not appear to be a labourer. A
+
+[line number in individual story] matching line = 257    window = 252 262
+
+[line number in concatenated text file] matching line = 38705    window = 38700 38710
+
+
+     It was evidently taken by a snap-shot from a small camera. It
+     represented an alert, sharp-featured simian man with thick eyebrows,
+     and a very peculiar projection of the lower part of the face like the
+     muzzle of a baboon.
+
+==>      "And what became of the bust?" asked Holmes, after a careful study of <==
+     this picture.
+
+     "We had news of it just before you came. It has been found in the
+     front garden of an empty house in Campden House Road. It was broken
+     into fragments. I am going round now to see it. Will you come?"
+
+[line number in individual story] matching line = 288    window = 283 293
+
+[line number in concatenated text file] matching line = 38736    window = 38731 38741
+
+
+
+     The spot where the fragments of the bust had been found was only a
+     few hundred yards away. For the first time our eyes rested upon this
+     presentment of the great Emperor, which seemed to raise such frantic
+     and destructive hatred in the mind of the unknown. It lay scattered
+==>      in splintered shards upon the grass. Holmes picked up several of them <==
+     and examined them carefully. I was convinced from his intent face and
+     his purposeful manner that at last he was upon a clue.
+
+     "Well?" asked Lestrade.
+
+
+[line number in individual story] matching line = 294    window = 289 299
+
+[line number in concatenated text file] matching line = 38742    window = 38737 38747
+
+
+     and examined them carefully. I was convinced from his intent face and
+     his purposeful manner that at last he was upon a clue.
+
+     "Well?" asked Lestrade.
+
+==>      Holmes shrugged his shoulders. <==
+
+     "We have a long way to go yet," said he. "And yet--and yet--well, we
+     have some suggestive facts to act upon. The possession of this
+     trifling bust was worth more in the eyes of this strange criminal
+     than a human life. That is one point. Then there is the singular fact
+
+[line number in individual story] matching line = 322    window = 317 327
+
+[line number in concatenated text file] matching line = 38770    window = 38765 38775
+
+
+     there, since it is evident that every yard that he carried it
+     increased the risk of someone meeting him?"
+
+     "I give it up," said Lestrade.
+
+==>      Holmes pointed to the street lamp above our heads. <==
+
+     "He could see what he was doing here and he could not there. That was
+     his reason."
+
+     "By Jove! that's true," said the detective. "Now that I come to think
+
+[line number in individual story] matching line = 329    window = 324 334
+
+[line number in concatenated text file] matching line = 38777    window = 38772 38782
+
+
+     "He could see what he was doing here and he could not there. That was
+     his reason."
+
+     "By Jove! that's true," said the detective. "Now that I come to think
+     of it, Dr. Barnicot's bust was broken not far from his red lamp.
+==>      Well, Mr. Holmes, what are we to do with that fact?" <==
+
+     "To remember it--to docket it. We may come on something later which
+     will bear upon it. What steps do you propose to take now, Lestrade?"
+
+     "The most practical way of getting at it, in my opinion, is to
+
+[line number in individual story] matching line = 362    window = 357 367
+
+[line number in concatenated text file] matching line = 38810    window = 38805 38815
+
+
+
+     Lestrade stared.
+
+     "You don't seriously believe that?"
+
+==>      Holmes smiled. <==
+
+     "Don't I? Well, perhaps I don't. But I am sure that it will interest
+     Mr. Horace Harker and the subscribers of the Central Press Syndicate.
+     Now, Watson, I think that we shall find that we have a long and
+     rather complex day's work before us. I should be glad, Lestrade, if
+
+[line number in individual story] matching line = 375    window = 370 380
+
+[line number in concatenated text file] matching line = 38823    window = 38818 38828
+
+
+     photograph found in the dead man's pocket. It is possible that I may
+     have to ask your company and assistance upon a small expedition which
+     will have be undertaken to-night, if my chain of reasoning should
+     prove to be correct. Until then, good-bye and good luck!"
+
+==>      Sherlock Holmes and I walked together to the High Street, where he <==
+     stopped at the shop of Harding Brothers, whence the bust had been
+     purchased. A young assistant informed us that Mr. Harding would be
+     absent until after noon, and that he was himself a newcomer who could
+     give us no information. Holmes's face showed his disappointment and
+     annoyance.
+
+[line number in individual story] matching line = 379    window = 374 384
+
+[line number in concatenated text file] matching line = 38827    window = 38822 38832
+
+
+
+     Sherlock Holmes and I walked together to the High Street, where he
+     stopped at the shop of Harding Brothers, whence the bust had been
+     purchased. A young assistant informed us that Mr. Harding would be
+     absent until after noon, and that he was himself a newcomer who could
+==>      give us no information. Holmes's face showed his disappointment and <==
+     annoyance.
+
+     "Well, well, we can't expect to have it all our own way, Watson," he
+     said, at last. "We must come back in the afternoon if Mr. Harding
+     will not be here until then. I am, as you have no doubt surmised,
+
+[line number in individual story] matching line = 412    window = 407 417
+
+[line number in concatenated text file] matching line = 38860    window = 38855 38865
+
+
+     week, and I've heard nothing of him since. No, I don't know where he
+     came from nor where he went to. I have nothing against him while he
+     was here. He was gone two days before the bust was smashed."
+
+     "Well, that's all we could reasonably expect to get from Morse
+==>      Hudson," said Holmes, as we emerged from the shop. "We have this <==
+     Beppo as a common factor, both in Kennington and in Kensington, so
+     that is worth a ten-mile drive. Now, Watson, let us make for Gelder &
+     Co., of Stepney, the source and origin of busts. I shall be surprised
+     if we don't get some help down there."
+
+
+[line number in individual story] matching line = 427    window = 422 432
+
+[line number in concatenated text file] matching line = 38875    window = 38870 38880
+
+
+     and reek with the outcasts of Europe. Here, in a broad thoroughfare,
+     once the abode of wealthy City merchants, we found the sculpture
+     works for which we searched. Outside was a considerable yard full of
+     monumental masonry. Inside was a large room in which fifty workers
+     were carving or moulding. The manager, a big blond German, received
+==>      us civilly, and gave a clear answer to all Holmes's questions. A <==
+     reference to his books showed that hundreds of casts had been taken
+     from a marble copy of Devine's head of Napoleon, but that the three
+     which had been sent to Morse Hudson a year or so before had been half
+     of a batch of six, the other three being sent to Harding Brothers, of
+     Kensington. There was no reason why those six should be different to
+
+[line number in individual story] matching line = 462    window = 457 467
+
+[line number in concatenated text file] matching line = 38910    window = 38905 38915
+
+
+
+     "The man lived and he got off with a year. I have no doubt he is out
+     now; but he has not dared to show his nose here. We have a cousin of
+     his here, and I dare say he could tell you where he is."
+
+==>      "No, no," cried Holmes, "not a word to the cousin--not a word, I beg <==
+     you. The matter is very important, and the farther I go with it the
+     more important it seems to grow. When you referred in your ledger to
+     the sale of those casts I observed that the date was June 3rd of last
+     year. Could you give me the date when Beppo was arrested?"
+
+
+[line number in individual story] matching line = 472    window = 467 477
+
+[line number in concatenated text file] matching line = 38920    window = 38915 38925
+
+
+
+     "I could tell you roughly by the pay-list," the manager answered.
+     "Yes," he continued, after some turning over of pages, "he was paid
+     last on May 20th."
+
+==>      "Thank you," said Holmes. "I don't think that I need intrude upon <==
+     your time and patience any more." With a last word of caution that he
+     should say nothing as to our researches we turned our faces westward
+     once more.
+
+     The afternoon was far advanced before we were able to snatch a hasty
+
+[line number in individual story] matching line = 482    window = 477 487
+
+[line number in concatenated text file] matching line = 38930    window = 38925 38935
+
+
+     The afternoon was far advanced before we were able to snatch a hasty
+     luncheon at a restaurant. A news-bill at the entrance announced
+     "Kensington Outrage. Murder by a Madman," and the contents of the
+     paper showed that Mr. Horace Harker had got his account into print
+     after all. Two columns were occupied with a highly sensational and
+==>      flowery rendering of the whole incident. Holmes propped it against <==
+     the cruet-stand and read it while he ate. Once or twice he chuckled.
+
+     "This is all right, Watson," said he. "Listen to this:
+
+     "It is satisfactory to know that there can be no difference of
+
+[line number in individual story] matching line = 489    window = 484 494
+
+[line number in concatenated text file] matching line = 38937    window = 38932 38942
+
+
+
+     "This is all right, Watson," said he. "Listen to this:
+
+     "It is satisfactory to know that there can be no difference of
+     opinion upon this case, since Mr. Lestrade, one of the most
+==>      experienced members of the official force, and Mr. Sherlock Holmes, <==
+     the well-known consulting expert, have each come to the conclusion
+     that the grotesque series of incidents, which have ended in so tragic
+     a fashion, arise from lunacy rather than from deliberate crime. No
+     explanation save mental aberration can cover the facts.
+
+
+[line number in individual story] matching line = 519    window = 514 524
+
+[line number in concatenated text file] matching line = 38967    window = 38962 38972
+
+
+     cleaners. I dare say they might get a peep at that sales book if they
+     wanted to. There is no particular reason for keeping a watch upon
+     that book. Well, well, it's a very strange business, and I hope that
+     you'll let me know if anything comes of your inquiries."
+
+==>      Holmes had taken several notes during Mr. Harding's evidence, and I <==
+     could see that he was thoroughly satisfied by the turn which affairs
+     were taking. He made no remark, however, save that, unless we
+     hurried, we should be late for our appointment with Lestrade. Sure
+     enough, when we reached Baker Street the detective was already there,
+     and we found him pacing up and down in a fever of impatience. His
+
+[line number in individual story] matching line = 527    window = 522 532
+
+[line number in concatenated text file] matching line = 38975    window = 38970 38980
+
+
+     hurried, we should be late for our appointment with Lestrade. Sure
+     enough, when we reached Baker Street the detective was already there,
+     and we found him pacing up and down in a fever of impatience. His
+     look of importance showed that his day's work had not been in vain.
+
+==>      "Well?" he asked. "What luck, Mr. Holmes?" <==
+
+     "We have had a very busy day, and not entirely a wasted one," my
+     friend explained. "We have seen both the retailers and also the
+     wholesale manufacturers. I can trace each of the busts now from the
+     beginning."
+
+[line number in individual story] matching line = 535    window = 530 540
+
+[line number in concatenated text file] matching line = 38983    window = 38978 38988
+
+
+     friend explained. "We have seen both the retailers and also the
+     wholesale manufacturers. I can trace each of the busts now from the
+     beginning."
+
+     "The busts!" cried Lestrade. "Well, well, you have your own methods,
+==>      Mr. Sherlock Holmes, and it is not for me to say a word against them, <==
+     but I think I have done a better day's work than you. I have
+     identified the dead man."
+
+     "You don't say so?"
+
+
+[line number in individual story] matching line = 559    window = 554 564
+
+[line number in concatenated text file] matching line = 39007    window = 39002 39012
+
+
+     He has broken the rules in some fashion. Pietro is set upon his
+     track. Probably the photograph we found in his pocket is the man
+     himself, so that he may not knife the wrong person. He dogs the
+     fellow, he sees him enter a house, he waits outside for him, and in
+     the scuffle he receives his own death-wound. How is that, Mr.
+==>      Sherlock Holmes?" <==
+
+     Holmes clapped his hands approvingly.
+
+     "Excellent, Lestrade, excellent!" he cried. "But I didn't quite
+     follow your explanation of the destruction of the busts."
+
+[line number in individual story] matching line = 561    window = 556 566
+
+[line number in concatenated text file] matching line = 39009    window = 39004 39014
+
+
+     himself, so that he may not knife the wrong person. He dogs the
+     fellow, he sees him enter a house, he waits outside for him, and in
+     the scuffle he receives his own death-wound. How is that, Mr.
+     Sherlock Holmes?"
+
+==>      Holmes clapped his hands approvingly. <==
+
+     "Excellent, Lestrade, excellent!" he cried. "But I didn't quite
+     follow your explanation of the destruction of the busts."
+
+     "The busts! You never can get those busts out of your head. After
+
+[line number in individual story] matching line = 597    window = 592 602
+
+[line number in concatenated text file] matching line = 39045    window = 39040 39050
+
+
+     us, Lestrade, and then you are welcome to the sofa until it is time
+     for us to start. In the meantime, Watson, I should be glad if you
+     would ring for an express messenger, for I have a letter to send, and
+     it is important that it should go at once."
+
+==>      Holmes spent the evening in rummaging among the files of the old <==
+     daily papers with which one of our lumber-rooms was packed. When at
+     last he descended it was with triumph in his eyes, but he said
+     nothing to either of us as to the result of his researches. For my
+     own part, I had followed step by step the methods by which he had
+     traced the various windings of this complex case, and, though I could
+
+[line number in individual story] matching line = 604    window = 599 609
+
+[line number in concatenated text file] matching line = 39052    window = 39047 39057
+
+
+     last he descended it was with triumph in his eyes, but he said
+     nothing to either of us as to the result of his researches. For my
+     own part, I had followed step by step the methods by which he had
+     traced the various windings of this complex case, and, though I could
+     not yet perceive the goal which we would reach, I understood clearly
+==>      that Holmes expected this grotesque criminal to make an attempt upon <==
+     the two remaining busts, one of which, I remembered, was at Chiswick.
+     No doubt the object of our journey was to catch him in the very act,
+     and I could not but admire the cunning with which my friend had
+     inserted a wrong clue in the evening paper, so as to give the fellow
+     the idea that he could continue his scheme with impunity. I was not
+
+[line number in individual story] matching line = 610    window = 605 615
+
+[line number in concatenated text file] matching line = 39058    window = 39053 39063
+
+
+     the two remaining busts, one of which, I remembered, was at Chiswick.
+     No doubt the object of our journey was to catch him in the very act,
+     and I could not but admire the cunning with which my friend had
+     inserted a wrong clue in the evening paper, so as to give the fellow
+     the idea that he could continue his scheme with impunity. I was not
+==>      surprised when Holmes suggested that I should take my revolver with <==
+     me. He had himself picked up the loaded hunting-crop which was his
+     favourite weapon.
+
+     A four-wheeler was at the door at eleven, and in it we drove to a
+     spot at the other side of Hammersmith Bridge. Here the cabman was
+
+[line number in individual story] matching line = 625    window = 620 630
+
+[line number in concatenated text file] matching line = 39073    window = 39068 39078
+
+
+     dark save for a fanlight over the hall door, which shed a single
+     blurred circle on to the garden path. The wooden fence which
+     separated the grounds from the road threw a dense black shadow upon
+     the inner side, and here it was that we crouched.
+
+==>      "I fear that you'll have a long wait," Holmes whispered. "We may <==
+     thank our stars that it is not raining. I don't think we can even
+     venture to smoke to pass the time. However, it's a two to one chance
+     that we get something to pay us for our trouble."
+
+     It proved, however, that our vigil was not to be so long as Holmes
+
+[line number in individual story] matching line = 630    window = 625 635
+
+[line number in concatenated text file] matching line = 39078    window = 39073 39083
+
+
+     "I fear that you'll have a long wait," Holmes whispered. "We may
+     thank our stars that it is not raining. I don't think we can even
+     venture to smoke to pass the time. However, it's a two to one chance
+     that we get something to pay us for our trouble."
+
+==>      It proved, however, that our vigil was not to be so long as Holmes <==
+     had led us to fear, and it ended in a very sudden and singular
+     fashion. In an instant, without the least sound to warn us of his
+     coming, the garden gate swung open, and a lithe, dark figure, as
+     swift and active as an ape, rushed up the garden path. We saw it
+     whisk past the light thrown from over the door and disappear against
+
+[line number in individual story] matching line = 654    window = 649 659
+
+[line number in concatenated text file] matching line = 39102    window = 39097 39107
+
+
+     white under his arm. He looked stealthily all round him. The silence
+     of the deserted street reassured him. Turning his back upon us he
+     laid down his burden, and the next instant there was the sound of a
+     sharp tap, followed by a clatter and rattle. The man was so intent
+     upon what he was doing that he never heard our steps as we stole
+==>      across the grass plot. With the bound of a tiger Holmes was on his <==
+     back, and an instant later Lestrade and I had him by either wrist and
+     the handcuffs had been fastened. As we turned him over I saw a
+     hideous, sallow face, with writhing, furious features, glaring up at
+     us, and I knew that it was indeed the man of the photograph whom we
+     had secured.
+
+[line number in individual story] matching line = 661    window = 656 666
+
+[line number in concatenated text file] matching line = 39109    window = 39104 39114
+
+
+     the handcuffs had been fastened. As we turned him over I saw a
+     hideous, sallow face, with writhing, furious features, glaring up at
+     us, and I knew that it was indeed the man of the photograph whom we
+     had secured.
+
+==>      But it was not our prisoner to whom Holmes was giving his attention. <==
+     Squatted on the doorstep, he was engaged in most carefully examining
+     that which the man had brought from the house. It was a bust of
+     Napoleon like the one which we had seen that morning, and it had been
+     broken into similar fragments. Carefully Holmes held each separate
+     shard to the light, but in no way did it differ from any other
+
+[line number in individual story] matching line = 665    window = 660 670
+
+[line number in concatenated text file] matching line = 39113    window = 39108 39118
+
+
+
+     But it was not our prisoner to whom Holmes was giving his attention.
+     Squatted on the doorstep, he was engaged in most carefully examining
+     that which the man had brought from the house. It was a bust of
+     Napoleon like the one which we had seen that morning, and it had been
+==>      broken into similar fragments. Carefully Holmes held each separate <==
+     shard to the light, but in no way did it differ from any other
+     shattered piece of plaster. He had just completed his examination
+     when the hall lights flew up, the door opened, and the owner of the
+     house, a jovial, rotund figure in shirt and trousers, presented
+     himself.
+
+[line number in individual story] matching line = 672    window = 667 677
+
+[line number in concatenated text file] matching line = 39120    window = 39115 39125
+
+
+     shattered piece of plaster. He had just completed his examination
+     when the hall lights flew up, the door opened, and the owner of the
+     house, a jovial, rotund figure in shirt and trousers, presented
+     himself.
+
+==>      "Mr. Josiah Brown, I suppose?" said Holmes. <==
+
+     "Yes, sir; and you, no doubt, are Mr. Sherlock Holmes? I had the note
+     which you sent by the express messenger, and I did exactly what you
+     told me. We locked every door on the inside and awaited developments.
+     Well, I'm very glad to see that you have got the rascal. I hope,
+
+[line number in individual story] matching line = 674    window = 669 679
+
+[line number in concatenated text file] matching line = 39122    window = 39117 39127
+
+
+     house, a jovial, rotund figure in shirt and trousers, presented
+     himself.
+
+     "Mr. Josiah Brown, I suppose?" said Holmes.
+
+==>      "Yes, sir; and you, no doubt, are Mr. Sherlock Holmes? I had the note <==
+     which you sent by the express messenger, and I did exactly what you
+     told me. We locked every door on the inside and awaited developments.
+     Well, I'm very glad to see that you have got the rascal. I hope,
+     gentlemen, that you will come in and have some refreshment."
+
+
+[line number in individual story] matching line = 692    window = 687 697
+
+[line number in concatenated text file] matching line = 39140    window = 39135 39145
+
+
+     knife, the handle of which bore copious traces of recent blood.
+
+     "That's all right," said Lestrade, as we parted. "Hill knows all
+     these gentry, and he will give a name to him. You'll find that my
+     theory of the Mafia will work out all right. But I'm sure I am
+==>      exceedingly obliged to you, Mr. Holmes, for the workmanlike way in <==
+     which you laid hands upon him. I don't quite understand it all yet."
+
+     "I fear it is rather too late an hour for explanations," said Holmes.
+     "Besides, there are one or two details which are not finished off,
+     and it is one of those cases which are worth working out to the very
+
+[line number in individual story] matching line = 695    window = 690 700
+
+[line number in concatenated text file] matching line = 39143    window = 39138 39148
+
+
+     these gentry, and he will give a name to him. You'll find that my
+     theory of the Mafia will work out all right. But I'm sure I am
+     exceedingly obliged to you, Mr. Holmes, for the workmanlike way in
+     which you laid hands upon him. I don't quite understand it all yet."
+
+==>      "I fear it is rather too late an hour for explanations," said Holmes. <==
+     "Besides, there are one or two details which are not finished off,
+     and it is one of those cases which are worth working out to the very
+     end. If you will come round once more to my rooms at six o'clock
+     to-morrow I think I shall be able to show you that even now you have
+     not grasped the entire meaning of this business, which presents some
+
+[line number in individual story] matching line = 718    window = 713 723
+
+[line number in concatenated text file] matching line = 39166    window = 39161 39171
+
+
+     English perfectly well. His reasons for destroying the busts were
+     still unknown, and he refused to answer any questions upon the
+     subject; but the police had discovered that these same busts might
+     very well have been made by his own hands, since he was engaged in
+     this class of work at the establishment of Gelder & Co. To all this
+==>      information, much of which we already knew, Holmes listened with <==
+     polite attention; but I, who knew him so well, could clearly see that
+     his thoughts were elsewhere, and I detected a mixture of mingled
+     uneasiness and expectation beneath that mask which he was wont to
+     assume. At last he started in his chair and his eyes brightened.
+     There had been a ring at the bell. A minute later we heard steps upon
+
+[line number in individual story] matching line = 728    window = 723 733
+
+[line number in concatenated text file] matching line = 39176    window = 39171 39181
+
+
+     There had been a ring at the bell. A minute later we heard steps upon
+     the stairs, and an elderly, red-faced man with grizzled side-whiskers
+     was ushered in. In his right hand he carried an old-fashioned
+     carpet-bag, which he placed upon the table.
+
+==>      "Is Mr. Sherlock Holmes here?" <==
+
+     My friend bowed and smiled. "Mr. Sandeford, of Reading, I suppose?"
+     said he.
+
+     "Yes, sir, I fear that I am a little late; but the trains were
+
+[line number in individual story] matching line = 762    window = 757 767
+
+[line number in concatenated text file] matching line = 39210    window = 39205 39215
+
+
+     before I take ten pounds from you."
+
+     "I am sure the scruple does you honour, Mr. Sandeford. But I have
+     named that price, so I intend to stick to it."
+
+==>      "Well, it is very handsome of you, Mr. Holmes. I brought the bust up <==
+     with me, as you asked me to do. Here it is!" He opened his bag, and
+     at last we saw placed upon our table a complete specimen of that bust
+     which we had already seen more than once in fragments.
+
+     Holmes took a paper from his pocket and laid a ten-pound note upon
+
+[line number in individual story] matching line = 767    window = 762 772
+
+[line number in concatenated text file] matching line = 39215    window = 39210 39220
+
+
+     "Well, it is very handsome of you, Mr. Holmes. I brought the bust up
+     with me, as you asked me to do. Here it is!" He opened his bag, and
+     at last we saw placed upon our table a complete specimen of that bust
+     which we had already seen more than once in fragments.
+
+==>      Holmes took a paper from his pocket and laid a ten-pound note upon <==
+     the table.
+
+     "You will kindly sign that paper, Mr. Sandeford, in the presence of
+     these witnesses. It is simply to say that you transfer every possible
+     right that you ever had in the bust to me. I am a methodical man, you
+
+[line number in individual story] matching line = 777    window = 772 782
+
+[line number in concatenated text file] matching line = 39225    window = 39220 39230
+
+
+     right that you ever had in the bust to me. I am a methodical man, you
+     see, and you never know what turn events might take afterwards. Thank
+     you, Mr. Sandeford; here is your money, and I wish you a very good
+     evening."
+
+==>      When our visitor had disappeared Sherlock Holmes's movements were <==
+     such as to rivet our attention. He began by taking a clean white
+     cloth from a drawer and laying it over the table. Then he placed his
+     newly-acquired bust in the centre of the cloth. Finally, he picked up
+     his hunting-crop and struck Napoleon a sharp blow on the top of the
+     head. The figure broke into fragments, and Holmes bent eagerly over
+
+[line number in individual story] matching line = 782    window = 777 787
+
+[line number in concatenated text file] matching line = 39230    window = 39225 39235
+
+
+     When our visitor had disappeared Sherlock Holmes's movements were
+     such as to rivet our attention. He began by taking a clean white
+     cloth from a drawer and laying it over the table. Then he placed his
+     newly-acquired bust in the centre of the cloth. Finally, he picked up
+     his hunting-crop and struck Napoleon a sharp blow on the top of the
+==>      head. The figure broke into fragments, and Holmes bent eagerly over <==
+     the shattered remains. Next instant, with a loud shout of triumph, he
+     held up one splinter, in which a round, dark object was fixed like a
+     plum in a pudding.
+
+     "Gentlemen," he cried, "let me introduce you to the famous black
+
+[line number in individual story] matching line = 792    window = 787 797
+
+[line number in concatenated text file] matching line = 39240    window = 39235 39245
+
+
+     "Gentlemen," he cried, "let me introduce you to the famous black
+     pearl of the Borgias."
+
+     Lestrade and I sat silent for a moment, and then, with a spontaneous
+     impulse, we both broke out clapping as at the well-wrought crisis of
+==>      a play. A flush of colour sprang to Holmes's pale cheeks, and he <==
+     bowed to us like the master dramatist who receives the homage of his
+     audience. It was at such moments that for an instant he ceased to be
+     a reasoning machine, and betrayed his human love for admiration and
+     applause. The same singularly proud and reserved nature which turned
+     away with disdain from popular notoriety was capable of being moved
+
+[line number in individual story] matching line = 876    window = 871 881
+
+[line number in concatenated text file] matching line = 39324    window = 39319 39329
+
+
+     presence from the owner--and there it lies."
+
+     We sat in silence for a moment.
+
+     "Well," said Lestrade, "I've seen you handle a good many cases, Mr.
+==>      Holmes, but I don't know that I ever knew a more workmanlike one than <==
+     that. We're not jealous of you at Scotland Yard. No, sir, we are very
+     proud of you, and if you come down to-morrow there's not a man, from
+     the oldest inspector to the youngest constable, who wouldn't be glad
+     to shake you by the hand."
+
+
+[line number in individual story] matching line = 882    window = 877 887
+
+[line number in concatenated text file] matching line = 39330    window = 39325 39335
+
+
+     that. We're not jealous of you at Scotland Yard. No, sir, we are very
+     proud of you, and if you come down to-morrow there's not a man, from
+     the oldest inspector to the youngest constable, who wouldn't be glad
+     to shake you by the hand."
+
+==>      "Thank you!" said Holmes. "Thank you!" and as he turned away it <==
+     seemed to me that he was more nearly moved by the softer human
+     emotions than I had ever seen him. A moment later he was the cold and
+     practical thinker once more. "Put the pearl in the safe, Watson,"
+     said he, "and get out the papers of the Conk-Singleton forgery case.
+     Good-bye, Lestrade. If any little problem comes your way I shall be
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ =============================================================================================== 
+          in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ ----------------------------------------------------------------------------------------------- 
+ Holmes     58      0     0.012989921612542           0             Inf     8.63338972790771e-11 
+ Sherlock   9       0    0.00201567749160134          0             Inf      0.0236060596578625  
+ Mr         29     10     0.006494960806271  0.00298418382572366   2.176     0.0436112497164963  
+ ----------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Six Napoleons"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 28    window = 23 33
+
+[line number in concatenated text file] matching line = 38476    window = 38471 38481
+
+
+
+     "Well, Mr. Holmes, there is no use denying that there is something on
+     my mind. And yet it is such an absurd business that I hesitated to
+     bother you about it. On the other hand, although it is trivial, it is
+     undoubtedly queer, and I know that you have a taste for all that is
+==>      out of the common. But in my opinion it comes more in Dr. Watson's <==
+     line than ours."
+
+     "Disease?" said I.
+
+     "Madness, anyhow. And a queer madness too! You wouldn't think there
+
+[line number in individual story] matching line = 120    window = 115 125
+
+[line number in concatenated text file] matching line = 38568    window = 38563 38573
+
+
+     Morse Hudson is the purveyor of busts in that part of London, and
+     these three were the only ones which had been in his shop for years.
+     So, although, as you say, there are many hundreds of statues in
+     London, it is very probable that these three were the only ones in
+     that district. Therefore, a local fanatic would begin with them. What
+==>      do you think, Dr. Watson?" <==
+
+     "There are no limits to the possibilities of monomania," I answered.
+     "There is the condition which the modern French psychologists have
+     called the 'idÃ©e fixe,' which may be trifling in character, and
+     accompanied by complete sanity in every other way. A man who had read
+
+[line number in individual story] matching line = 131    window = 126 136
+
+[line number in concatenated text file] matching line = 38579    window = 38574 38584
+
+
+     deeply about Napoleon, or who had possibly received some hereditary
+     family injury through the great war, might conceivably form such an
+     idÃ©e fixe and under its influence be capable of any fantastic
+     outrage."
+
+==>      "That won't do, my dear Watson," said Holmes, shaking his head; "for <==
+     no amount of idÃ©e fixe would enable your interesting monomaniac to
+     find out where these busts were situated."
+
+     "Well, how do you explain it?"
+
+
+[line number in individual story] matching line = 144    window = 139 149
+
+[line number in concatenated text file] matching line = 38592    window = 38587 38597
+
+
+     in Dr. Barnicot's hall, where a sound might arouse the family, the
+     bust was taken outside before being broken, whereas in the surgery,
+     where there was less danger of an alarm, it was smashed where it
+     stood. The affair seems absurdly trifling, and yet I dare call
+     nothing trivial when I reflect that some of my most classic cases
+==>      have had the least promising commencement. You will remember, Watson, <==
+     how the dreadful business of the Abernetty family was first brought
+     to my notice by the depth which the parsley had sunk into the butter
+     upon a hot day. I can't afford, therefore, to smile at your three
+     broken busts, Lestrade, and I shall be very much obliged to you if
+     you will let me hear of any fresh developments of so singular a chain
+
+[line number in individual story] matching line = 165    window = 160 170
+
+[line number in concatenated text file] matching line = 38613    window = 38608 38618
+
+
+     "What is it, then?" I asked.
+
+     "Don't know--may be anything. But I suspect it is the sequel of the
+     story of the statues. In that case our friend, the image-breaker, has
+     begun operations in another quarter of London. There's coffee on the
+==>      table, Watson, and I have a cab at the door." <==
+
+     In half an hour we had reached Pitt Street, a quiet little backwater
+     just beside one of the briskest currents of London life. No. 131 was
+     one of a row, all flat-chested, respectable, and most unromantic
+     dwellings. As we drove up we found the railings in front of the house
+
+[line number in individual story] matching line = 176    window = 171 181
+
+[line number in concatenated text file] matching line = 38624    window = 38619 38629
+
+
+     lined by a curious crowd. Holmes whistled.
+
+     "By George! it's attempted murder at the least. Nothing less will
+     hold the London message-boy. There's a deed of violence indicated in
+     that fellow's round shoulders and outstretched neck. What's this,
+==>      Watson? The top steps swilled down and the other ones dry. Footsteps <==
+     enough, anyhow! Well, well, there's Lestrade at the front window, and
+     we shall soon know all about it."
+
+     The official received us with a very grave face and showed us into a
+     sitting-room, where an exceedingly unkempt and agitated elderly man,
+
+[line number in individual story] matching line = 366    window = 361 371
+
+[line number in concatenated text file] matching line = 38814    window = 38809 38819
+
+
+
+     Holmes smiled.
+
+     "Don't I? Well, perhaps I don't. But I am sure that it will interest
+     Mr. Horace Harker and the subscribers of the Central Press Syndicate.
+==>      Now, Watson, I think that we shall find that we have a long and <==
+     rather complex day's work before us. I should be glad, Lestrade, if
+     you could make it convenient to meet us at Baker Street at six
+     o'clock this evening. Until then I should like to keep this
+     photograph found in the dead man's pocket. It is possible that I may
+     have to ask your company and assistance upon a small expedition which
+
+[line number in individual story] matching line = 382    window = 377 387
+
+[line number in concatenated text file] matching line = 38830    window = 38825 38835
+
+
+     purchased. A young assistant informed us that Mr. Harding would be
+     absent until after noon, and that he was himself a newcomer who could
+     give us no information. Holmes's face showed his disappointment and
+     annoyance.
+
+==>      "Well, well, we can't expect to have it all our own way, Watson," he <==
+     said, at last. "We must come back in the afternoon if Mr. Harding
+     will not be here until then. I am, as you have no doubt surmised,
+     endeavouring to trace these busts to their source, in order to find
+     if there is not something peculiar which may account for their
+     remarkable fate. Let us make for Mr. Morse Hudson, of the Kennington
+
+[line number in individual story] matching line = 414    window = 409 419
+
+[line number in concatenated text file] matching line = 38862    window = 38857 38867
+
+
+     was here. He was gone two days before the bust was smashed."
+
+     "Well, that's all we could reasonably expect to get from Morse
+     Hudson," said Holmes, as we emerged from the shop. "We have this
+     Beppo as a common factor, both in Kennington and in Kensington, so
+==>      that is worth a ten-mile drive. Now, Watson, let us make for Gelder & <==
+     Co., of Stepney, the source and origin of busts. I shall be surprised
+     if we don't get some help down there."
+
+     In rapid succession we passed through the fringe of fashionable
+     London, hotel London, theatrical London, literary London, commercial
+
+[line number in individual story] matching line = 485    window = 480 490
+
+[line number in concatenated text file] matching line = 38933    window = 38928 38938
+
+
+     paper showed that Mr. Horace Harker had got his account into print
+     after all. Two columns were occupied with a highly sensational and
+     flowery rendering of the whole incident. Holmes propped it against
+     the cruet-stand and read it while he ate. Once or twice he chuckled.
+
+==>      "This is all right, Watson," said he. "Listen to this: <==
+
+     "It is satisfactory to know that there can be no difference of
+     opinion upon this case, since Mr. Lestrade, one of the most
+     experienced members of the official force, and Mr. Sherlock Holmes,
+     the well-known consulting expert, have each come to the conclusion
+
+[line number in individual story] matching line = 495    window = 490 500
+
+[line number in concatenated text file] matching line = 38943    window = 38938 38948
+
+
+     the well-known consulting expert, have each come to the conclusion
+     that the grotesque series of incidents, which have ended in so tragic
+     a fashion, arise from lunacy rather than from deliberate crime. No
+     explanation save mental aberration can cover the facts.
+
+==>      "The Press, Watson, is a most valuable institution if you only know <==
+     how to use it. And now, if you have quite finished, we will hark back
+     to Kensington and see what the manager of Harding Brothers has to say
+     to the matter."
+
+     The founder of that great emporium proved to be a brisk, crisp little
+
+[line number in individual story] matching line = 593    window = 588 598
+
+[line number in concatenated text file] matching line = 39041    window = 39036 39046
+
+
+     to go to the Italian quarter with you to-morrow, and no harm will be
+     done by the delay. And now I think that a few hours' sleep would do
+     us all good, for I do not propose to leave before eleven o'clock, and
+     it is unlikely that we shall be back before morning. You'll dine with
+     us, Lestrade, and then you are welcome to the sofa until it is time
+==>      for us to start. In the meantime, Watson, I should be glad if you <==
+     would ring for an express messenger, for I have a letter to send, and
+     it is important that it should go at once."
+
+     Holmes spent the evening in rummaging among the files of the old
+     daily papers with which one of our lumber-rooms was packed. When at
+
+[line number in individual story] matching line = 703    window = 698 708
+
+[line number in concatenated text file] matching line = 39151    window = 39146 39156
+
+
+     end. If you will come round once more to my rooms at six o'clock
+     to-morrow I think I shall be able to show you that even now you have
+     not grasped the entire meaning of this business, which presents some
+     features which make it absolutely original in the history of crime.
+     If ever I permit you to chronicle any more of my little problems,
+==>      Watson, I foresee that you will enliven your pages by an account of <==
+     the singular adventure of the Napoleonic busts."
+
+     When we met again next evening Lestrade was furnished with much
+     information concerning our prisoner. His name, it appeared, was
+     Beppo, second name unknown. He was a well-known ne'er-do-well among
+
+[line number in individual story] matching line = 885    window = 880 890
+
+[line number in concatenated text file] matching line = 39333    window = 39328 39338
+
+
+     to shake you by the hand."
+
+     "Thank you!" said Holmes. "Thank you!" and as he turned away it
+     seemed to me that he was more nearly moved by the softer human
+     emotions than I had ever seen him. A moment later he was the cold and
+==>      practical thinker once more. "Put the pearl in the safe, Watson," <==
+     said he, "and get out the papers of the Conk-Singleton forgery case.
+     Good-bye, Lestrade. If any little problem comes your way I shall be
+     happy, if I can, to give you a hint or two as to its solution."
+
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================= 
+        in.raw out.raw      in.norm             out.norm       ratio.norm         pval         
+ --------------------------------------------------------------------------------------------- 
+ Watson   14      0    0.0094722598105548          0              Inf     4.14717360421627e-11 
+ be       15     20    0.010148849797023  0.00396667988893296    2.559    0.00786253101694815  
+ shall    7       5    0.0047361299052774 0.000991669972233241   4.776    0.00909541780520592  
+ e        3       0    0.0020297699594046          0              Inf      0.0120669335802034  
+ family   3       0    0.0020297699594046          0              Inf      0.0120669335802034  
+ fixe     3       0    0.0020297699594046          0              Inf      0.0120669335802034  
+ idÃ      3       0    0.0020297699594046          0              Inf      0.0120669335802034  
+ ones     3       0    0.0020297699594046          0              Inf      0.0120669335802034  
+ if       9      10    0.0060893098782138 0.00198333994446648     3.07     0.0214010968972221  
+ London   9      10    0.0060893098782138 0.00198333994446648     3.07     0.0214010968972221  
+ little   4       2    0.0027063599458728 0.000396667988893296   6.823     0.0368448529351869  
+ --------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Six Napoleons"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+[line number in individual story] matching line = 54    window = 49 59
+
+[line number in concatenated text file] matching line = 38502    window = 38497 38507
+
+
+
+     Lestrade took out his official note-book and refreshed his memory
+     from its pages.
+
+     "The first case reported was four days ago," said he. "It was at the
+==>      shop of Morse Hudson, who has a place for the sale of pictures and <==
+     statues in the Kennington Road. The assistant had left the front shop
+     for an instant when he heard a crash, and hurrying in he found a
+     plaster bust of Napoleon, which stood with several other works of art
+     upon the counter, lying shivered into fragments. He rushed out into
+     the road, but, although several passers-by declared that they had
+
+[line number in individual story] matching line = 70    window = 65 75
+
+[line number in concatenated text file] matching line = 38518    window = 38513 38523
+
+
+     affair appeared to be too childish for any particular investigation.
+
+     "The second case, however, was more serious and also more singular.
+     It occurred only last night.
+
+==>      "In Kennington Road, and within a few hundred yards of Morse Hudson's <==
+     shop, there lives a well-known medical practitioner, named Dr.
+     Barnicot, who has one of the largest practices upon the south side of
+     the Thames. His residence and principal consulting-room is at
+     Kennington Road, but he has a branch surgery and dispensary at Lower
+     Brixton Road, two miles away. This Dr. Barnicot is an enthusiastic
+
+[line number in individual story] matching line = 78    window = 73 83
+
+[line number in concatenated text file] matching line = 38526    window = 38521 38531
+
+
+     the Thames. His residence and principal consulting-room is at
+     Kennington Road, but he has a branch surgery and dispensary at Lower
+     Brixton Road, two miles away. This Dr. Barnicot is an enthusiastic
+     admirer of Napoleon, and his house is full of books, pictures, and
+     relics of the French Emperor. Some little time ago he purchased from
+==>      Morse Hudson two duplicate plaster casts of the famous head of <==
+     Napoleon by the French sculptor, Devine. One of these he placed in
+     his hall in the house at Kennington Road, and the other on the
+     mantelpiece of the surgery at Lower Brixton. Well, when Dr. Barnicot
+     came down this morning he was astonished to find that his house had
+     been burgled during the night, but that nothing had been taken save
+
+[line number in individual story] matching line = 103    window = 98 108
+
+[line number in concatenated text file] matching line = 38551    window = 38546 38556
+
+
+     could give us a clue as to the criminal or lunatic who had done the
+     mischief. Now, Mr. Holmes, you have got the facts."
+
+     "They are singular, not to say grotesque," said Holmes. "May I ask
+     whether the two busts smashed in Dr. Barnicot's rooms were the exact
+==>      duplicates of the one which was destroyed in Morse Hudson's shop?" <==
+
+     "They were taken from the same mould."
+
+     "Such a fact must tell against the theory that the man who breaks
+     them is influenced by any general hatred of Napoleon. Considering how
+
+[line number in individual story] matching line = 115    window = 110 120
+
+[line number in concatenated text file] matching line = 38563    window = 38558 38568
+
+
+     it is too much to suppose such a coincidence as that a promiscuous
+     iconoclast should chance to begin upon three specimens of the same
+     bust."
+
+     "Well, I thought as you do," said Lestrade. "On the other hand, this
+==>      Morse Hudson is the purveyor of busts in that part of London, and <==
+     these three were the only ones which had been in his shop for years.
+     So, although, as you say, there are many hundreds of statues in
+     London, it is very probable that these three were the only ones in
+     that district. Therefore, a local fanatic would begin with them. What
+     do you think, Dr. Watson?"
+
+[line number in individual story] matching line = 387    window = 382 392
+
+[line number in concatenated text file] matching line = 38835    window = 38830 38840
+
+
+     "Well, well, we can't expect to have it all our own way, Watson," he
+     said, at last. "We must come back in the afternoon if Mr. Harding
+     will not be here until then. I am, as you have no doubt surmised,
+     endeavouring to trace these busts to their source, in order to find
+     if there is not something peculiar which may account for their
+==>      remarkable fate. Let us make for Mr. Morse Hudson, of the Kennington <==
+     Road, and see if he can throw any light upon the problem."
+
+     A drive of an hour brought us to the picture-dealer's establishment.
+     He was a small, stout man with a red face and a peppery manner.
+
+
+[line number in individual story] matching line = 412    window = 407 417
+
+[line number in concatenated text file] matching line = 38860    window = 38855 38865
+
+
+     week, and I've heard nothing of him since. No, I don't know where he
+     came from nor where he went to. I have nothing against him while he
+     was here. He was gone two days before the bust was smashed."
+
+     "Well, that's all we could reasonably expect to get from Morse
+==>      Hudson," said Holmes, as we emerged from the shop. "We have this <==
+     Beppo as a common factor, both in Kennington and in Kensington, so
+     that is worth a ten-mile drive. Now, Watson, let us make for Gelder &
+     Co., of Stepney, the source and origin of busts. I shall be surprised
+     if we don't get some help down there."
+
+
+[line number in individual story] matching line = 430    window = 425 435
+
+[line number in concatenated text file] matching line = 38878    window = 38873 38883
+
+
+     monumental masonry. Inside was a large room in which fifty workers
+     were carving or moulding. The manager, a big blond German, received
+     us civilly, and gave a clear answer to all Holmes's questions. A
+     reference to his books showed that hundreds of casts had been taken
+     from a marble copy of Devine's head of Napoleon, but that the three
+==>      which had been sent to Morse Hudson a year or so before had been half <==
+     of a batch of six, the other three being sent to Harding Brothers, of
+     Kensington. There was no reason why those six should be different to
+     any of the other casts. He could suggest no possible cause why anyone
+     should wish to destroy them--in fact, he laughed at the idea. Their
+     wholesale price was six shillings, but the retailer would get twelve
+
+[line number in individual story] matching line = 842    window = 837 847
+
+[line number in concatenated text file] matching line = 39290    window = 39285 39295
+
+
+     breaking them could he see. Even shaking would tell him nothing, for
+     as the plaster was wet it was probable that the pearl would adhere to
+     it--as, in fact, it has done. Beppo did not despair, and he conducted
+     his search with considerable ingenuity and perseverance. Through a
+     cousin who works with Gelder he found out the retail firms who had
+==>      bought the busts. He managed to find employment with Morse Hudson, <==
+     and in that way tracked down three of them. The pearl was not there.
+     Then, with the help of some Italian employe, he succeeded in finding
+     out where the other three busts had gone. The first was at Harker's.
+     There he was dogged by his confederate, who held Beppo responsible
+     for the loss of the pearl, and he stabbed him in the scuffle which
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================== 
+            in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ -------------------------------------------------------------------------------------------------- 
+ Hudson       9       0    0.00901803607214429          0              Inf     5.31207510462399e-10 
+ Morse        9       0    0.00901803607214429          0              Inf     5.31207510462399e-10 
+ Kennington   6       0    0.00601202404809619          0              Inf     1.02269251875392e-06 
+ Road         6       2    0.00601202404809619 0.000407913522333265   14.738   9.08028758884351e-05 
+ shop         6       3    0.00601202404809619 0.000611870283499898   9.826    0.000400268508067965 
+ three        7       5    0.00701402805611222 0.00101978380583316    6.878    0.000568567249644169 
+ begin        2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ books        2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ Brixton      2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ drive        2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ expect       2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ pictures     2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ probable     2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ source       2       0    0.00200400801603206          0              Inf      0.0283937299340344  
+ Dr           5       6    0.00501002004008016  0.0012237405669998    4.094     0.0335770007857919  
+ casts        3       2    0.0030060120240481  0.000407913522333265   7.369     0.0483214266653688  
+ -------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Six Napoleons"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 38450    window = 38449 38455
+
+
+
+==>      It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to <==
+     look in upon us of an evening, and his visits were welcome to
+     Sherlock Holmes, for they enabled him to keep in touch with all that
+     was going on at the police head-quarters. In return for the news
+     which Lestrade would bring, Holmes was always ready to listen with
+     attention to the details of any case upon which the detective was
+
+[line number in individual story] matching line = 6    window = 1 11
+
+[line number in concatenated text file] matching line = 38454    window = 38449 38459
+
+
+
+     It was no very unusual thing for Mr. Lestrade, of Scotland Yard, to
+     look in upon us of an evening, and his visits were welcome to
+     Sherlock Holmes, for they enabled him to keep in touch with all that
+     was going on at the police head-quarters. In return for the news
+==>      which Lestrade would bring, Holmes was always ready to listen with <==
+     attention to the details of any case upon which the detective was
+     engaged, and was able occasionally, without any active interference,
+     to give some hint or suggestion drawn from his own vast knowledge and
+     experience.
+
+
+[line number in individual story] matching line = 12    window = 7 17
+
+[line number in concatenated text file] matching line = 38460    window = 38455 38465
+
+
+     attention to the details of any case upon which the detective was
+     engaged, and was able occasionally, without any active interference,
+     to give some hint or suggestion drawn from his own vast knowledge and
+     experience.
+
+==>      On this particular evening Lestrade had spoken of the weather and the <==
+     newspapers. Then he had fallen silent, puffing thoughtfully at his
+     cigar. Holmes looked keenly at him.
+
+     "Anything remarkable on hand?" he asked.
+
+
+[line number in individual story] matching line = 22    window = 17 27
+
+[line number in concatenated text file] matching line = 38470    window = 38465 38475
+
+
+
+     "Oh, no, Mr. Holmes, nothing very particular."
+
+     "Then tell me about it."
+
+==>      Lestrade laughed. <==
+
+     "Well, Mr. Holmes, there is no use denying that there is something on
+     my mind. And yet it is such an absurd business that I hesitated to
+     bother you about it. On the other hand, although it is trivial, it is
+     undoubtedly queer, and I know that you have a taste for all that is
+
+[line number in individual story] matching line = 50    window = 45 55
+
+[line number in concatenated text file] matching line = 38498    window = 38493 38503
+
+
+
+     Holmes sat up again.
+
+     "Burglary! This is more interesting. Let me hear the details."
+
+==>      Lestrade took out his official note-book and refreshed his memory <==
+     from its pages.
+
+     "The first case reported was four days ago," said he. "It was at the
+     shop of Morse Hudson, who has a place for the sale of pictures and
+     statues in the Kennington Road. The assistant had left the front shop
+
+[line number in individual story] matching line = 114    window = 109 119
+
+[line number in concatenated text file] matching line = 38562    window = 38557 38567
+
+
+     many hundreds of statues of the great Emperor must exist in London,
+     it is too much to suppose such a coincidence as that a promiscuous
+     iconoclast should chance to begin upon three specimens of the same
+     bust."
+
+==>      "Well, I thought as you do," said Lestrade. "On the other hand, this <==
+     Morse Hudson is the purveyor of busts in that part of London, and
+     these three were the only ones which had been in his shop for years.
+     So, although, as you say, there are many hundreds of statues in
+     London, it is very probable that these three were the only ones in
+     that district. Therefore, a local fanatic would begin with them. What
+
+[line number in individual story] matching line = 148    window = 143 153
+
+[line number in concatenated text file] matching line = 38596    window = 38591 38601
+
+
+     nothing trivial when I reflect that some of my most classic cases
+     have had the least promising commencement. You will remember, Watson,
+     how the dreadful business of the Abernetty family was first brought
+     to my notice by the depth which the parsley had sunk into the butter
+     upon a hot day. I can't afford, therefore, to smile at your three
+==>      broken busts, Lestrade, and I shall be very much obliged to you if <==
+     you will let me hear of any fresh developments of so singular a chain
+     of events."
+
+     The development for which my friend had asked came in a quicker and
+     an infinitely more tragic form than he could have imagined. I was
+
+[line number in individual story] matching line = 158    window = 153 163
+
+[line number in concatenated text file] matching line = 38606    window = 38601 38611
+
+
+     an infinitely more tragic form than he could have imagined. I was
+     still dressing in my bedroom next morning when there was a tap at the
+     door and Holmes entered, a telegram in his hand. He read it aloud:
+
+     "Come instantly, 131, Pitt Street, Kensington.
+==>      "Lestrade." <==
+
+     "What is it, then?" I asked.
+
+     "Don't know--may be anything. But I suspect it is the sequel of the
+     story of the statues. In that case our friend, the image-breaker, has
+
+[line number in individual story] matching line = 177    window = 172 182
+
+[line number in concatenated text file] matching line = 38625    window = 38620 38630
+
+
+
+     "By George! it's attempted murder at the least. Nothing less will
+     hold the London message-boy. There's a deed of violence indicated in
+     that fellow's round shoulders and outstretched neck. What's this,
+     Watson? The top steps swilled down and the other ones dry. Footsteps
+==>      enough, anyhow! Well, well, there's Lestrade at the front window, and <==
+     we shall soon know all about it."
+
+     The official received us with a very grave face and showed us into a
+     sitting-room, where an exceedingly unkempt and agitated elderly man,
+     clad in a flannel dressing-gown, was pacing up and down. He was
+
+[line number in individual story] matching line = 186    window = 181 191
+
+[line number in concatenated text file] matching line = 38634    window = 38629 38639
+
+
+     sitting-room, where an exceedingly unkempt and agitated elderly man,
+     clad in a flannel dressing-gown, was pacing up and down. He was
+     introduced to us as the owner of the house--Mr. Horace Harker, of the
+     Central Press Syndicate.
+
+==>      "It's the Napoleon bust business again," said Lestrade. "You seemed <==
+     interested last night, Mr. Holmes, so I thought perhaps you would be
+     glad to be present now that the affair has taken a very much graver
+     turn."
+
+     "What has it turned to, then?"
+
+[line number in individual story] matching line = 242    window = 237 247
+
+[line number in concatenated text file] matching line = 38690    window = 38685 38695
+
+
+     police-whistle, and then I must have fainted, for I knew nothing more
+     until I found the policeman standing over me in the hall."
+
+     "Well, who was the murdered man?" asked Holmes.
+
+==>      "There's nothing to show who he was," said Lestrade. "You shall see <==
+     the body at the mortuary, but we have made nothing of it up to now.
+     He is a tall man, sunburned, very powerful, not more than thirty. He
+     is poorly dressed, and yet does not appear to be a labourer. A
+     horn-handled clasp knife was lying in a pool of blood beside him.
+     Whether it was the weapon which did the deed, or whether it belonged
+
+[line number in individual story] matching line = 292    window = 287 297
+
+[line number in concatenated text file] matching line = 38740    window = 38735 38745
+
+
+     and destructive hatred in the mind of the unknown. It lay scattered
+     in splintered shards upon the grass. Holmes picked up several of them
+     and examined them carefully. I was convinced from his intent face and
+     his purposeful manner that at last he was upon a clue.
+
+==>      "Well?" asked Lestrade. <==
+
+     Holmes shrugged his shoulders.
+
+     "We have a long way to go yet," said he. "And yet--and yet--well, we
+     have some suggestive facts to act upon. The possession of this
+
+[line number in individual story] matching line = 310    window = 305 315
+
+[line number in concatenated text file] matching line = 38758    window = 38753 38763
+
+
+
+     "Well, that's likely enough. But I wish to call your attention very
+     particularly to the position of this house in the garden of which the
+     bust was destroyed."
+
+==>      Lestrade looked about him. <==
+
+     "It was an empty house, and so he knew that he would not be disturbed
+     in the garden."
+
+     "Yes, but there is another empty house farther up the street which he
+
+[line number in individual story] matching line = 320    window = 315 325
+
+[line number in concatenated text file] matching line = 38768    window = 38763 38773
+
+
+     "Yes, but there is another empty house farther up the street which he
+     must have passed before he came to this one. Why did he not break it
+     there, since it is evident that every yard that he carried it
+     increased the risk of someone meeting him?"
+
+==>      "I give it up," said Lestrade. <==
+
+     Holmes pointed to the street lamp above our heads.
+
+     "He could see what he was doing here and he could not there. That was
+     his reason."
+
+[line number in individual story] matching line = 332    window = 327 337
+
+[line number in concatenated text file] matching line = 38780    window = 38775 38785
+
+
+     "By Jove! that's true," said the detective. "Now that I come to think
+     of it, Dr. Barnicot's bust was broken not far from his red lamp.
+     Well, Mr. Holmes, what are we to do with that fact?"
+
+     "To remember it--to docket it. We may come on something later which
+==>      will bear upon it. What steps do you propose to take now, Lestrade?" <==
+
+     "The most practical way of getting at it, in my opinion, is to
+     identify the dead man. There should be no difficulty about that. When
+     we have found who he is and who his associates are, we should have a
+     good start in learning what he was doing in Pitt Street last night,
+
+[line number in individual story] matching line = 350    window = 345 355
+
+[line number in concatenated text file] matching line = 38798    window = 38793 38803
+
+
+
+     "Oh, you must not let me influence you in any way! I suggest that you
+     go on your line and I on mine. We can compare notes afterwards, and
+     each will supplement the other."
+
+==>      "Very good," said Lestrade. <==
+
+     "If you are going back to Pitt Street you might see Mr. Horace
+     Harker. Tell him from me that I have quite made up my mind, and that
+     it is certain that a dangerous homicidal lunatic with Napoleonic
+     delusions was in his house last night. It will be useful for his
+
+[line number in individual story] matching line = 358    window = 353 363
+
+[line number in concatenated text file] matching line = 38806    window = 38801 38811
+
+
+     Harker. Tell him from me that I have quite made up my mind, and that
+     it is certain that a dangerous homicidal lunatic with Napoleonic
+     delusions was in his house last night. It will be useful for his
+     article."
+
+==>      Lestrade stared. <==
+
+     "You don't seriously believe that?"
+
+     Holmes smiled.
+
+
+[line number in individual story] matching line = 367    window = 362 372
+
+[line number in concatenated text file] matching line = 38815    window = 38810 38820
+
+
+     Holmes smiled.
+
+     "Don't I? Well, perhaps I don't. But I am sure that it will interest
+     Mr. Horace Harker and the subscribers of the Central Press Syndicate.
+     Now, Watson, I think that we shall find that we have a long and
+==>      rather complex day's work before us. I should be glad, Lestrade, if <==
+     you could make it convenient to meet us at Baker Street at six
+     o'clock this evening. Until then I should like to keep this
+     photograph found in the dead man's pocket. It is possible that I may
+     have to ask your company and assistance upon a small expedition which
+     will have be undertaken to-night, if my chain of reasoning should
+
+[line number in individual story] matching line = 488    window = 483 493
+
+[line number in concatenated text file] matching line = 38936    window = 38931 38941
+
+
+     the cruet-stand and read it while he ate. Once or twice he chuckled.
+
+     "This is all right, Watson," said he. "Listen to this:
+
+     "It is satisfactory to know that there can be no difference of
+==>      opinion upon this case, since Mr. Lestrade, one of the most <==
+     experienced members of the official force, and Mr. Sherlock Holmes,
+     the well-known consulting expert, have each come to the conclusion
+     that the grotesque series of incidents, which have ended in so tragic
+     a fashion, arise from lunacy rather than from deliberate crime. No
+     explanation save mental aberration can cover the facts.
+
+[line number in individual story] matching line = 522    window = 517 527
+
+[line number in concatenated text file] matching line = 38970    window = 38965 38975
+
+
+     you'll let me know if anything comes of your inquiries."
+
+     Holmes had taken several notes during Mr. Harding's evidence, and I
+     could see that he was thoroughly satisfied by the turn which affairs
+     were taking. He made no remark, however, save that, unless we
+==>      hurried, we should be late for our appointment with Lestrade. Sure <==
+     enough, when we reached Baker Street the detective was already there,
+     and we found him pacing up and down in a fever of impatience. His
+     look of importance showed that his day's work had not been in vain.
+
+     "Well?" he asked. "What luck, Mr. Holmes?"
+
+[line number in individual story] matching line = 534    window = 529 539
+
+[line number in concatenated text file] matching line = 38982    window = 38977 38987
+
+
+     "We have had a very busy day, and not entirely a wasted one," my
+     friend explained. "We have seen both the retailers and also the
+     wholesale manufacturers. I can trace each of the busts now from the
+     beginning."
+
+==>      "The busts!" cried Lestrade. "Well, well, you have your own methods, <==
+     Mr. Sherlock Holmes, and it is not for me to say a word against them,
+     but I think I have done a better day's work than you. I have
+     identified the dead man."
+
+     "You don't say so?"
+
+[line number in individual story] matching line = 563    window = 558 568
+
+[line number in concatenated text file] matching line = 39011    window = 39006 39016
+
+
+     the scuffle he receives his own death-wound. How is that, Mr.
+     Sherlock Holmes?"
+
+     Holmes clapped his hands approvingly.
+
+==>      "Excellent, Lestrade, excellent!" he cried. "But I didn't quite <==
+     follow your explanation of the destruction of the busts."
+
+     "The busts! You never can get those busts out of your head. After
+     all, that is nothing; petty larceny, six months at the most. It is
+     the murder that we are really investigating, and I tell you that I am
+
+[line number in individual story] matching line = 587    window = 582 592
+
+[line number in concatenated text file] matching line = 39035    window = 39030 39040
+
+
+     heels."
+
+     "In the Italian quarter?"
+
+     "No; I fancy Chiswick is an address which is more likely to find him.
+==>      If you will come with me to Chiswick to-night, Lestrade, I'll promise <==
+     to go to the Italian quarter with you to-morrow, and no harm will be
+     done by the delay. And now I think that a few hours' sleep would do
+     us all good, for I do not propose to leave before eleven o'clock, and
+     it is unlikely that we shall be back before morning. You'll dine with
+     us, Lestrade, and then you are welcome to the sofa until it is time
+
+[line number in individual story] matching line = 592    window = 587 597
+
+[line number in concatenated text file] matching line = 39040    window = 39035 39045
+
+
+     If you will come with me to Chiswick to-night, Lestrade, I'll promise
+     to go to the Italian quarter with you to-morrow, and no harm will be
+     done by the delay. And now I think that a few hours' sleep would do
+     us all good, for I do not propose to leave before eleven o'clock, and
+     it is unlikely that we shall be back before morning. You'll dine with
+==>      us, Lestrade, and then you are welcome to the sofa until it is time <==
+     for us to start. In the meantime, Watson, I should be glad if you
+     would ring for an express messenger, for I have a letter to send, and
+     it is important that it should go at once."
+
+     Holmes spent the evening in rummaging among the files of the old
+
+[line number in individual story] matching line = 645    window = 640 650
+
+[line number in concatenated text file] matching line = 39093    window = 39088 39098
+
+
+     saw the sudden flash of a dark lantern inside the room. What he
+     sought was evidently not there, for again we saw the flash through
+     another blind, and then through another.
+
+     "Let us get to the open window. We will nab him as he climbs out,"
+==>      Lestrade whispered. <==
+
+     But before we could move the man had emerged again. As he came out
+     into the glimmering patch of light we saw that he carried something
+     white under his arm. He looked stealthily all round him. The silence
+     of the deserted street reassured him. Turning his back upon us he
+
+[line number in individual story] matching line = 655    window = 650 660
+
+[line number in concatenated text file] matching line = 39103    window = 39098 39108
+
+
+     of the deserted street reassured him. Turning his back upon us he
+     laid down his burden, and the next instant there was the sound of a
+     sharp tap, followed by a clatter and rattle. The man was so intent
+     upon what he was doing that he never heard our steps as we stole
+     across the grass plot. With the bound of a tiger Holmes was on his
+==>      back, and an instant later Lestrade and I had him by either wrist and <==
+     the handcuffs had been fastened. As we turned him over I saw a
+     hideous, sallow face, with writhing, furious features, glaring up at
+     us, and I knew that it was indeed the man of the photograph whom we
+     had secured.
+
+
+[line number in individual story] matching line = 680    window = 675 685
+
+[line number in concatenated text file] matching line = 39128    window = 39123 39133
+
+
+     which you sent by the express messenger, and I did exactly what you
+     told me. We locked every door on the inside and awaited developments.
+     Well, I'm very glad to see that you have got the rascal. I hope,
+     gentlemen, that you will come in and have some refreshment."
+
+==>      However, Lestrade was anxious to get his man into safe quarters, so <==
+     within a few minutes our cab had been summoned and we were all four
+     upon our way to London. Not a word would our captive say; but he
+     glared at us from the shadow of his matted hair, and once, when my
+     hand seemed within his reach, he snapped at it like a hungry wolf. We
+     stayed long enough at the police-station to learn that a search of
+
+[line number in individual story] matching line = 689    window = 684 694
+
+[line number in concatenated text file] matching line = 39137    window = 39132 39142
+
+
+     hand seemed within his reach, he snapped at it like a hungry wolf. We
+     stayed long enough at the police-station to learn that a search of
+     his clothing revealed nothing save a few shillings and a long sheath
+     knife, the handle of which bore copious traces of recent blood.
+
+==>      "That's all right," said Lestrade, as we parted. "Hill knows all <==
+     these gentry, and he will give a name to him. You'll find that my
+     theory of the Mafia will work out all right. But I'm sure I am
+     exceedingly obliged to you, Mr. Holmes, for the workmanlike way in
+     which you laid hands upon him. I don't quite understand it all yet."
+
+
+[line number in individual story] matching line = 706    window = 701 711
+
+[line number in concatenated text file] matching line = 39154    window = 39149 39159
+
+
+     features which make it absolutely original in the history of crime.
+     If ever I permit you to chronicle any more of my little problems,
+     Watson, I foresee that you will enliven your pages by an account of
+     the singular adventure of the Napoleonic busts."
+
+==>      When we met again next evening Lestrade was furnished with much <==
+     information concerning our prisoner. His name, it appeared, was
+     Beppo, second name unknown. He was a well-known ne'er-do-well among
+     the Italian colony. He had once been a skilful sculptor and had
+     earned an honest living, but he had taken to evil courses and had
+     twice already been in jail--once for a petty theft and once, as we
+
+[line number in individual story] matching line = 790    window = 785 795
+
+[line number in concatenated text file] matching line = 39238    window = 39233 39243
+
+
+     plum in a pudding.
+
+     "Gentlemen," he cried, "let me introduce you to the famous black
+     pearl of the Borgias."
+
+==>      Lestrade and I sat silent for a moment, and then, with a spontaneous <==
+     impulse, we both broke out clapping as at the well-wrought crisis of
+     a play. A flush of colour sprang to Holmes's pale cheeks, and he
+     bowed to us like the master dramatist who receives the homage of his
+     audience. It was at such moments that for an instant he ceased to be
+     a reasoning machine, and betrayed his human love for admiration and
+
+[line number in individual story] matching line = 805    window = 800 810
+
+[line number in concatenated text file] matching line = 39253    window = 39248 39258
+
+
+     "Yes, gentlemen," said he, "it is the most famous pearl now existing
+     in the world, and it has been my good fortune, by a connected chain
+     of inductive reasoning, to trace it from the Prince of Colonna's
+     bedroom at the Dacre Hotel, where it was lost, to the interior of
+     this, the last of the six busts of Napoleon which were manufactured
+==>      by Gelder & Co., of Stepney. You will remember, Lestrade, the <==
+     sensation caused by the disappearance of this valuable jewel, and the
+     vain efforts of the London police to recover it. I was myself
+     consulted upon the case; but I was unable to throw any light upon it.
+     Suspicion fell upon the maid of the Princess, who was an Italian, and
+     it was proved that she had a brother in London, but we failed to
+
+[line number in individual story] matching line = 875    window = 870 880
+
+[line number in concatenated text file] matching line = 39323    window = 39318 39328
+
+
+     Reading one--and the pearl must be there. I bought it in your
+     presence from the owner--and there it lies."
+
+     We sat in silence for a moment.
+
+==>      "Well," said Lestrade, "I've seen you handle a good many cases, Mr. <==
+     Holmes, but I don't know that I ever knew a more workmanlike one than
+     that. We're not jealous of you at Scotland Yard. No, sir, we are very
+     proud of you, and if you come down to-morrow there's not a man, from
+     the oldest inspector to the youngest constable, who wouldn't be glad
+     to shake you by the hand."
+
+[line number in individual story] matching line = 887    window = 882 892
+
+[line number in concatenated text file] matching line = 39335    window = 39330 39340
+
+
+     "Thank you!" said Holmes. "Thank you!" and as he turned away it
+     seemed to me that he was more nearly moved by the softer human
+     emotions than I had ever seen him. A moment later he was the cold and
+     practical thinker once more. "Put the pearl in the safe, Watson,"
+     said he, "and get out the papers of the Conk-Singleton forgery case.
+==>      Good-bye, Lestrade. If any little problem comes your way I shall be <==
+     happy, if I can, to give you a hint or two as to its solution."
+
+
+
+
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================ 
+          in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------ 
+ Lestrade   33      0    0.0114305507447177           0              Inf     5.86161739085728e-12 
+ will       16      7    0.0055420852095601  0.00161216029479503    3.438    0.00708782458006916  
+ glad       5       0    0.00173190162798753          0              Inf      0.0222261556942596  
+ hand       6       1    0.00207828195358504 0.000230308613542146   9.024     0.0367889779685454  
+ ------------------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+

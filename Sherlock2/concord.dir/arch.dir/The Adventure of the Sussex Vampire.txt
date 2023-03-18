@@ -1,0 +1,1158 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Sussex Vampire"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 69484    window = 69483 69489
+
+
+
+==>      Holmes had read carefully a note which the last post had brought him. <==
+      Then, with the dry chuckle which was his nearest approach to a
+     laugh, he tossed it over to me.
+
+     "For a mixture of the modern and the mediaeval, of the practical and
+     of the wildly fanciful, I think this is surely the limit," said he. 
+
+[line number in individual story] matching line = 29    window = 24 34
+
+[line number in concatenated text file] matching line = 69511    window = 69506 69516
+
+
+     Faithfully yours,
+     Morrison, Morrison, and Dodd.
+     per E. J. C.
+
+     "Matilda Briggs was not the name of a young woman, Watson," said
+==>      Holmes in a reminiscent voice. "It was a ship which is associated <==
+     with the giant rat of Sumatra, a story for which the world is not yet
+     prepared. But what do we know about vampires? Does it come within our
+     purview either? Anything is better than stagnation, but really we
+     seem to have been switched on to a Grimms' fairy tale. Make a long
+     arm, Watson, and see what V has to say."
+
+[line number in individual story] matching line = 37    window = 32 42
+
+[line number in concatenated text file] matching line = 69519    window = 69514 69524
+
+
+     purview either? Anything is better than stagnation, but really we
+     seem to have been switched on to a Grimms' fairy tale. Make a long
+     arm, Watson, and see what V has to say."
+
+     I leaned back and took down the great index volume to which he
+==>      referred. Holmes balanced it on his knee, and his eyes moved slowly <==
+     and lovingly over the record of old cases, mixed with the accumulated
+     information of a lifetime.
+
+     "Voyage of the Gloria Scott," he read.  "That was a bad business. I
+     have some recollection that you made a record of it, Watson, though I
+
+[line number in individual story] matching line = 81    window = 76 86
+
+[line number in concatenated text file] matching line = 69563    window = 69558 69568
+
+
+
+     "It is in Sussex, south of Horsham."
+
+     "Not very far, eh? And Cheeseman's?"
+
+==>      "I know that country, Holmes. It is full of old houses which are <==
+     named after the men who built them centuries ago. You get Odley's and
+     Harvey's and Carriton's--the folk are forgotten but their names live
+     in their houses.
+
+     "Precisely," said Holmes coldly. It was one of the peculiarities of
+
+[line number in individual story] matching line = 86    window = 81 91
+
+[line number in concatenated text file] matching line = 69568    window = 69563 69573
+
+
+     "I know that country, Holmes. It is full of old houses which are
+     named after the men who built them centuries ago. You get Odley's and
+     Harvey's and Carriton's--the folk are forgotten but their names live
+     in their houses.
+
+==>      "Precisely," said Holmes coldly. It was one of the peculiarities of <==
+     his proud, self-contained nature that though he docketed any fresh
+     information very quietly and accurately in his brain, he seldom made
+     any acknowledgment to the giver. "I rather fancy we shall know a good
+     deal more about Cheeseman's, Lamberley, before we are through. The
+     letter is, as I had hoped, from Robert Ferguson. By the way, he
+
+[line number in individual story] matching line = 100    window = 95 105
+
+[line number in concatenated text file] matching line = 69582    window = 69577 69587
+
+
+
+     "You had better read it."
+
+     He handed the letter across. It was headed with the address quoted.
+
+==>      Dear Mr. Holmes [it said]: <==
+     I have been recommended to you by my lawyers, but indeed the matter
+     is so extraordinarily delicate that it is most difficult to discuss.
+     It concerns a friend for whom I am acting. This gentleman married
+     some five years ago a Peruvian lady, the daughter of a Peruvian
+     merchant, whom he had met in connection with the importation of
+
+[line number in individual story] matching line = 155    window = 150 160
+
+[line number in concatenated text file] matching line = 69637    window = 69632 69642
+
+
+     upon her stepson, a loving mother. Why, then, should she wound her
+     own dear little baby? He told the nurse that she was dreaming, that
+     her suspicions were those of a lunatic, and that such libels upon her
+     mistress were not to be tolerated.  While they were talking a sudden
+     cry of pain was heard. Nurse and master rushed together to the
+==>      nursery. Imagine his feelings, Mr. Holmes, as he saw his wife rise <==
+     from a kneeling position beside the cot and saw blood upon the
+     child's exposed neck and upon the sheet. With a cry of horror, he
+     turned his wife's face to the light and saw blood all round her lips.
+     It was she--she beyond all question--who had drunk the poor baby's
+     blood.
+
+[line number in individual story] matching line = 180    window = 175 185
+
+[line number in concatenated text file] matching line = 69662    window = 69657 69667
+
+
+     "Of course I remembered him," said I as I laid down the letter. "Big
+     Bob Ferguson, the finest three-quarter Richmond ever had. He was
+     always a good-natured chap. It's like him to be so concerned over a
+     friend's case."
+
+==>      Holmes looked at me thoughtfully and shook his head. <==
+
+     "I never get your limits, Watson," said he.  "There are unexplored
+     possibilities about you. Take a wire down, like a good fellow. 'Will
+     examine your case with pleasure.'"
+
+
+[line number in individual story] matching line = 204    window = 199 209
+
+[line number in concatenated text file] matching line = 69686    window = 69681 69691
+
+
+
+     "Hullo, Watson," said he, and his voice was still deep and hearty.
+     "You don't look quite the man you did when I threw you over the ropes
+     into the crowd at the Old Deer Park. I expect I have changed a bit
+     also. But it's this last day or two that has aged me. I see by your
+==>      telegram, Mr. Holmes, that it is no use my pretending to be anyone's <==
+     deputy."
+
+     "It is simpler to deal direct," said Holmes.
+
+     "Of course it is. But you can imagine how difficult it is when you
+
+[line number in individual story] matching line = 207    window = 202 212
+
+[line number in concatenated text file] matching line = 69689    window = 69684 69694
+
+
+     into the crowd at the Old Deer Park. I expect I have changed a bit
+     also. But it's this last day or two that has aged me. I see by your
+     telegram, Mr. Holmes, that it is no use my pretending to be anyone's
+     deputy."
+
+==>      "It is simpler to deal direct," said Holmes. <==
+
+     "Of course it is. But you can imagine how difficult it is when you
+     are speaking of the one woman whom you are bound to protect and help.
+     What can I do? How am I to go to the police with such a story? And
+     yet the kiddies have got to be protected. Is it madness, Mr. Holmes?
+
+[line number in individual story] matching line = 212    window = 207 217
+
+[line number in concatenated text file] matching line = 69694    window = 69689 69699
+
+
+     "It is simpler to deal direct," said Holmes.
+
+     "Of course it is. But you can imagine how difficult it is when you
+     are speaking of the one woman whom you are bound to protect and help.
+     What can I do? How am I to go to the police with such a story? And
+==>      yet the kiddies have got to be protected. Is it madness, Mr. Holmes? <==
+     Is it something in the blood? Have you any similar case in your
+     experience? For God's sake, give me some advice, for I am at my wit's
+     end."
+
+     "Very naturally, Mr. Ferguson. Now sit here and pull yourself
+
+[line number in individual story] matching line = 223    window = 218 228
+
+[line number in concatenated text file] matching line = 69705    window = 69700 69710
+
+
+     together and give me a few clear answers. I can assure you that I am
+     very far from being at my wit's end, and that I am confident we shall
+     find some solution.  First of all, tell me what steps you have taken.
+     Is your wife still near the children?"
+
+==>      "We had a dreadful scene. She is a most loving woman, Mr.  Holmes. If <==
+     ever a woman loved a man with all her heart and soul, she loves me.
+     She was cut to the heart that I should have discovered this horrible,
+     this incredible, secret. She would not even speak. She gave no answer
+     to my reproaches, save to gaze at me with a sort of wild, despairing
+     look in her eyes. Then she rushed to her room and locked herself in. 
+
+[line number in individual story] matching line = 246    window = 241 251
+
+[line number in concatenated text file] matching line = 69728    window = 69723 69733
+
+
+
+     "No, she struck him savagely. It is the more terrible as he is a poor
+     little inoffensive cripple." Ferguson's gaunt features softened as he
+     spoke of his boy. "You would think that the dear lad's condition
+     would soften anyone's heart. A fall in childhood and a twisted spine,
+==>      Mr. Holmes. But the dearest, most loving heart within." <==
+
+     Holmes had picked up the letter of yesterday and was reading it over.
+     "What other inmates are there in your house, Mr. Ferguson?"
+
+     "Two servants who have not been long with us. One stable-hand,
+
+[line number in individual story] matching line = 248    window = 243 253
+
+[line number in concatenated text file] matching line = 69730    window = 69725 69735
+
+
+     little inoffensive cripple." Ferguson's gaunt features softened as he
+     spoke of his boy. "You would think that the dear lad's condition
+     would soften anyone's heart. A fall in childhood and a twisted spine,
+     Mr. Holmes. But the dearest, most loving heart within."
+
+==>      Holmes had picked up the letter of yesterday and was reading it over. <==
+     "What other inmates are there in your house, Mr. Ferguson?"
+
+     "Two servants who have not been long with us. One stable-hand,
+     Michael, who sleeps in the house. My wife, myself, my boy Jack, baby,
+     Dolores, and Mrs. Mason. That is all."
+
+[line number in individual story] matching line = 269    window = 264 274
+
+[line number in concatenated text file] matching line = 69751    window = 69746 69756
+
+
+     "Then your wife's character would really be better known by Dolores
+     than by you?"
+
+     "Yes, you may say so."
+
+==>      Holmes made a note. <==
+
+     "I fancy," said he, "that I may be of more use at Lamberley than
+     here. It is eminently a case for personal investigation. If the lady
+     remains in her room, our presence could not annoy or inconvenience
+     her. Of course, we would stay at the inn."
+
+[line number in individual story] matching line = 278    window = 273 283
+
+[line number in concatenated text file] matching line = 69760    window = 69755 69765
+
+
+     remains in her room, our presence could not annoy or inconvenience
+     her. Of course, we would stay at the inn."
+
+     Ferguson gave a gesture of relief.
+
+==>      "It is what I hoped, Mr. Holmes. There is an excellent train at two <==
+     from Victoria if you could come."
+
+     "Of course we could come. There is a lull at present. I can give you
+     my undivided energies. Watson, of course, comes with us. But there
+     are one or two points upon which I wish to be very sure before I
+
+[line number in individual story] matching line = 319    window = 314 324
+
+[line number in concatenated text file] matching line = 69801    window = 69796 69806
+
+
+     "Yet you say he is affectionate?"
+
+     "Never in the world could there be so devoted a son. My life is his
+     life. He is absorbed in what I say or do."
+
+==>      Once again Holmes made a note. For some time he sat lost in thought. <==
+
+     "No doubt you and the boy were great comrades before this second
+     marriage. You were thrown very close together, were you not?"
+
+     "Very much so."
+
+[line number in individual story] matching line = 342    window = 337 347
+
+[line number in concatenated text file] matching line = 69824    window = 69819 69829
+
+
+     only Jack who suffered. Mrs. Mason had no complaint to make about the
+     baby."
+
+     "That certainly complicates matters."
+
+==>      "I don't quite follow you, Mr. Holmes." <==
+
+     "Possibly not. One forms provisional theories and waits for time or
+     fuller knowledge to explode them. A bad habit, Mr. Ferguson, but
+     human nature is weak. I fear that your old friend here has given an
+     exaggerated view of my scientific methods. However, I will only say
+
+[line number in individual story] matching line = 376    window = 371 381
+
+[line number in concatenated text file] matching line = 69858    window = 69853 69863
+
+
+     original yeoman farmer of the seventeenth century. They were
+     ornamented, however, on the lower part by a line of well-chosen
+     modern water-colours; while above, where yellow plaster took the
+     place of oak, there was hung a fine collection of South American
+     utensils and weapons, which had been brought, no doubt, by the
+==>      Peruvian lady upstairs. Holmes rose, with that quick curiosity which <==
+     sprang from his eager mind, and examined them with some care. He
+     returned with his eyes full of thought.
+
+     "Hullo!" he cried. "Hullo!"
+
+
+[line number in individual story] matching line = 387    window = 382 392
+
+[line number in concatenated text file] matching line = 69869    window = 69864 69874
+
+
+     A spaniel had lain in a basket in the corner. It came slowly forward
+     towards its master, walking with difficulty. Its hind legs moved
+     irregularly and its tail was on the ground. It licked Ferguson's
+     hand.
+
+==>      "What is it, Mr. Holmes?" <==
+
+     "The dog. What's the matter with it?"
+
+     "That's what puzzled the vet. A sort of paralysis.  Spinal
+     meningitis, he thought. But it is passing. He'll be all right
+
+[line number in individual story] matching line = 409    window = 404 414
+
+[line number in concatenated text file] matching line = 69891    window = 69886 69896
+
+
+
+     "It may have been four months ago."
+
+     "Very remarkable. Very suggestive."
+
+==>      "What do you see in it, Mr. Holmes?" <==
+
+     "A confirmation of what I had already thought."
+
+     "For God's sake, what do you think, Mr. Holmes? It may be a mere
+     intellectual puzzle to you, but it is life and death to me! My wife a
+
+[line number in individual story] matching line = 413    window = 408 418
+
+[line number in concatenated text file] matching line = 69895    window = 69890 69900
+
+
+
+     "What do you see in it, Mr. Holmes?"
+
+     "A confirmation of what I had already thought."
+
+==>      "For God's sake, what do you think, Mr. Holmes? It may be a mere <==
+     intellectual puzzle to you, but it is life and death to me! My wife a
+     would-be murderer--my child in constant danger! Don't play with me,
+     Mr. Holmes.  It is too terribly serious."
+
+     The big Rugby three-quarter was trembling all over. Holmes put his
+
+[line number in individual story] matching line = 416    window = 411 421
+
+[line number in concatenated text file] matching line = 69898    window = 69893 69903
+
+
+     "A confirmation of what I had already thought."
+
+     "For God's sake, what do you think, Mr. Holmes? It may be a mere
+     intellectual puzzle to you, but it is life and death to me! My wife a
+     would-be murderer--my child in constant danger! Don't play with me,
+==>      Mr. Holmes.  It is too terribly serious." <==
+
+     The big Rugby three-quarter was trembling all over. Holmes put his
+     hand soothingly upon his arm.
+
+     "I fear that there is pain for you, Mr. Ferguson, whatever the
+
+[line number in individual story] matching line = 418    window = 413 423
+
+[line number in concatenated text file] matching line = 69900    window = 69895 69905
+
+
+     "For God's sake, what do you think, Mr. Holmes? It may be a mere
+     intellectual puzzle to you, but it is life and death to me! My wife a
+     would-be murderer--my child in constant danger! Don't play with me,
+     Mr. Holmes.  It is too terribly serious."
+
+==>      The big Rugby three-quarter was trembling all over. Holmes put his <==
+     hand soothingly upon his arm.
+
+     "I fear that there is pain for you, Mr. Ferguson, whatever the
+     solution may be," said he. "I would spare you all I can. I cannot say
+     more for the instant, but before I leave this house I hope I may have
+
+[line number in individual story] matching line = 429    window = 424 434
+
+[line number in concatenated text file] matching line = 69911    window = 69906 69916
+
+
+     something definite."
+
+     "Please God you may! If you will excuse me, gentlemen, I will go up
+     to my wife's room and see if there has been any change."
+
+==>      He was away some minutes, during which Holmes resumed his examination <==
+     of the curiosities upon the wall. When our host returned it was clear
+     from his downcast face that he had made no progress. He brought with
+     him a tall, slim, brown-faced girl.
+
+     "The tea is ready, Dolores," said Ferguson.  "See that your mistress
+
+[line number in individual story] matching line = 510    window = 505 515
+
+[line number in concatenated text file] matching line = 69992    window = 69987 69997
+
+
+     face. I will not see him. Go now. You can do nothing for me. Tell him
+     only one thing. I want my child. I have a right to my child. That is
+     the only message I can send him." She turned her face to the wall and
+     would say no more.
+
+==>      I returned to the room downstairs, where Ferguson and Holmes still <==
+     sat by the fire. Ferguson listened moodily to my account of the
+     interview.
+
+     "How can I send her the child?" he said. "How do I know what strange
+     impulse might come upon her? How can I ever forget how she rose from
+
+[line number in individual story] matching line = 535    window = 530 540
+
+[line number in concatenated text file] matching line = 70017    window = 70012 70022
+
+
+
+     Ferguson gently disengaged himself from the embrace with some little
+     show of embarrassment.
+
+     "Dear old chap," said he, patting the flaxen head with a very tender
+==>      hand. "I came early because my friends, Mr. Holmes and Dr. Watson, <==
+     have been persuaded to come down and spend an evening with us."
+
+     "Is that Mr. Holmes, the detective?"
+
+     "Yes."
+
+[line number in individual story] matching line = 538    window = 533 543
+
+[line number in concatenated text file] matching line = 70020    window = 70015 70025
+
+
+
+     "Dear old chap," said he, patting the flaxen head with a very tender
+     hand. "I came early because my friends, Mr. Holmes and Dr. Watson,
+     have been persuaded to come down and spend an evening with us."
+
+==>      "Is that Mr. Holmes, the detective?" <==
+
+     "Yes."
+
+     The youth looked at us with a very penetrating and, as it seemed to
+     me, unfriendly gaze.
+
+[line number in individual story] matching line = 545    window = 540 550
+
+[line number in concatenated text file] matching line = 70027    window = 70022 70032
+
+
+     "Yes."
+
+     The youth looked at us with a very penetrating and, as it seemed to
+     me, unfriendly gaze.
+
+==>      "What about your other child, Mr. Ferguson?" asked Holmes. "Might we <==
+     make the acquaintance of the baby?"
+
+     "Ask Mrs. Mason to bring baby down," said Ferguson.  The boy went off
+     with a curious, shambling gait which told my surgical eyes that he
+     was suffering from a weak spine. Presently he returned, and behind
+
+[line number in individual story] matching line = 559    window = 554 564
+
+[line number in concatenated text file] matching line = 70041    window = 70036 70046
+
+
+     his arms and fondled it most tenderly.
+
+     "Fancy anyone having the heart to hurt him," he muttered as he
+     glanced down at the small, angry red pucker upon the cherub throat.
+
+==>      It was at this moment that I chanced to glance at Holmes and saw a <==
+     most singular intentness in his expression. His face was as set as if
+     it had been carved out of old ivory, and his eyes, which had glanced
+     for a moment at father and child, were now fixed with eager curiosity
+     upon something at the other side of the room.  Following his gaze I
+     could only guess that he was looking out through the window at the
+
+[line number in individual story] matching line = 567    window = 562 572
+
+[line number in concatenated text file] matching line = 70049    window = 70044 70054
+
+
+     for a moment at father and child, were now fixed with eager curiosity
+     upon something at the other side of the room.  Following his gaze I
+     could only guess that he was looking out through the window at the
+     melancholy, dripping garden. It is true that a shutter had half
+     closed outside and obstructed the view, but none the less it was
+==>      certainly at the window that Holmes was fixing his concentrated <==
+     attention. Then he smiled, and his eyes came back to the baby. On its
+     chubby neck there was this small puckered mark. Without speaking,
+     Holmes examined it with care. Finally he shook one of the dimpled
+     fists which waved in front of him.
+
+
+[line number in individual story] matching line = 570    window = 565 575
+
+[line number in concatenated text file] matching line = 70052    window = 70047 70057
+
+
+     melancholy, dripping garden. It is true that a shutter had half
+     closed outside and obstructed the view, but none the less it was
+     certainly at the window that Holmes was fixing his concentrated
+     attention. Then he smiled, and his eyes came back to the baby. On its
+     chubby neck there was this small puckered mark. Without speaking,
+==>      Holmes examined it with care. Finally he shook one of the dimpled <==
+     fists which waved in front of him.
+
+     "Good-bye, little man. You have made a strange start in life. Nurse,
+     I should wish to have a word with you in private."
+
+
+[line number in individual story] matching line = 581    window = 576 586
+
+[line number in concatenated text file] matching line = 70063    window = 70058 70068
+
+
+     He took her aside and spoke earnestly for a few minutes. I only heard
+     the last words, which were: "Your anxiety will soon, I hope, be set
+     at rest." The woman, who seemed to be a sour, silent kind of
+     creature, withdrew with the child.
+
+==>      "What is Mrs. Mason like?" asked Holmes. <==
+
+     "Not very prepossessing externally, as you can see, but a heart of
+     gold, and devoted to the child."
+
+     "Do you like her, Jack?" Holmes turned suddenly upon the boy. His
+
+[line number in individual story] matching line = 586    window = 581 591
+
+[line number in concatenated text file] matching line = 70068    window = 70063 70073
+
+
+     "What is Mrs. Mason like?" asked Holmes.
+
+     "Not very prepossessing externally, as you can see, but a heart of
+     gold, and devoted to the child."
+
+==>      "Do you like her, Jack?" Holmes turned suddenly upon the boy. His <==
+     expressive mobile face shadowed over, and he shook his head.
+
+     "Jacky has very strong likes and dislikes," said Ferguson, putting
+     his arm round the boy. "Luckily I am one of his likes."
+
+
+[line number in individual story] matching line = 596    window = 591 601
+
+[line number in concatenated text file] matching line = 70078    window = 70073 70083
+
+
+
+     The boy cooed and nestled his head upon his father's breast. Ferguson
+     gently disengaged him.
+
+     "Run away, little Jacky," said he, and he watched his son with loving
+==>      eyes until he disappeared. "Now, Mr. Holmes," he continued when the <==
+     boy was gone, "I really feel that I have brought you on a fool's
+     errand, for what can you possibly do save give me your sympathy? It
+     must be an exceedingly delicate and complex affair from your point of
+     view."
+
+
+[line number in individual story] matching line = 613    window = 608 618
+
+[line number in concatenated text file] matching line = 70095    window = 70090 70100
+
+
+     reached it before we left Baker Street, and the rest has merely been
+     observation and confirmation."
+
+     Ferguson put his big hand to his furrowed forehead.
+
+==>      "For heaven's sake, Holmes," he said hoarsely; "if you can see the <==
+     truth in this matter, do not keep me in suspense. How do I stand? 
+     What shall I do? I care nothing as to how you have found your facts
+     so long as you have really got them."
+
+     "Certainly I owe you an explanation, and you shall have it. But you
+
+[line number in individual story] matching line = 629    window = 624 634
+
+[line number in concatenated text file] matching line = 70111    window = 70106 70116
+
+
+     "Very good. It is only in her presence that we can clear the matter
+     up. Let us go up to her."
+
+     "She will not see me," cried Ferguson.
+
+==>      "Oh, yes, she will," said Holmes. He scribbled a few lines upon a <==
+     sheet of paper. "You at least have the entree, Watson. Will you have
+     the goodness to give the lady this note?"
+
+     I ascended again and handed the note to Dolores, who cautiously
+     opened the door. A minute later I heard a cry from within, a cry in
+
+[line number in individual story] matching line = 639    window = 634 644
+
+[line number in concatenated text file] matching line = 70121    window = 70116 70126
+
+
+     opened the door. A minute later I heard a cry from within, a cry in
+     which joy and surprise seemed to be blended. Dolores looked out.
+
+     "She will see them. She will leesten," said she.
+
+==>      At my summons Ferguson and Holmes came up. As we entered the room <==
+     Ferguson took a step or two towards his wife, who had raised herself
+     in the bed, but she held out her hand to repulse him. He sank into an
+     armchair, while Holmes seated himself beside him, after bowing to the
+     lady, who looked at him with wide-eyed amazement.
+
+
+[line number in individual story] matching line = 642    window = 637 647
+
+[line number in concatenated text file] matching line = 70124    window = 70119 70129
+
+
+     "She will see them. She will leesten," said she.
+
+     At my summons Ferguson and Holmes came up. As we entered the room
+     Ferguson took a step or two towards his wife, who had raised herself
+     in the bed, but she held out her hand to repulse him. He sank into an
+==>      armchair, while Holmes seated himself beside him, after bowing to the <==
+     lady, who looked at him with wide-eyed amazement.
+
+     "I think we can dispense with Dolores," said Holmes.  "Oh, very well,
+     madame, if you would rather she stayed I can see no objection. Now,
+     Mr. Ferguson, I am a busy man with many calls, and my methods have to
+
+[line number in individual story] matching line = 645    window = 640 650
+
+[line number in concatenated text file] matching line = 70127    window = 70122 70132
+
+
+     Ferguson took a step or two towards his wife, who had raised herself
+     in the bed, but she held out her hand to repulse him. He sank into an
+     armchair, while Holmes seated himself beside him, after bowing to the
+     lady, who looked at him with wide-eyed amazement.
+
+==>      "I think we can dispense with Dolores," said Holmes.  "Oh, very well, <==
+     madame, if you would rather she stayed I can see no objection. Now,
+     Mr. Ferguson, I am a busy man with many calls, and my methods have to
+     be short and direct.  The swiftest surgery is the least painful. Let
+     me first say what will ease your mind. Your wife is a very good, a
+     very loving, and a very ill-used woman."
+
+[line number in individual story] matching line = 654    window = 649 659
+
+[line number in concatenated text file] matching line = 70136    window = 70131 70141
+
+
+     me first say what will ease your mind. Your wife is a very good, a
+     very loving, and a very ill-used woman."
+
+     Ferguson sat up with a cry of joy.
+
+==>      "Prove that, Mr. Holmes, and I am your debtor forever." <==
+
+     "I will do so, but in doing so I must wound you deeply in another
+     direction."
+
+     "I care nothing so long as you clear my wife. Everything on earth is
+
+[line number in individual story] matching line = 722    window = 717 727
+
+[line number in concatenated text file] matching line = 70204    window = 70199 70209
+
+
+     was better that I should wait and that it should come from some other
+     lips than mine. When this gentleman, who seems to have powers of
+     magic, wrote that he knew all, I was glad."
+
+     "I think a year at sea would be my prescription for Master Jacky,"
+==>      said Holmes, rising from his chair. "Only one thing is still clouded, <==
+     madame. We can quite understand your attacks upon Master Jacky. There
+     is a limit to a mother's patience. But how did you dare to leave the
+     child these last two days?"
+
+     "I had told Mrs. Mason. She knew."
+
+[line number in individual story] matching line = 734    window = 729 739
+
+[line number in concatenated text file] matching line = 70216    window = 70211 70221
+
+
+     "Exactly. So I imagined."
+
+     Ferguson was standing by the bed, choking, his hands outstretched and
+     quivering.
+
+==>      "This, I fancy, is the time for our exit, Watson," said Holmes in a <==
+     whisper. "If you will take one elbow of the too faithful Dolores, I
+     will take the other. There, now," he added as he closed the door
+     behind him, "I think we may leave them to settle the rest among
+     themselves."
+
+
+[line number in individual story] matching line = 741    window = 736 746
+
+[line number in concatenated text file] matching line = 70223    window = 70218 70228
+
+
+     will take the other. There, now," he added as he closed the door
+     behind him, "I think we may leave them to settle the rest among
+     themselves."
+
+     I have only one further note of this case. It is the letter which
+==>      Holmes wrote in final answer to that with which the narrative begins. <==
+     It ran thus:
+
+     Baker Street,
+     Nov. 21st.
+                                   Re Vampires
+
+[line number in individual story] matching line = 754    window = 749 759
+
+[line number in concatenated text file] matching line = 70236    window = 70231 70241
+
+
+     looked into the inquiry of your client, Mr. Robert Ferguson, of
+     Ferguson and Muirhead, tea brokers, of Mincing Lane, and that the
+     matter has been brought to a satisfactory conclusion. With thanks for
+     your recommendation, I am, sir,
+     Faithfully yours,
+==>      Sherlock Holmes. <==
+
+
+
+
+
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================= 
+        in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ --------------------------------------------------------------------------------------------- 
+ Holmes   45      0    0.0150401069518717           0             Inf     6.03817959205131e-09 
+ Mr       23      4    0.00768716577540107 0.00170430336599915    4.51    0.00417617086534057  
+ said     22      5    0.00735294117647059 0.00213037920749893   3.451     0.0132932631681505  
+ s        28     10    0.00935828877005348 0.00426075841499787   2.196     0.0418352878024898  
+ --------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Sussex Vampire"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 8    window = 3 13
+
+[line number in concatenated text file] matching line = 69490    window = 69485 69495
+
+
+      Then, with the dry chuckle which was his nearest approach to a
+     laugh, he tossed it over to me.
+
+     "For a mixture of the modern and the mediaeval, of the practical and
+     of the wildly fanciful, I think this is surely the limit," said he. 
+==>      "What do you make of it, Watson?" <==
+
+     I read as follows:
+
+     46, Old Jewry,
+     Nov. 19th.
+
+[line number in individual story] matching line = 28    window = 23 33
+
+[line number in concatenated text file] matching line = 69510    window = 69505 69515
+
+
+     We are, sir,
+     Faithfully yours,
+     Morrison, Morrison, and Dodd.
+     per E. J. C.
+
+==>      "Matilda Briggs was not the name of a young woman, Watson," said <==
+     Holmes in a reminiscent voice. "It was a ship which is associated
+     with the giant rat of Sumatra, a story for which the world is not yet
+     prepared. But what do we know about vampires? Does it come within our
+     purview either? Anything is better than stagnation, but really we
+     seem to have been switched on to a Grimms' fairy tale. Make a long
+
+[line number in individual story] matching line = 34    window = 29 39
+
+[line number in concatenated text file] matching line = 69516    window = 69511 69521
+
+
+     Holmes in a reminiscent voice. "It was a ship which is associated
+     with the giant rat of Sumatra, a story for which the world is not yet
+     prepared. But what do we know about vampires? Does it come within our
+     purview either? Anything is better than stagnation, but really we
+     seem to have been switched on to a Grimms' fairy tale. Make a long
+==>      arm, Watson, and see what V has to say." <==
+
+     I leaned back and took down the great index volume to which he
+     referred. Holmes balanced it on his knee, and his eyes moved slowly
+     and lovingly over the record of old cases, mixed with the accumulated
+     information of a lifetime.
+
+[line number in individual story] matching line = 42    window = 37 47
+
+[line number in concatenated text file] matching line = 69524    window = 69519 69529
+
+
+     referred. Holmes balanced it on his knee, and his eyes moved slowly
+     and lovingly over the record of old cases, mixed with the accumulated
+     information of a lifetime.
+
+     "Voyage of the Gloria Scott," he read.  "That was a bad business. I
+==>      have some recollection that you made a record of it, Watson, though I <==
+     was unable to congratulate you upon the result. Victor Lynch, the
+     forger.  Venomous lizard or gila. Remarkable case, that! Vittoria,
+     the circus belle. Vanderbilt and the Yeggman. Vipers. Vigor, the
+     Hammersmith wonder. Hullo! Hullo! Good old index. You can't beat it.
+     Listen to this, Watson. Vampirism in Hungary. And again, Vampires in
+
+[line number in individual story] matching line = 47    window = 42 52
+
+[line number in concatenated text file] matching line = 69529    window = 69524 69534
+
+
+     have some recollection that you made a record of it, Watson, though I
+     was unable to congratulate you upon the result. Victor Lynch, the
+     forger.  Venomous lizard or gila. Remarkable case, that! Vittoria,
+     the circus belle. Vanderbilt and the Yeggman. Vipers. Vigor, the
+     Hammersmith wonder. Hullo! Hullo! Good old index. You can't beat it.
+==>      Listen to this, Watson. Vampirism in Hungary. And again, Vampires in <==
+     Transylvania." He turned over the pages with eagerness, but after a
+     short intent perusal he threw down the great book with a snarl of
+     disappointment.
+
+     "Rubbish, Watson, rubbish! What have we to do with walking corpses
+
+[line number in individual story] matching line = 52    window = 47 57
+
+[line number in concatenated text file] matching line = 69534    window = 69529 69539
+
+
+     Listen to this, Watson. Vampirism in Hungary. And again, Vampires in
+     Transylvania." He turned over the pages with eagerness, but after a
+     short intent perusal he threw down the great book with a snarl of
+     disappointment.
+
+==>      "Rubbish, Watson, rubbish! What have we to do with walking corpses <==
+     who can only be held in their grave by stakes driven through their
+     hearts?  It's pure lunacy."
+
+     "But surely," said I, "the vampire was not necessarily a dead man? A
+     living person might have the habit. I have read, for example, of the
+
+[line number in individual story] matching line = 60    window = 55 65
+
+[line number in concatenated text file] matching line = 69542    window = 69537 69547
+
+
+
+     "But surely," said I, "the vampire was not necessarily a dead man? A
+     living person might have the habit. I have read, for example, of the
+     old sucking the blood of the young in order to retain their youth."
+
+==>      "You are right, Watson. It mentions the legend in one of these <==
+     references. But are we to give serious attention to such things? This
+     agency stands flat-footed upon the ground, and there it must remain.
+     The world is big enough for us. No ghosts need apply. I fear that we
+     cannot take Mr. Robert Ferguson very seriously. Possibly this note
+     may be from him and may throw some light upon what is worrying him."
+
+[line number in individual story] matching line = 75    window = 70 80
+
+[line number in concatenated text file] matching line = 69557    window = 69552 69562
+
+
+     expression of intense interest and concentration. When he had
+     finished he sat for some little time lost in thought with the letter
+     dangling from his fingers. Finally, with a start, he aroused himself
+     from his reverie.
+
+==>      "Cheeseman's, Lamberley. Where is Lamberley, Watson?" <==
+
+     "It is in Sussex, south of Horsham."
+
+     "Not very far, eh? And Cheeseman's?"
+
+
+[line number in individual story] matching line = 171    window = 166 176
+
+[line number in concatenated text file] matching line = 69653    window = 69648 69658
+
+
+     you see me? Will you use your great powers in aiding a distracted
+     man? If so, kindly wire to Ferguson, Cheeseman's, Lamberley, and I
+     will be at your rooms by ten o'clock.
+     Yours faithfully,
+     Robert Ferguson.
+==>      P. S. I believe your friend Watson played Rugby for Blackheath when I <==
+     was three-quarter for Richmond. It is the only personal introduction
+     which I can give.
+
+     "Of course I remembered him," said I as I laid down the letter. "Big
+     Bob Ferguson, the finest three-quarter Richmond ever had. He was
+
+[line number in individual story] matching line = 182    window = 177 187
+
+[line number in concatenated text file] matching line = 69664    window = 69659 69669
+
+
+     always a good-natured chap. It's like him to be so concerned over a
+     friend's case."
+
+     Holmes looked at me thoughtfully and shook his head.
+
+==>      "I never get your limits, Watson," said he.  "There are unexplored <==
+     possibilities about you. Take a wire down, like a good fellow. 'Will
+     examine your case with pleasure.'"
+
+     "Your case!"
+
+
+[line number in individual story] matching line = 200    window = 195 205
+
+[line number in concatenated text file] matching line = 69682    window = 69677 69687
+
+
+     There is surely nothing in life more painful than to meet the wreck
+     of a fine athlete whom one has known in his prime. His great frame
+     had fallen in, his flaxen hair was scanty, and his shoulders were
+     bowed. I fear that I roused corresponding emotions in him.
+
+==>      "Hullo, Watson," said he, and his voice was still deep and hearty. <==
+     "You don't look quite the man you did when I threw you over the ropes
+     into the crowd at the Old Deer Park. I expect I have changed a bit
+     also. But it's this last day or two that has aged me. I see by your
+     telegram, Mr. Holmes, that it is no use my pretending to be anyone's
+     deputy."
+
+[line number in individual story] matching line = 282    window = 277 287
+
+[line number in concatenated text file] matching line = 69764    window = 69759 69769
+
+
+
+     "It is what I hoped, Mr. Holmes. There is an excellent train at two
+     from Victoria if you could come."
+
+     "Of course we could come. There is a lull at present. I can give you
+==>      my undivided energies. Watson, of course, comes with us. But there <==
+     are one or two points upon which I wish to be very sure before I
+     start. This unhappy lady, as I understand it, has appeared to assault
+     both the children, her own baby and your little son?"
+
+     "That is so."
+
+[line number in individual story] matching line = 445    window = 440 450
+
+[line number in concatenated text file] matching line = 69927    window = 69922 69932
+
+
+
+     Ferguson looked at me with a question in his eyes.
+
+     "I should be so glad if I could be of use."
+
+==>      "Would your mistress see Dr. Watson?" <==
+
+     "I take him. I no ask leave. She needs doctor."
+
+     "Then I'll come with you at once."
+
+
+[line number in individual story] matching line = 535    window = 530 540
+
+[line number in concatenated text file] matching line = 70017    window = 70012 70022
+
+
+
+     Ferguson gently disengaged himself from the embrace with some little
+     show of embarrassment.
+
+     "Dear old chap," said he, patting the flaxen head with a very tender
+==>      hand. "I came early because my friends, Mr. Holmes and Dr. Watson, <==
+     have been persuaded to come down and spend an evening with us."
+
+     "Is that Mr. Holmes, the detective?"
+
+     "Yes."
+
+[line number in individual story] matching line = 620    window = 615 625
+
+[line number in concatenated text file] matching line = 70102    window = 70097 70107
+
+
+     What shall I do? I care nothing as to how you have found your facts
+     so long as you have really got them."
+
+     "Certainly I owe you an explanation, and you shall have it. But you
+     will permit me to handle the matter in my own way? Is the lady
+==>      capable of seeing us, Watson?" <==
+
+     "She is ill, but she is quite rational."
+
+     "Very good. It is only in her presence that we can clear the matter
+     up. Let us go up to her."
+
+[line number in individual story] matching line = 630    window = 625 635
+
+[line number in concatenated text file] matching line = 70112    window = 70107 70117
+
+
+     up. Let us go up to her."
+
+     "She will not see me," cried Ferguson.
+
+     "Oh, yes, she will," said Holmes. He scribbled a few lines upon a
+==>      sheet of paper. "You at least have the entree, Watson. Will you have <==
+     the goodness to give the lady this note?"
+
+     I ascended again and handed the note to Dolores, who cautiously
+     opened the door. A minute later I heard a cry from within, a cry in
+     which joy and surprise seemed to be blended. Dolores looked out.
+
+[line number in individual story] matching line = 734    window = 729 739
+
+[line number in concatenated text file] matching line = 70216    window = 70211 70221
+
+
+     "Exactly. So I imagined."
+
+     Ferguson was standing by the bed, choking, his hands outstretched and
+     quivering.
+
+==>      "This, I fancy, is the time for our exit, Watson," said Holmes in a <==
+     whisper. "If you will take one elbow of the too faithful Dolores, I
+     will take the other. There, now," he added as he closed the door
+     behind him, "I think we may leave them to settle the rest among
+     themselves."
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================= 
+        in.raw out.raw       in.norm       out.norm ratio.norm        pval         
+ --------------------------------------------------------------------------------- 
+ Watson   17      0    0.0142140468227425     0        Inf     1.1646348247477e-10 
+ surely   3       0    0.00250836120401338    0        Inf     0.0300288578794227  
+ --------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Sussex Vampire"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Sussex Vampire"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

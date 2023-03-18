@@ -1,0 +1,1560 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Devil's Foot"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 4    window = 1 9
+
+[line number in concatenated text file] matching line = 64056    window = 64053 64061
+
+
+
+     In recording from time to time some of the curious experiences and
+     interesting recollections which I associate with my long and intimate
+==>      friendship with Mr. Sherlock Holmes, I have continually been faced by <==
+     difficulties caused by his own aversion to publicity. To his sombre
+     and cynical spirit all popular applause was always abhorrent, and
+     nothing amused him more at the end of a successful case than to hand
+     over the actual exposure to some orthodox official, and to listen
+     with a mocking smile to the general chorus of misplaced
+
+[line number in individual story] matching line = 28    window = 23 33
+
+[line number in concatenated text file] matching line = 64080    window = 64075 64085
+
+
+     fresh to his mind, or what freak had caused him to desire that I
+     should recount it; but I hasten, before another cancelling telegram
+     may arrive, to hunt out the notes which give me the exact details of
+     the case and to lay the narrative before my readers.
+
+==>      It was, then, in the spring of the year 1897 that Holmes's iron <==
+     constitution showed some symptoms of giving way in the face of
+     constant hard work of a most exacting kind, aggravated, perhaps, by
+     occasional indiscretions of his own. In March of that year Dr. Moore
+     Agar, of Harley Street, whose dramatic introduction to Holmes I may
+     some day recount, gave positive injunctions that the famous private
+
+[line number in individual story] matching line = 32    window = 27 37
+
+[line number in concatenated text file] matching line = 64084    window = 64079 64089
+
+
+
+     It was, then, in the spring of the year 1897 that Holmes's iron
+     constitution showed some symptoms of giving way in the face of
+     constant hard work of a most exacting kind, aggravated, perhaps, by
+     occasional indiscretions of his own. In March of that year Dr. Moore
+==>      Agar, of Harley Street, whose dramatic introduction to Holmes I may <==
+     some day recount, gave positive injunctions that the famous private
+     agent lay aside all his cases and surrender himself to complete rest
+     if he wished to avert an absolute breakdown. The state of his health
+     was not a matter in which he himself took the faintest interest, for
+     his mental detachment was absolute, but he was induced at last, on
+
+[line number in individual story] matching line = 91    window = 86 96
+
+[line number in concatenated text file] matching line = 64143    window = 64138 64148
+
+
+     I have said that scattered towers marked the villages which dotted
+     this part of Cornwall. The nearest of these was the hamlet of
+     Tredannick Wollas, where the cottages of a couple of hundred
+     inhabitants clustered round an ancient, moss-grown church. The vicar
+     of the parish, Mr. Roundhay, was something of an archaeologist, and
+==>      as such Holmes had made his acquaintance. He was a middle-aged man, <==
+     portly and affable, with a considerable fund of local lore. At his
+     invitation we had taken tea at the vicarage and had come to know,
+     also, Mr. Mortimer Tregennis, an independent gentleman, who increased
+     the clergyman's scanty resources by taking rooms in his large,
+     straggling house. The vicar, being a bachelor, was glad to come to
+
+[line number in individual story] matching line = 109    window = 104 114
+
+[line number in concatenated text file] matching line = 64161    window = 64156 64166
+
+
+     These were the two men who entered abruptly into our little
+     sitting-room on Tuesday, March the 16th, shortly after our breakfast
+     hour, as we were smoking together, preparatory to our daily excursion
+     upon the moors.
+
+==>      "Mr. Holmes," said the vicar in an agitated voice, "the most <==
+     extraordinary and tragic affair has occurred during the night. It is
+     the most unheard-of business. We can only regard it as a special
+     Providence that you should chance to be here at the time, for in all
+     England you are the one man we need."
+
+
+[line number in individual story] matching line = 116    window = 111 121
+
+[line number in concatenated text file] matching line = 64168    window = 64163 64173
+
+
+     the most unheard-of business. We can only regard it as a special
+     Providence that you should chance to be here at the time, for in all
+     England you are the one man we need."
+
+     I glared at the intrusive vicar with no very friendly eyes; but
+==>      Holmes took his pipe from his lips and sat up in his chair like an <==
+     old hound who hears the view-halloa. He waved his hand to the sofa,
+     and our palpitating visitor with his agitated companion sat side by
+     side upon it. Mr. Mortimer Tregennis was more self-contained than the
+     clergyman, but the twitching of his thin hands and the brightness of
+     his dark eyes showed that they shared a common emotion.
+
+[line number in individual story] matching line = 127    window = 122 132
+
+[line number in concatenated text file] matching line = 64179    window = 64174 64184
+
+
+
+     "Shall I speak or you?" he asked of the vicar.
+
+     "Well, as you seem to have made the discovery, whatever it may be,
+     and the vicar to have had it second-hand, perhaps you had better do
+==>      the speaking," said Holmes. <==
+
+     I glanced at the hastily clad clergyman, with the formally dressed
+     lodger seated beside him, and was amused at the surprise which
+     Holmes's simple deduction had brought to their faces.
+
+
+[line number in individual story] matching line = 131    window = 126 136
+
+[line number in concatenated text file] matching line = 64183    window = 64178 64188
+
+
+     and the vicar to have had it second-hand, perhaps you had better do
+     the speaking," said Holmes.
+
+     I glanced at the hastily clad clergyman, with the formally dressed
+     lodger seated beside him, and was amused at the surprise which
+==>      Holmes's simple deduction had brought to their faces. <==
+
+     "Perhaps I had best say a few words first," said the vicar, "and then
+     you can judge if you will listen to the details from Mr. Tregennis,
+     or whether we should not hasten at once to the scene of this
+     mysterious affair. I may explain, then, that our friend here spent
+
+[line number in individual story] matching line = 159    window = 154 164
+
+[line number in concatenated text file] matching line = 64211    window = 64206 64216
+
+
+     upon. There was no sign of the presence of anyone in the house,
+     except Mrs. Porter, the old cook and housekeeper, who declared that
+     she had slept deeply and heard no sound during the night. Nothing had
+     been stolen or disarranged, and there is absolutely no explanation of
+     what the horror can be which has frightened a woman to death and two
+==>      strong men out of their senses. There is the situation, Mr. Holmes, <==
+     in a nutshell, and if you can help us to clear it up you will have
+     done a great work."
+
+     I had hoped that in some way I could coax my companion back into the
+     quiet which had been the object of our journey; but one glance at his
+
+[line number in individual story] matching line = 173    window = 168 178
+
+[line number in concatenated text file] matching line = 64225    window = 64220 64230
+
+
+
+     "I will look into this matter," he said at last. "On the face of it,
+     it would appear to be a case of a very exceptional nature. Have you
+     been there yourself, Mr. Roundhay?"
+
+==>      "No, Mr. Holmes. Mr. Tregennis brought back the account to the <==
+     vicarage, and I at once hurried over with him to consult you."
+
+     "How far is it to the house where this singular tragedy occurred?"
+
+     "About a mile inland."
+
+[line number in individual story] matching line = 186    window = 181 191
+
+[line number in concatenated text file] matching line = 64238    window = 64233 64243
+
+
+     a few questions, Mr. Mortimer Tregennis."
+
+     The other had been silent all this time, but I had observed that his
+     more controlled excitement was even greater than the obtrusive
+     emotion of the clergyman. He sat with a pale, drawn face, his anxious
+==>      gaze fixed upon Holmes, and his thin hands clasped convulsively <==
+     together. His pale lips quivered as he listened to the dreadful
+     experience which had befallen his family, and his dark eyes seemed to
+     reflect something of the horror of the scene.
+
+     "Ask what you like, Mr. Holmes," said he eagerly. "It is a bad thing
+
+[line number in individual story] matching line = 191    window = 186 196
+
+[line number in concatenated text file] matching line = 64243    window = 64238 64248
+
+
+     gaze fixed upon Holmes, and his thin hands clasped convulsively
+     together. His pale lips quivered as he listened to the dreadful
+     experience which had befallen his family, and his dark eyes seemed to
+     reflect something of the horror of the scene.
+
+==>      "Ask what you like, Mr. Holmes," said he eagerly. "It is a bad thing <==
+     to speak of, but I will answer you the truth."
+
+     "Tell me about last night."
+
+     "Well, Mr. Holmes, I supped there, as the vicar has said, and my
+
+[line number in individual story] matching line = 196    window = 191 201
+
+[line number in concatenated text file] matching line = 64248    window = 64243 64253
+
+
+     "Ask what you like, Mr. Holmes," said he eagerly. "It is a bad thing
+     to speak of, but I will answer you the truth."
+
+     "Tell me about last night."
+
+==>      "Well, Mr. Holmes, I supped there, as the vicar has said, and my <==
+     elder brother George proposed a game of whist afterwards. We sat down
+     about nine o'clock. It was a quarter-past ten when I moved to go. I
+     left them all round the table, as merry as could be."
+
+     "Who let you out?"
+
+[line number in individual story] matching line = 213    window = 208 218
+
+[line number in concatenated text file] matching line = 64265    window = 64260 64270
+
+
+     and Brenda lying dead of fright, with her head hanging over the arm
+     of the chair. I'll never get the sight of that room out of my mind so
+     long as I live."
+
+     "The facts, as you state them, are certainly most remarkable," said
+==>      Holmes. "I take it that you have no theory yourself which can in any <==
+     way account for them?"
+
+     "It's devilish, Mr. Holmes, devilish!" cried Mortimer Tregennis. "It
+     is not of this world. Something has come into that room which has
+     dashed the light of reason from their minds. What human contrivance
+
+[line number in individual story] matching line = 216    window = 211 221
+
+[line number in concatenated text file] matching line = 64268    window = 64263 64273
+
+
+
+     "The facts, as you state them, are certainly most remarkable," said
+     Holmes. "I take it that you have no theory yourself which can in any
+     way account for them?"
+
+==>      "It's devilish, Mr. Holmes, devilish!" cried Mortimer Tregennis. "It <==
+     is not of this world. Something has come into that room which has
+     dashed the light of reason from their minds. What human contrivance
+     could do that?"
+
+     "I fear," said Holmes, "that if the matter is beyond humanity it is
+
+[line number in individual story] matching line = 221    window = 216 226
+
+[line number in concatenated text file] matching line = 64273    window = 64268 64278
+
+
+     "It's devilish, Mr. Holmes, devilish!" cried Mortimer Tregennis. "It
+     is not of this world. Something has come into that room which has
+     dashed the light of reason from their minds. What human contrivance
+     could do that?"
+
+==>      "I fear," said Holmes, "that if the matter is beyond humanity it is <==
+     certainly beyond me. Yet we must exhaust all natural explanations
+     before we fall back upon such a theory as this. As to yourself, Mr.
+     Tregennis, I take it you were divided in some way from your family,
+     since they lived together and you had rooms apart?"
+
+
+[line number in individual story] matching line = 227    window = 222 232
+
+[line number in concatenated text file] matching line = 64279    window = 64274 64284
+
+
+     certainly beyond me. Yet we must exhaust all natural explanations
+     before we fall back upon such a theory as this. As to yourself, Mr.
+     Tregennis, I take it you were divided in some way from your family,
+     since they lived together and you had rooms apart?"
+
+==>      "That is so, Mr. Holmes, though the matter is past and done with. We <==
+     were a family of tin-miners at Redruth, but we sold our venture to a
+     company, and so retired with enough to keep us. I won't deny that
+     there was some feeling about the division of the money and it stood
+     between us for a time, but it was all forgiven and forgotten, and we
+     were the best of friends together."
+
+[line number in individual story] matching line = 288    window = 283 293
+
+[line number in concatenated text file] matching line = 64340    window = 64335 64345
+
+
+     and Owen were singing snatches of songs and gibbering like two great
+     apes. Oh, it was awful to see! I couldn't stand it, and the doctor
+     was as white as a sheet. Indeed, he fell into a chair in a sort of
+     faint, and we nearly had him on our hands as well."
+
+==>      "Remarkable--most remarkable!" said Holmes, rising and taking his <==
+     hat. "I think, perhaps, we had better go down to Tredannick Wartha
+     without further delay. I confess that I have seldom known a case
+     which at first sight presented a more singular problem."
+
+     Our proceedings of that first morning did little to advance the
+
+[line number in individual story] matching line = 315    window = 310 320
+
+[line number in concatenated text file] matching line = 64367    window = 64362 64372
+
+
+     It was a large and bright dwelling, rather a villa than a cottage,
+     with a considerable garden which was already, in that Cornish air,
+     well filled with spring flowers. Towards this garden the window of
+     the sitting-room fronted, and from it, according to Mortimer
+     Tregennis, must have come that thing of evil which had by sheer
+==>      horror in a single instant blasted their minds. Holmes walked slowly <==
+     and thoughtfully among the flower-plots and along the path before we
+     entered the porch. So absorbed was he in his thoughts, I remember,
+     that he stumbled over the watering-pot, upset its contents, and
+     deluged both our feet and the garden path. Inside the house we were
+     met by the elderly Cornish housekeeper, Mrs. Porter, who, with the
+
+[line number in individual story] matching line = 322    window = 317 327
+
+[line number in concatenated text file] matching line = 64374    window = 64369 64379
+
+
+     entered the porch. So absorbed was he in his thoughts, I remember,
+     that he stumbled over the watering-pot, upset its contents, and
+     deluged both our feet and the garden path. Inside the house we were
+     met by the elderly Cornish housekeeper, Mrs. Porter, who, with the
+     aid of a young girl, looked after the wants of the family. She
+==>      readily answered all Holmes's questions. She had heard nothing in the <==
+     night. Her employers had all been in excellent spirits lately, and
+     she had never known them more cheerful and prosperous. She had
+     fainted with horror upon entering the room in the morning and seeing
+     that dreadful company round the table. She had, when she recovered,
+     thrown open the window to let the morning air in, and had run down to
+
+[line number in individual story] matching line = 343    window = 338 348
+
+[line number in concatenated text file] matching line = 64395    window = 64390 64400
+
+
+     been her last human emotion. From her bedroom we descended to the
+     sitting-room, where this strange tragedy had actually occurred. The
+     charred ashes of the overnight fire lay in the grate. On the table
+     were the four guttered and burned-out candles, with the cards
+     scattered over its surface. The chairs had been moved back against
+==>      the walls, but all else was as it had been the night before. Holmes <==
+     paced with light, swift steps about the room; he sat in the various
+     chairs, drawing them up and reconstructing their positions. He tested
+     how much of the garden was visible; he examined the floor, the
+     ceiling, and the fireplace; but never once did I see that sudden
+     brightening of his eyes and tightening of his lips which would have
+
+[line number in individual story] matching line = 356    window = 351 361
+
+[line number in concatenated text file] matching line = 64408    window = 64403 64413
+
+
+     "Why a fire?" he asked once. "Had they always a fire in this small
+     room on a spring evening?"
+
+     Mortimer Tregennis explained that the night was cold and damp. For
+     that reason, after his arrival, the fire was lit. "What are you going
+==>      to do now, Mr. Holmes?" he asked. <==
+
+     My friend smiled and laid his hand upon my arm. "I think, Watson,
+     that I shall resume that course of tobacco-poisoning which you have
+     so often and so justly condemned," said he. "With your permission,
+     gentlemen, we will now return to our cottage, for I am not aware that
+
+[line number in individual story] matching line = 368    window = 363 373
+
+[line number in concatenated text file] matching line = 64420    window = 64415 64425
+
+
+     facts over in my mid, Mr, Tregennis, and should anything occur to me
+     I will certainly ommunicate with you and the vicar. In the meantime I
+     wish you both good-morning."
+
+     It was not until long after we were back in Poldhu Cottage that
+==>      Holmes broke his complete and absorbed silence. He sat coiled in his <==
+     armchair, his haggard and ascetic face hardly visible amid the blue
+     swirl of his tobacco smoke, his black brows drawn down, his forehead
+     contracted, his eyes vacant and far away. Finally he laid down his
+     pipe and sprang to his feet.
+
+
+[line number in individual story] matching line = 430    window = 425 435
+
+[line number in concatenated text file] matching line = 64482    window = 64477 64487
+
+
+     difficulties, Watson?"
+
+     "They are only too clear," I answered with conviction.
+
+     "And yet, with a little more material, we may prove that they are not
+==>      insurmountable," said Holmes. "I fancy that among your extensive <==
+     archives, Watson, you may find some which were nearly as obscure.
+     Meanwhile, we shall put the case aside until more accurate data are
+     available, and devote the rest of our morning to the pursuit of
+     neolithic man."
+
+
+[line number in individual story] matching line = 460    window = 455 465
+
+[line number in concatenated text file] matching line = 64512    window = 64507 64517
+
+
+     caused him to spend the greater part of the intervals between his
+     journeys in a small bungalow buried in the lonely wood of Beauchamp
+     Arriance. Here, amid his books and his maps, he lived an absolutely
+     lonely life, attending to his own simple wants and paying little
+     apparent heed to the affairs of his neighbours. It was a surprise to
+==>      me, therefore, to hear him asking Holmes in an eager voice whether he <==
+     had made any advance in his reconstruction of this mysterious
+     episode. "The county police are utterly at fault," said he, "but
+     perhaps your wider experience has suggested some conceivable
+     explanation. My only claim to being taken into your confidence is
+     that during my many residences here I have come to know this family
+
+[line number in individual story] matching line = 472    window = 467 477
+
+[line number in concatenated text file] matching line = 64524    window = 64519 64529
+
+
+     call them cousins--and their strange fate has naturally been a great
+     shock to me. I may tell you that I had got as far as Plymouth upon my
+     way to Africa, but the news reached me this morning, and I came
+     straight back again to help in the inquiry."
+
+==>      Holmes raised his eyebrows. <==
+
+     "Did you lose your boat through it?"
+
+     "I will take the next."
+
+
+[line number in individual story] matching line = 495    window = 490 500
+
+[line number in concatenated text file] matching line = 64547    window = 64542 64552
+
+
+
+     "Might I ask from whom?"
+
+     A shadow passed over the gaunt face of the explorer.
+
+==>      "You are very inquisitive, Mr. Holmes." <==
+
+     "It is my business."
+
+     With an effort Dr. Sterndale recovered his ruffled composure.
+
+
+[line number in individual story] matching line = 504    window = 499 509
+
+[line number in concatenated text file] matching line = 64556    window = 64551 64561
+
+
+     With an effort Dr. Sterndale recovered his ruffled composure.
+
+     "I have no objection to telling you," he said. "It was Mr. Roundhay,
+     the vicar, who sent me the telegram which recalled me."
+
+==>      "Thank you," said Holmes. "I may say in answer to your original <==
+     question that I have not cleared my mind entirely on the subject of
+     this case, but that I have every hope of reaching some conclusion. It
+     would be premature to say more."
+
+     "Perhaps you would not mind telling me if your suspicions point in
+
+[line number in individual story] matching line = 516    window = 511 521
+
+[line number in concatenated text file] matching line = 64568    window = 64563 64573
+
+
+
+     "No, I can hardly answer that."
+
+     "Then I have wasted my time and need not prolong my visit." The
+     famous doctor strode out of our cottage in considerable ill-humour,
+==>      and within five minutes Holmes had followed him. I saw him no more <==
+     until the evening, when he returned with a slow step and haggard face
+     which assured me that he had made no great progress with his
+     investigation. He glanced at a telegram which awaited him and threw
+     it into the grate.
+
+
+[line number in individual story] matching line = 536    window = 531 541
+
+[line number in concatenated text file] matching line = 64588    window = 64583 64593
+
+
+     "Deeply interested--yes. There is a thread here which we had not yet
+     grasped and which might lead us through the tangle. Cheer up, Watson,
+     for I am very sure that our material has not yet all come to hand.
+     When it does we may soon leave our difficulties behind us."
+
+==>      Little did I think how soon the words of Holmes would be realized, or <==
+     how strange and sinister would be that new development which opened
+     up an entirely fresh line of investigation. I was shaving at my
+     window in the morning when I heard the rattle of hoofs and, looking
+     up, saw a dog-cart coming at a gallop down the road. It pulled up at
+     our door, and our friend, the vicar, sprang from it and rushed up our
+
+[line number in individual story] matching line = 542    window = 537 547
+
+[line number in concatenated text file] matching line = 64594    window = 64589 64599
+
+
+     how strange and sinister would be that new development which opened
+     up an entirely fresh line of investigation. I was shaving at my
+     window in the morning when I heard the rattle of hoofs and, looking
+     up, saw a dog-cart coming at a gallop down the road. It pulled up at
+     our door, and our friend, the vicar, sprang from it and rushed up our
+==>      garden path. Holmes was already dressed, and we hastened down to meet <==
+     him.
+
+     Our visitor was so excited that he could hardly articulate, but at
+     last in gasps and bursts his tragic story came out of him.
+
+
+[line number in individual story] matching line = 548    window = 543 553
+
+[line number in concatenated text file] matching line = 64600    window = 64595 64605
+
+
+     him.
+
+     Our visitor was so excited that he could hardly articulate, but at
+     last in gasps and bursts his tragic story came out of him.
+
+==>      "We are devil-ridden, Mr. Holmes! My poor parish is devil-ridden!" he <==
+     cried. "Satan himself is loose in it! We are given over into his
+     hands!" He danced about in his agitation, a ludicrous object if it
+     were not for his ashy face and startled eyes. Finally he shot out his
+     terrible news.
+
+
+[line number in individual story] matching line = 557    window = 552 562
+
+[line number in concatenated text file] matching line = 64609    window = 64604 64614
+
+
+     terrible news.
+
+     "Mr. Mortimer Tregennis died during the night, and with exactly the
+     same symptoms as the rest of his family."
+
+==>      Holmes sprang to his feet, all energy in an instant. <==
+
+     "Can you fit us both into your dog-cart?"
+
+     "Yes, I can."
+
+
+[line number in individual story] matching line = 590    window = 585 595
+
+[line number in concatenated text file] matching line = 64642    window = 64637 64647
+
+
+     contorted as though he had died in a very paroxysm of fear. He was
+     fully clothed, though there were signs that his dressing had been
+     done in a hurry. We had already learned that his bed had been slept
+     in, and that the tragic end had come to him in the early morning.
+
+==>      One realized the red-hot energy which underlay Holmes's phlegmatic <==
+     exterior when one saw the sudden change which came over him from the
+     moment that he entered the fatal apartment. In an instant he was
+     tense and alert, his eyes shining, his face set, his limbs quivering
+     with eager activity. He was out on the lawn, in through the window,
+     round the room, and up into the bedroom, for all the world like a
+
+[line number in individual story] matching line = 624    window = 619 629
+
+[line number in concatenated text file] matching line = 64676    window = 64671 64681
+
+
+     employed elsewhere."
+
+     It may be that the police resented the intrusion of an amateur, or
+     that they imagined themselves to be upon some hopeful line of
+     investigation; but it is certain that we heard nothing from them for
+==>      the next two days. During this time Holmes spent some of his time <==
+     smoking and dreaming in the cottage; but a greater portion in country
+     walks which he undertook alone, returning after many hours without
+     remark as to where he had been. One experiment served to show me the
+     line of his investigation. He had bought a lamp which was the
+     duplicate of the one which had burned in the room of Mortimer
+
+[line number in individual story] matching line = 684    window = 679 689
+
+[line number in concatenated text file] matching line = 64736    window = 64731 64741
+
+
+     There, sure enough, I perceived a number of flaky ashes, and round
+     the edges a fringe of brownish powder, which had not yet been
+     consumed. Half of this I took, as you saw, and I placed it in an
+     envelope."
+
+==>      "Why half, Holmes?" <==
+
+     "It is not for me, my dear Watson, to stand in the way of the
+     official police force. I leave them all the evidence which I found.
+     The poison still remained upon the talc had they the wit to find it.
+     Now, Watson, we will light our lamp; we will, however, take the
+
+[line number in individual story] matching line = 719    window = 714 724
+
+[line number in concatenated text file] matching line = 64771    window = 64766 64776
+
+
+     eyes were protruding, that my mouth was opened, and my tongue like
+     leather. The turmoil within my brain was such that something must
+     surely snap. I tried to scream and was vaguely aware of some hoarse
+     croak which was my own voice, but distant and detached from myself.
+     At the same moment, in some effort of escape, I broke through that
+==>      cloud of despair and had a glimpse of Holmes's face, white, rigid, <==
+     and drawn with horror--the very look which I had seen upon the
+     features of the dead. It was that vision which gave me an instant of
+     sanity and of strength. I dashed from my chair, threw my arms round
+     Holmes, and together we lurched through the door, and an instant
+     afterwards had thrown ourselves down upon the grass plot and were
+
+[line number in individual story] matching line = 723    window = 718 728
+
+[line number in concatenated text file] matching line = 64775    window = 64770 64780
+
+
+     At the same moment, in some effort of escape, I broke through that
+     cloud of despair and had a glimpse of Holmes's face, white, rigid,
+     and drawn with horror--the very look which I had seen upon the
+     features of the dead. It was that vision which gave me an instant of
+     sanity and of strength. I dashed from my chair, threw my arms round
+==>      Holmes, and together we lurched through the door, and an instant <==
+     afterwards had thrown ourselves down upon the grass plot and were
+     lying side by side, conscious only of the glorious sunshine which was
+     bursting its way through the hellish cloud of terror which had girt
+     us in. Slowly it rose from our souls like the mists from a landscape
+     until peace and reason had returned, and we were sitting upon the
+
+[line number in individual story] matching line = 733    window = 728 738
+
+[line number in concatenated text file] matching line = 64785    window = 64780 64790
+
+
+     until peace and reason had returned, and we were sitting upon the
+     grass, wiping our clammy foreheads, and looking with apprehension at
+     each other to mark the last traces of that terrific experience which
+     we had undergone.
+
+==>      "Upon my word, Watson!" said Holmes at last with an unsteady voice, <==
+     "I owe you both my thanks and an apology. It was an unjustifiable
+     experiment even for one's self, and doubly so for a friend. I am
+     really very sorry."
+
+     "You know," I answered with some emotion, for I have never seen so
+
+[line number in individual story] matching line = 739    window = 734 744
+
+[line number in concatenated text file] matching line = 64791    window = 64786 64796
+
+
+     "I owe you both my thanks and an apology. It was an unjustifiable
+     experiment even for one's self, and doubly so for a friend. I am
+     really very sorry."
+
+     "You know," I answered with some emotion, for I have never seen so
+==>      much of Holmes's heart before, "that it is my greatest joy and <==
+     privilege to help you."
+
+     He relapsed at once into the half-humorous, half-cynical vein which
+     was his habitual attitude to those about him. "It would be
+     superfluous to drive us mad, my dear Watson," said he. "A candid
+
+[line number in individual story] matching line = 795    window = 790 800
+
+[line number in concatenated text file] matching line = 64847    window = 64842 64852
+
+
+
+     I had heard the click of the garden gate, and now the majestic figure
+     of the great African explorer appeared upon the path. He turned in
+     some surprise towards the rustic arbour in which we sat.
+
+==>      "You sent for me, Mr. Holmes. I had your note about an hour ago, and <==
+     I have come, though I really do not know why I should obey your
+     summons."
+
+     "Perhaps we can clear the point up before we separate," said Holmes.
+     "Meanwhile, I am much obliged to you for your courteous acquiescence.
+
+[line number in individual story] matching line = 799    window = 794 804
+
+[line number in concatenated text file] matching line = 64851    window = 64846 64856
+
+
+
+     "You sent for me, Mr. Holmes. I had your note about an hour ago, and
+     I have come, though I really do not know why I should obey your
+     summons."
+
+==>      "Perhaps we can clear the point up before we separate," said Holmes. <==
+     "Meanwhile, I am much obliged to you for your courteous acquiescence.
+     You will excuse this informal reception in the open air, but my
+     friend Watson and I have nearly furnished an additional chapter to
+     what the papers call the Cornish Horror, and we prefer a clear
+     atmosphere for the present. Perhaps, since the matters which we have
+
+[line number in individual story] matching line = 814    window = 809 819
+
+[line number in concatenated text file] matching line = 64866    window = 64861 64871
+
+
+     companion.
+
+     "I am at a loss to know, sir," he said, "what you can have to speak
+     about which affects me personally in a very intimate fashion."
+
+==>      "The killing of Mortimer Tregennis," said Holmes. <==
+
+     For a moment I wished that I were armed. Sterndale's fierce face
+     turned to a dusky red, his eyes glared, and the knotted, passionate
+     veins started out in his forehead, while he sprang forward with
+     clenched hands towards my companion. Then he stopped, and with a
+
+[line number in individual story] matching line = 825    window = 820 830
+
+[line number in concatenated text file] matching line = 64877    window = 64872 64882
+
+
+     violent effort he resumed a cold, rigid calmness, which was, perhaps,
+     more suggestive of danger than his hot-headed outburst.
+
+     "I have lived so long among savages and beyond the law," said he,
+     "that I have got into the way of being a law to myself. You would do
+==>      well, Mr. Holmes, not to forget it, for I have no desire to do you an <==
+     injury."
+
+     "Nor have I any desire to do you an injury, Dr. Sterndale. Surely the
+     clearest proof of it is that, knowing what I know, I have sent for
+     you and not for the police."
+
+[line number in individual story] matching line = 834    window = 829 839
+
+[line number in concatenated text file] matching line = 64886    window = 64881 64891
+
+
+     clearest proof of it is that, knowing what I know, I have sent for
+     you and not for the police."
+
+     Sterndale sat down with a gasp, overawed for, perhaps, the first time
+     in his adventurous life. There was a calm assurance of power in
+==>      Holmes's manner which could not be withstood. Our visitor stammered <==
+     for a moment, his great hands opening and shutting in his agitation.
+
+     "What do you mean?" he asked at last. "If this is bluff upon your
+     part, Mr. Holmes, you have chosen a bad man for your experiment. Let
+     us have no more beating about the bush. What do you mean?"
+
+[line number in individual story] matching line = 838    window = 833 843
+
+[line number in concatenated text file] matching line = 64890    window = 64885 64895
+
+
+     in his adventurous life. There was a calm assurance of power in
+     Holmes's manner which could not be withstood. Our visitor stammered
+     for a moment, his great hands opening and shutting in his agitation.
+
+     "What do you mean?" he asked at last. "If this is bluff upon your
+==>      part, Mr. Holmes, you have chosen a bad man for your experiment. Let <==
+     us have no more beating about the bush. What do you mean?"
+
+     "I will tell you," said Holmes, "and the reason why I tell you is
+     that I hope frankness may beget frankness. What my next step may be
+     will depend entirely upon the nature of your own defence."
+
+[line number in individual story] matching line = 841    window = 836 846
+
+[line number in concatenated text file] matching line = 64893    window = 64888 64898
+
+
+
+     "What do you mean?" he asked at last. "If this is bluff upon your
+     part, Mr. Holmes, you have chosen a bad man for your experiment. Let
+     us have no more beating about the bush. What do you mean?"
+
+==>      "I will tell you," said Holmes, "and the reason why I tell you is <==
+     that I hope frankness may beget frankness. What my next step may be
+     will depend entirely upon the nature of your own defence."
+
+     "My defence?"
+
+
+[line number in individual story] matching line = 857    window = 852 862
+
+[line number in concatenated text file] matching line = 64909    window = 64904 64914
+
+
+
+     Sterndale mopped his forehead with his handkerchief. "Upon my word,
+     you are getting on," said he. "Do all your successes depend upon this
+     prodigious power of bluff?"
+
+==>      "The bluff," said Holmes sternly, "is upon your side, Dr. Leon <==
+     Sterndale, and not upon mine. As a proof I will tell you some of the
+     facts upon which my conclusions are based. Of your return from
+     Plymouth, allowing much of your property to go on to Africa, I will
+     say nothing save that it first informed me that you were one of the
+     factors which had to be taken into account in reconstructing this
+
+[line number in individual story] matching line = 885    window = 880 890
+
+[line number in concatenated text file] matching line = 64937    window = 64932 64942
+
+
+     restless night at your cottage, and you formed certain plans, which
+     in the early morning you proceeded to put into execution. Leaving
+     your door just as day was breaking, you filled your pocket with some
+     reddish gravel that was lying heaped beside your gate."
+
+==>      Sterndale gave a violent start and looked at Holmes in amazement. <==
+
+     "You then walked swiftly for the mile which separated you from the
+     vicarage. You were wearing, I may remark, the same pair of ribbed
+     tennis shoes which are at the present moment upon your feet. At the
+     vicarage you passed through the orchard and the side hedge, coming
+
+[line number in individual story] matching line = 899    window = 894 904
+
+[line number in concatenated text file] matching line = 64951    window = 64946 64956
+
+
+
+     Sterndale sprang to his feet.
+
+     "I believe that you are the devil himself!" he cried.
+
+==>      Holmes smiled at the compliment. "It took two, or possibly three, <==
+     handfuls before the lodger came to the window. You beckoned him to
+     come down. He dressed hurriedly and descended to his sitting-room.
+     You entered by the window. There was an interview--a short
+     one--during which you walked up and down the room. Then you passed
+     out and closed the window, standing on the lawn outside smoking a
+
+[line number in individual story] matching line = 919    window = 914 924
+
+[line number in concatenated text file] matching line = 64971    window = 64966 64976
+
+
+     photograph from his breast-pocket and threw it on the rustic table
+     before us.
+
+     "That is why I have done it," said he.
+
+==>      It showed the bust and face of a very beautiful woman. Holmes stooped <==
+     over it.
+
+     "Brenda Tregennis," said he.
+
+     "Yes, Brenda Tregennis," repeated our visitor. "For years I have
+
+[line number in individual story] matching line = 939    window = 934 944
+
+[line number in concatenated text file] matching line = 64991    window = 64986 64996
+
+
+
+     "The vicar knew. He was in our confidence. He would tell you that she
+     was an angel upon earth. That was why he telegraphed to me and I
+     returned. What was my baggage or Africa to me when I learned that
+     such a fate had come upon my darling? There you have the missing clue
+==>      to my action, Mr. Holmes." <==
+
+     "Proceed," said my friend.
+
+     Dr. Sterndale drew from his pocket a paper packet and laid it upon
+     the table. On the outside was written "Radix pedis diaboli" with a
+
+[line number in individual story] matching line = 962    window = 957 967
+
+[line number in concatenated text file] matching line = 65014    window = 65009 65019
+
+
+     as a secret among them. This particular specimen I obtained under
+     very extraordinary circumstances in the Ubangi country." He opened
+     the paper as he spoke and disclosed a heap of reddish-brown,
+     snuff-like powder.
+
+==>      "Well, sir?" asked Holmes sternly. <==
+
+     "I am about to tell you, Mr. Holmes, all that actually occurred, for
+     you already know so much that it is clearly to my interest that you
+     should know all. I have already explained the relationship in which I
+     stood to the Tregennis family. For the sake of the sister I was
+
+[line number in individual story] matching line = 964    window = 959 969
+
+[line number in concatenated text file] matching line = 65016    window = 65011 65021
+
+
+     the paper as he spoke and disclosed a heap of reddish-brown,
+     snuff-like powder.
+
+     "Well, sir?" asked Holmes sternly.
+
+==>      "I am about to tell you, Mr. Holmes, all that actually occurred, for <==
+     you already know so much that it is clearly to my interest that you
+     should know all. I have already explained the relationship in which I
+     stood to the Tregennis family. For the sake of the sister I was
+     friendly with the brothers. There was a family quarrel about money
+     which estranged this man Mortimer, but it was supposed to be made up,
+
+[line number in individual story] matching line = 1007    window = 1002 1012
+
+[line number in concatenated text file] matching line = 65059    window = 65054 65064
+
+
+
+     "Should I appeal to the law? Where were my proofs? I knew that the
+     facts were true, but could I help to make a jury of countrymen
+     believe so fantastic a story? I might or I might not. But I could not
+     afford to fail. My soul cried out for revenge. I have said to you
+==>      once before, Mr. Holmes, that I have spent much of my life outside <==
+     the law, and that I have come at last to be a law to myself. So it
+     was even now. I determined that the fate which he had given to others
+     should be shared by himself. Either that or I would do justice upon
+     him with my own hand. In all England there can be no man who sets
+     less value upon his own life than I do at the present moment.
+
+[line number in individual story] matching line = 1026    window = 1021 1031
+
+[line number in concatenated text file] matching line = 65078    window = 65073 65083
+
+
+     paralyzed at the sight of my revolver. I lit the lamp, put the powder
+     above it, and stood outside the window, ready to carry out my threat
+     to shoot him should he try to leave the room. In five minutes he
+     died. My God! how he died! But my heart was flint, for he endured
+     nothing which my innocent darling had not felt before him. There is
+==>      my story, Mr. Holmes. Perhaps, if you loved a woman, you would have <==
+     done as much yourself. At any rate, I am in your hands. You can take
+     what steps you like. As I have already said, there is no man living
+     who can fear death less than I do."
+
+     Holmes sat for some little time in silence.
+
+[line number in individual story] matching line = 1031    window = 1026 1036
+
+[line number in concatenated text file] matching line = 65083    window = 65078 65088
+
+
+     my story, Mr. Holmes. Perhaps, if you loved a woman, you would have
+     done as much yourself. At any rate, I am in your hands. You can take
+     what steps you like. As I have already said, there is no man living
+     who can fear death less than I do."
+
+==>      Holmes sat for some little time in silence. <==
+
+     "What were your plans?" he asked at last.
+
+     "I had intended to bury myself in central Africa. My work there is
+     but half finished."
+
+[line number in individual story] matching line = 1038    window = 1033 1043
+
+[line number in concatenated text file] matching line = 65090    window = 65085 65095
+
+
+     "What were your plans?" he asked at last.
+
+     "I had intended to bury myself in central Africa. My work there is
+     but half finished."
+
+==>      "Go and do the other half," said Holmes. "I, at least, am not <==
+     prepared to prevent you."
+
+     Dr. Sterndale raised his giant figure, bowed gravely, and walked from
+     the arbour. Holmes lit his pipe and handed me his pouch.
+
+
+[line number in individual story] matching line = 1042    window = 1037 1047
+
+[line number in concatenated text file] matching line = 65094    window = 65089 65099
+
+
+
+     "Go and do the other half," said Holmes. "I, at least, am not
+     prepared to prevent you."
+
+     Dr. Sterndale raised his giant figure, bowed gravely, and walked from
+==>      the arbour. Holmes lit his pipe and handed me his pouch. <==
+
+     "Some fumes which are not poisonous would be a welcome change," said
+     he. "I think you must agree, Watson, that it is not a case in which
+     we are called upon to interfere. Our investigation has been
+     independent, and our action shall be so also. You would not denounce
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================= 
+        in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ --------------------------------------------------------------------------------------------- 
+ Holmes   59      0    0.0126392459297344           0             Inf     2.95076272769573e-13 
+ said     31      5    0.00664095972579263 0.00115313653136531   5.759    7.62046588423687e-05 
+ Mr       29      5    0.00621251071122536 0.00115313653136531   5.387    0.000184702479224908 
+ your     26     10    0.00556983718937446 0.00230627306273063   2.415     0.0223193971045959  
+ you      64     39    0.0137103684661525  0.00899446494464945   1.524     0.045132044343604   
+ --------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Devil's Foot"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 358    window = 353 363
+
+[line number in concatenated text file] matching line = 64410    window = 64405 64415
+
+
+
+     Mortimer Tregennis explained that the night was cold and damp. For
+     that reason, after his arrival, the fire was lit. "What are you going
+     to do now, Mr. Holmes?" he asked.
+
+==>      My friend smiled and laid his hand upon my arm. "I think, Watson, <==
+     that I shall resume that course of tobacco-poisoning which you have
+     so often and so justly condemned," said he. "With your permission,
+     gentlemen, we will now return to our cottage, for I am not aware that
+     any new factor is likely to come to our notice here. I will turn the
+     facts over in my mid, Mr, Tregennis, and should anything occur to me
+
+[line number in individual story] matching line = 374    window = 369 379
+
+[line number in concatenated text file] matching line = 64426    window = 64421 64431
+
+
+     armchair, his haggard and ascetic face hardly visible amid the blue
+     swirl of his tobacco smoke, his black brows drawn down, his forehead
+     contracted, his eyes vacant and far away. Finally he laid down his
+     pipe and sprang to his feet.
+
+==>      "It won't do, Watson!" said he with a laugh. "Let us walk along the <==
+     cliffs together and search for flint arrows. We are more likely to
+     find them than clues to this problem. To let the brain work without
+     sufficient material is like racing an engine. It racks itself to
+     pieces. The sea air, sunshine, and patience, Watson--all else will
+     come.
+
+[line number in individual story] matching line = 378    window = 373 383
+
+[line number in concatenated text file] matching line = 64430    window = 64425 64435
+
+
+
+     "It won't do, Watson!" said he with a laugh. "Let us walk along the
+     cliffs together and search for flint arrows. We are more likely to
+     find them than clues to this problem. To let the brain work without
+     sufficient material is like racing an engine. It racks itself to
+==>      pieces. The sea air, sunshine, and patience, Watson--all else will <==
+     come.
+
+     "Now, let us calmly define our position, Watson," he continued as we
+     skirted the cliffs together. "Let us get a firm grip of the very
+     little which we do know, so that when fresh facts arise we may be
+
+[line number in individual story] matching line = 381    window = 376 386
+
+[line number in concatenated text file] matching line = 64433    window = 64428 64438
+
+
+     find them than clues to this problem. To let the brain work without
+     sufficient material is like racing an engine. It racks itself to
+     pieces. The sea air, sunshine, and patience, Watson--all else will
+     come.
+
+==>      "Now, let us calmly define our position, Watson," he continued as we <==
+     skirted the cliffs together. "Let us get a firm grip of the very
+     little which we do know, so that when fresh facts arise we may be
+     ready to fit them into their places. I take it, in the first place,
+     that neither of us is prepared to admit diabolical intrusions into
+     the affairs of men. Let us begin by ruling that entirely out of our
+
+[line number in individual story] matching line = 425    window = 420 430
+
+[line number in concatenated text file] matching line = 64477    window = 64472 64482
+
+
+     glass before he could be seen. There is a three-foot flower-border
+     outside this window, but no indication of a footmark. It is difficult
+     to imagine, then, how an outsider could have made so terrible an
+     impression upon the company, nor have we found any possible motive
+     for so strange and elaborate an attempt. You perceive our
+==>      difficulties, Watson?" <==
+
+     "They are only too clear," I answered with conviction.
+
+     "And yet, with a little more material, we may prove that they are not
+     insurmountable," said Holmes. "I fancy that among your extensive
+
+[line number in individual story] matching line = 431    window = 426 436
+
+[line number in concatenated text file] matching line = 64483    window = 64478 64488
+
+
+
+     "They are only too clear," I answered with conviction.
+
+     "And yet, with a little more material, we may prove that they are not
+     insurmountable," said Holmes. "I fancy that among your extensive
+==>      archives, Watson, you may find some which were nearly as obscure. <==
+     Meanwhile, we shall put the case aside until more accurate data are
+     available, and devote the rest of our morning to the pursuit of
+     neolithic man."
+
+     I may have commented upon my friend's power of mental detachment, but
+
+[line number in individual story] matching line = 522    window = 517 527
+
+[line number in concatenated text file] matching line = 64574    window = 64569 64579
+
+
+     until the evening, when he returned with a slow step and haggard face
+     which assured me that he had made no great progress with his
+     investigation. He glanced at a telegram which awaited him and threw
+     it into the grate.
+
+==>      "From the Plymouth hotel, Watson," he said. "I learned the name of it <==
+     from the vicar, and I wired to make certain that Dr. Leon Sterndale's
+     account was true. It appears that he did indeed spend last night
+     there, and that he has actually allowed some of his baggage to go on
+     to Africa, while he returned to be present at this investigation.
+     What do you make of that, Watson?"
+
+[line number in individual story] matching line = 527    window = 522 532
+
+[line number in concatenated text file] matching line = 64579    window = 64574 64584
+
+
+     "From the Plymouth hotel, Watson," he said. "I learned the name of it
+     from the vicar, and I wired to make certain that Dr. Leon Sterndale's
+     account was true. It appears that he did indeed spend last night
+     there, and that he has actually allowed some of his baggage to go on
+     to Africa, while he returned to be present at this investigation.
+==>      What do you make of that, Watson?" <==
+
+     "He is deeply interested."
+
+     "Deeply interested--yes. There is a thread here which we had not yet
+     grasped and which might lead us through the tangle. Cheer up, Watson,
+
+[line number in individual story] matching line = 532    window = 527 537
+
+[line number in concatenated text file] matching line = 64584    window = 64579 64589
+
+
+     What do you make of that, Watson?"
+
+     "He is deeply interested."
+
+     "Deeply interested--yes. There is a thread here which we had not yet
+==>      grasped and which might lead us through the tangle. Cheer up, Watson, <==
+     for I am very sure that our material has not yet all come to hand.
+     When it does we may soon leave our difficulties behind us."
+
+     Little did I think how soon the words of Holmes would be realized, or
+     how strange and sinister would be that new development which opened
+
+[line number in individual story] matching line = 563    window = 558 568
+
+[line number in concatenated text file] matching line = 64615    window = 64610 64620
+
+
+
+     "Can you fit us both into your dog-cart?"
+
+     "Yes, I can."
+
+==>      "Then, Watson, we will postpone our breakfast. Mr. Roundhay, we are <==
+     entirely at your disposal. Hurry--hurry, before things get
+     disarranged."
+
+     The lodger occupied two rooms at the vicarage, which were in an angle
+     by themselves, the one above the other. Below was a large
+
+[line number in individual story] matching line = 618    window = 613 623
+
+[line number in concatenated text file] matching line = 64670    window = 64665 64675
+
+
+     police, but I should be exceedingly obliged, Mr. Roundhay, if you
+     would give the inspector my compliments and direct his attention to
+     the bedroom window and to the sitting-room lamp. Each is suggestive,
+     and together they are almost conclusive. If the police would desire
+     further information I shall be happy to see any of them at the
+==>      cottage. And now, Watson, I think that, perhaps, we shall be better <==
+     employed elsewhere."
+
+     It may be that the police resented the intrusion of an amateur, or
+     that they imagined themselves to be upon some hopeful line of
+     investigation; but it is certain that we heard nothing from them for
+
+[line number in individual story] matching line = 636    window = 631 641
+
+[line number in concatenated text file] matching line = 64688    window = 64683 64693
+
+
+     oil as that used at the vicarage, and he carefully timed the period
+     which it would take to be exhausted. Another experiment which he made
+     was of a more unpleasant nature, and one which I am not likely ever
+     to forget.
+
+==>      "You will remember, Watson," he remarked one afternoon, "that there <==
+     is a single common point of resemblance in the varying reports which
+     have reached us. This concerns the effect of the atmosphere of the
+     room in each case upon those who had first entered it. You will
+     recollect that Mortimer Tregennis, in describing the episode of his
+     last visit to his brother's house, remarked that the doctor on
+
+[line number in individual story] matching line = 650    window = 645 655
+
+[line number in concatenated text file] matching line = 64702    window = 64697 64707
+
+
+     entering the room and had afterwards opened the window. In the second
+     case--that of Mortimer Tregennis himself--you cannot have forgotten
+     the horrible stuffiness of the room when we arrived, though the
+     servant had thrown open the window. That servant, I found upon
+     inquiry, was so ill that she had gone to her bed. You will admit,
+==>      Watson, that these facts are very suggestive. In each case there is <==
+     evidence of a poisonous atmosphere. In each case, also, there is
+     combustion going on in the room--in the one case a fire, in the other
+     a lamp. The fire was needed, but the lamp was lit--as a comparison of
+     the oil consumed will show--long after it was broad daylight. Why?
+     Surely because there is some connection between three things--the
+
+[line number in individual story] matching line = 686    window = 681 691
+
+[line number in concatenated text file] matching line = 64738    window = 64733 64743
+
+
+     consumed. Half of this I took, as you saw, and I placed it in an
+     envelope."
+
+     "Why half, Holmes?"
+
+==>      "It is not for me, my dear Watson, to stand in the way of the <==
+     official police force. I leave them all the evidence which I found.
+     The poison still remained upon the talc had they the wit to find it.
+     Now, Watson, we will light our lamp; we will, however, take the
+     precaution to open our window to avoid the premature decease of two
+     deserving members of society, and you will seat yourself near that
+
+[line number in individual story] matching line = 689    window = 684 694
+
+[line number in concatenated text file] matching line = 64741    window = 64736 64746
+
+
+     "Why half, Holmes?"
+
+     "It is not for me, my dear Watson, to stand in the way of the
+     official police force. I leave them all the evidence which I found.
+     The poison still remained upon the talc had they the wit to find it.
+==>      Now, Watson, we will light our lamp; we will, however, take the <==
+     precaution to open our window to avoid the premature decease of two
+     deserving members of society, and you will seat yourself near that
+     open window in an armchair unless, like a sensible man, you determine
+     to have nothing to do with the affair. Oh, you will see it out, will
+     you? I thought I knew my Watson. This chair I will place opposite
+
+[line number in individual story] matching line = 694    window = 689 699
+
+[line number in concatenated text file] matching line = 64746    window = 64741 64751
+
+
+     Now, Watson, we will light our lamp; we will, however, take the
+     precaution to open our window to avoid the premature decease of two
+     deserving members of society, and you will seat yourself near that
+     open window in an armchair unless, like a sensible man, you determine
+     to have nothing to do with the affair. Oh, you will see it out, will
+==>      you? I thought I knew my Watson. This chair I will place opposite <==
+     yours, so that we may be the same distance from the poison and face
+     to face. The door we will leave ajar. Each is now in a position to
+     watch the other and to bring the experiment to an end should the
+     symptoms seem alarming. Is that all clear? Well, then, I take our
+     powder--or what remains of it--from the envelope, and I lay it above
+
+[line number in individual story] matching line = 700    window = 695 705
+
+[line number in concatenated text file] matching line = 64752    window = 64747 64757
+
+
+     yours, so that we may be the same distance from the poison and face
+     to face. The door we will leave ajar. Each is now in a position to
+     watch the other and to bring the experiment to an end should the
+     symptoms seem alarming. Is that all clear? Well, then, I take our
+     powder--or what remains of it--from the envelope, and I lay it above
+==>      the burning lamp. So! Now, Watson, let us sit down and await <==
+     developments."
+
+     They were not long in coming. I had hardly settled in my chair before
+     I was conscious of a thick, musky odour, subtle and nauseous. At the
+     very first whiff of it my brain and my imagination were beyond all
+
+[line number in individual story] matching line = 733    window = 728 738
+
+[line number in concatenated text file] matching line = 64785    window = 64780 64790
+
+
+     until peace and reason had returned, and we were sitting upon the
+     grass, wiping our clammy foreheads, and looking with apprehension at
+     each other to mark the last traces of that terrific experience which
+     we had undergone.
+
+==>      "Upon my word, Watson!" said Holmes at last with an unsteady voice, <==
+     "I owe you both my thanks and an apology. It was an unjustifiable
+     experiment even for one's self, and doubly so for a friend. I am
+     really very sorry."
+
+     "You know," I answered with some emotion, for I have never seen so
+
+[line number in individual story] matching line = 744    window = 739 749
+
+[line number in concatenated text file] matching line = 64796    window = 64791 64801
+
+
+     much of Holmes's heart before, "that it is my greatest joy and
+     privilege to help you."
+
+     He relapsed at once into the half-humorous, half-cynical vein which
+     was his habitual attitude to those about him. "It would be
+==>      superfluous to drive us mad, my dear Watson," said he. "A candid <==
+     observer would certainly declare that we were so already before we
+     embarked upon so wild an experiment. I confess that I never imagined
+     that the effect could be so sudden and so severe." He dashed into the
+     cottage, and, reappearing with the burning lamp held at full arm's
+     length, he threw it among a bank of brambles. "We must give the room
+
+[line number in individual story] matching line = 750    window = 745 755
+
+[line number in concatenated text file] matching line = 64802    window = 64797 64807
+
+
+     observer would certainly declare that we were so already before we
+     embarked upon so wild an experiment. I confess that I never imagined
+     that the effect could be so sudden and so severe." He dashed into the
+     cottage, and, reappearing with the burning lamp held at full arm's
+     length, he threw it among a bank of brambles. "We must give the room
+==>      a little time to clear. I take it, Watson, that you have no longer a <==
+     shadow of a doubt as to how these tragedies were produced?"
+
+     "None whatever."
+
+     "But the cause remains as obscure as before. Come into the arbour
+
+[line number in individual story] matching line = 779    window = 774 784
+
+[line number in concatenated text file] matching line = 64831    window = 64826 64836
+
+
+     night. We may take it, then, that all the evidence points to Mortimer
+     Tregennis as the culprit."
+
+     "Then his own death was suicide!"
+
+==>      "Well, Watson, it is on the face of it a not impossible supposition. <==
+     The man who had the guilt upon his soul of having brought such a fate
+     upon his own family might well be driven by remorse to inflict it
+     upon himself. There are, however, some cogent reasons against it.
+     Fortunately, there is one man in England who knows all about it, and
+     I have made arrangements by which we shall hear the facts this
+
+[line number in individual story] matching line = 802    window = 797 807
+
+[line number in concatenated text file] matching line = 64854    window = 64849 64859
+
+
+     summons."
+
+     "Perhaps we can clear the point up before we separate," said Holmes.
+     "Meanwhile, I am much obliged to you for your courteous acquiescence.
+     You will excuse this informal reception in the open air, but my
+==>      friend Watson and I have nearly furnished an additional chapter to <==
+     what the papers call the Cornish Horror, and we prefer a clear
+     atmosphere for the present. Perhaps, since the matters which we have
+     to discuss will affect you personally in a very intimate fashion, it
+     is as well that we should talk where there can be no eavesdropping."
+
+
+[line number in individual story] matching line = 1045    window = 1040 1050
+
+[line number in concatenated text file] matching line = 65097    window = 65092 65102
+
+
+
+     Dr. Sterndale raised his giant figure, bowed gravely, and walked from
+     the arbour. Holmes lit his pipe and handed me his pouch.
+
+     "Some fumes which are not poisonous would be a welcome change," said
+==>      he. "I think you must agree, Watson, that it is not a case in which <==
+     we are called upon to interfere. Our investigation has been
+     independent, and our action shall be so also. You would not denounce
+     the man?"
+
+     "Certainly not," I answered.
+
+[line number in individual story] matching line = 1052    window = 1047 1057
+
+[line number in concatenated text file] matching line = 65104    window = 65099 65109
+
+
+     independent, and our action shall be so also. You would not denounce
+     the man?"
+
+     "Certainly not," I answered.
+
+==>      "I have never loved, Watson, but if I did and if the woman I loved <==
+     had met such an end, I might act even as our lawless lion-hunter has
+     done. Who knows? Well, Watson, I will not offend your intelligence by
+     explaining what is obvious. The gravel upon the window-sill was, of
+     course, the starting-point of my research. It was unlike anything in
+     the vicarage garden. Only when my attention had been drawn to Dr.
+
+[line number in individual story] matching line = 1054    window = 1049 1059
+
+[line number in concatenated text file] matching line = 65106    window = 65101 65111
+
+
+
+     "Certainly not," I answered.
+
+     "I have never loved, Watson, but if I did and if the woman I loved
+     had met such an end, I might act even as our lawless lion-hunter has
+==>      done. Who knows? Well, Watson, I will not offend your intelligence by <==
+     explaining what is obvious. The gravel upon the window-sill was, of
+     course, the starting-point of my research. It was unlike anything in
+     the vicarage garden. Only when my attention had been drawn to Dr.
+     Sterndale and his cottage did I find its counterpart. The lamp
+     shining in broad daylight and the remains of powder upon the shield
+
+[line number in individual story] matching line = 1061    window = 1056 1066
+
+[line number in concatenated text file] matching line = 65113    window = 65108 65118
+
+
+     course, the starting-point of my research. It was unlike anything in
+     the vicarage garden. Only when my attention had been drawn to Dr.
+     Sterndale and his cottage did I find its counterpart. The lamp
+     shining in broad daylight and the remains of powder upon the shield
+     were successive links in a fairly obvious chain. And now, my dear
+==>      Watson, I think we may dismiss the matter from our mind and go back <==
+     with a clear conscience to the study of those Chaldean roots which
+     are surely to be traced in the Cornish branch of the great Celtic
+     speech."
+
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+        in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------- 
+ Watson   26      0    0.0132720775906075           0              Inf     1.25055576967088e-17 
+ will     18     17    0.00918836140888208 0.00294066770454939    3.125    0.000759542735240569 
+ shall    6       1    0.00306278713629403 0.000172980453208787   17.706   0.00118486112005186  
+ we       30     43    0.0153139356814701  0.00743815948797786    2.059    0.00286782688942809  
+ are      12     12    0.00612557427258806 0.00207576543850545    2.951     0.0107365758117549  
+ likely   3       0    0.00153139356814701          0              Inf      0.0207831604994258  
+ lamp     7       5    0.0035732516590097  0.000864902266043937   4.131     0.0213981657524095  
+ find     4       1    0.00204185809086269 0.000172980453208787   11.804    0.0214994654676124  
+ clear    6       4    0.00306278713629403 0.00069192181283515    4.426     0.0307117595470376  
+ be       19     29    0.00969882593159775 0.00501643314305484    1.933     0.0344318754517331  
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Devil's Foot"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Devil's Foot"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

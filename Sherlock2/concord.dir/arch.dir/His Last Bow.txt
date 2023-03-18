@@ -1,0 +1,772 @@
+CONCORDANCE RESULTS FOR THE TEXT: "His Last Bow"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 1    window = 1 6
+
+[line number in concatenated text file] matching line = 65124    window = 65124 65129
+
+
+                         An Epilogue of Sherlock Holmes
+==>                          An Epilogue of Sherlock Holmes <==
+
+     It was nine o'clock at night upon the second of August--the most
+     terrible August in the history of the world. One might have thought
+     already that God's curse hung heavy over a degenerate world, for
+     there was an awesome hush and a feeling of vague expectancy in the
+
+[line number in individual story] matching line = 473    window = 468 478
+
+[line number in concatenated text file] matching line = 65596    window = 65591 65601
+
+
+     Culture. Only for one instant did the master spy glare at this
+     strangely irrelevant inscription. The next he was gripped at the back
+     of his neck by a grasp of iron, and a chloroformed sponge was held in
+     front of his writhing face.
+
+==>      "Another glass, Watson!" said Mr. Sherlock Holmes as he extended the <==
+     bottle of Imperial Tokay.
+
+     The thickset chauffeur, who had seated himself by the table, pushed
+     forward his glass with some eagerness.
+
+
+[line number in individual story] matching line = 479    window = 474 484
+
+[line number in concatenated text file] matching line = 65602    window = 65597 65607
+
+
+     bottle of Imperial Tokay.
+
+     The thickset chauffeur, who had seated himself by the table, pushed
+     forward his glass with some eagerness.
+
+==>      "It is a good wine, Holmes." <==
+
+     "A remarkable wine, Watson. Our friend upon the sofa has assured me
+     that it is from Franz Josef's special cellar at the Schoenbrunn
+     Palace. Might I trouble you to open the window, for chloroform vapour
+     does not help the palate."
+
+[line number in individual story] matching line = 486    window = 481 491
+
+[line number in concatenated text file] matching line = 65609    window = 65604 65614
+
+
+     "A remarkable wine, Watson. Our friend upon the sofa has assured me
+     that it is from Franz Josef's special cellar at the Schoenbrunn
+     Palace. Might I trouble you to open the window, for chloroform vapour
+     does not help the palate."
+
+==>      The safe was ajar, and Holmes standing in front of it was removing <==
+     dossier after dossier, swiftly examining each, and then packing it
+     neatly in Von Bork's valise. The German lay upon the sofa sleeping
+     stertorously with a strap round his upper arms and another round his
+     legs.
+
+
+[line number in individual story] matching line = 499    window = 494 504
+
+[line number in concatenated text file] matching line = 65622    window = 65617 65627
+
+
+     old Martha, who has played her part to admiration. I got her the
+     situation here when first I took the matter up. Ah, Martha, you will
+     be glad to hear that all is well."
+
+     The pleasant old lady had appeared in the doorway. She curtseyed with
+==>      a smile to Mr. Holmes, but glanced with some apprehension at the <==
+     figure upon the sofa.
+
+     "It is all right, Martha. He has not been hurt at all."
+
+     "I am glad of that, Mr. Holmes. According to his lights he has been a
+
+[line number in individual story] matching line = 504    window = 499 509
+
+[line number in concatenated text file] matching line = 65627    window = 65622 65632
+
+
+     a smile to Mr. Holmes, but glanced with some apprehension at the
+     figure upon the sofa.
+
+     "It is all right, Martha. He has not been hurt at all."
+
+==>      "I am glad of that, Mr. Holmes. According to his lights he has been a <==
+     kind master. He wanted me to go with his wife to Germany yesterday,
+     but that would hardly have suited your plans, would it, sir?"
+
+     "No, indeed, Martha. So long as you were here I was easy in my mind.
+     We waited some time for your signal to-night."
+
+[line number in individual story] matching line = 547    window = 542 552
+
+[line number in concatenated text file] matching line = 65670    window = 65665 65675
+
+
+     plans which I have furnished. But you, Watson"--he stopped his work
+     and took his old friend by the shoulders--"I've hardly seen you in
+     the light yet. How have the years used you? You look the same blithe
+     boy as ever."
+
+==>      "I feel twenty years younger, Holmes. I have seldom felt so happy as <==
+     when I got your wire asking me to meet you at Harwich with the car.
+     But you, Holmes--you have changed very little--save for that horrible
+     goatee."
+
+     "These are the sacrifices one makes for one's country, Watson," said
+
+[line number in individual story] matching line = 549    window = 544 554
+
+[line number in concatenated text file] matching line = 65672    window = 65667 65677
+
+
+     the light yet. How have the years used you? You look the same blithe
+     boy as ever."
+
+     "I feel twenty years younger, Holmes. I have seldom felt so happy as
+     when I got your wire asking me to meet you at Harwich with the car.
+==>      But you, Holmes--you have changed very little--save for that horrible <==
+     goatee."
+
+     "These are the sacrifices one makes for one's country, Watson," said
+     Holmes, pulling at his little tuft. "To-morrow it will be but a
+     dreadful memory. With my hair cut and a few other superficial changes
+
+[line number in individual story] matching line = 553    window = 548 558
+
+[line number in concatenated text file] matching line = 65676    window = 65671 65681
+
+
+     when I got your wire asking me to meet you at Harwich with the car.
+     But you, Holmes--you have changed very little--save for that horrible
+     goatee."
+
+     "These are the sacrifices one makes for one's country, Watson," said
+==>      Holmes, pulling at his little tuft. "To-morrow it will be but a <==
+     dreadful memory. With my hair cut and a few other superficial changes
+     I shall no doubt reappear at Claridge's to-morrow as I was before
+     this American stunt--I beg your pardon, Watson, my well of English
+     seems to be permanently defiled--before this American job came my
+     way."
+
+[line number in individual story] matching line = 560    window = 555 565
+
+[line number in concatenated text file] matching line = 65683    window = 65678 65688
+
+
+     I shall no doubt reappear at Claridge's to-morrow as I was before
+     this American stunt--I beg your pardon, Watson, my well of English
+     seems to be permanently defiled--before this American job came my
+     way."
+
+==>      "But you have retired, Holmes. We heard of you as living the life of <==
+     a hermit among your bees and your books in a small farm upon the
+     South Downs."
+
+     "Exactly, Watson. Here is the fruit of my leisured ease, the magnum
+     opus of my latter years!" He picked up the volume from the table and
+
+[line number in individual story] matching line = 594    window = 589 599
+
+[line number in concatenated text file] matching line = 65717    window = 65712 65722
+
+
+     most of his plans going subtly wrong and five of his best agents
+     being in prison. I watched them, Watson, and I picked them as they
+     ripened. Well, sir, I hope that you are none the worse!"
+
+     The last remark was addressed to Von Bork himself, who after much
+==>      gasping and blinking had lain quietly listening to Holmes's <==
+     statement. He broke out now into a furious stream of German
+     invective, his face convulsed with passion. Holmes continued his
+     swift investigation of documents while his prisoner cursed and swore.
+
+     "Though unmusical, German is the most expressive of all languages,"
+
+[line number in individual story] matching line = 596    window = 591 601
+
+[line number in concatenated text file] matching line = 65719    window = 65714 65724
+
+
+     ripened. Well, sir, I hope that you are none the worse!"
+
+     The last remark was addressed to Von Bork himself, who after much
+     gasping and blinking had lain quietly listening to Holmes's
+     statement. He broke out now into a furious stream of German
+==>      invective, his face convulsed with passion. Holmes continued his <==
+     swift investigation of documents while his prisoner cursed and swore.
+
+     "Though unmusical, German is the most expressive of all languages,"
+     he observed when Von Bork had stopped from pure exhaustion. "Hullo!
+     Hullo!" he added as he looked hard at the corner of a tracing before
+
+[line number in individual story] matching line = 615    window = 610 620
+
+[line number in concatenated text file] matching line = 65738    window = 65733 65743
+
+
+
+     "I shall get level with you, Altamont," he said, speaking with slow
+     deliberation. "If it takes me all my life I shall get level with
+     you!"
+
+==>      "The old sweet song," said Holmes. "How often have I heard it in days <==
+     gone by. It was a favorite ditty of the late lamented Professor
+     Moriarty.  Colonel Sebastian Moran has also been known to warble it.
+     And yet I live and keep bees upon the South Downs."
+
+     "Curse you, you double traitor!" cried the German, straining against
+
+[line number in individual story] matching line = 623    window = 618 628
+
+[line number in concatenated text file] matching line = 65746    window = 65741 65751
+
+
+     And yet I live and keep bees upon the South Downs."
+
+     "Curse you, you double traitor!" cried the German, straining against
+     his bonds and glaring murder from his furious eyes.
+
+==>      "No, no, it is not so bad as that," said Holmes, smiling. "As my <==
+     speech surely shows you, Mr. Altamont of Chicago had no existence in
+     fact. I used him and he is gone."
+
+     "Then who are you?"
+
+
+[line number in individual story] matching line = 647    window = 642 652
+
+[line number in concatenated text file] matching line = 65770    window = 65765 65775
+
+
+
+     Von Bork sat up in amazement.
+
+     "There is only one man," he cried.
+
+==>      "Exactly," said Holmes. <==
+
+     Von Bork groaned and sank back on the sofa. "And most of that
+     information came through you," he cried. "What is it worth? What have
+     I done? It is my ruin forever!"
+
+
+[line number in individual story] matching line = 653    window = 648 658
+
+[line number in concatenated text file] matching line = 65776    window = 65771 65781
+
+
+
+     Von Bork groaned and sank back on the sofa. "And most of that
+     information came through you," he cried. "What is it worth? What have
+     I done? It is my ruin forever!"
+
+==>      "It is certainly a little untrustworthy," said Holmes. "It will <==
+     require some checking and you have little time to check it. Your
+     admiral may find the new guns rather larger than he expects, and the
+     cruisers perhaps a trifle faster."
+
+     Von Bork clutched at his own throat in despair.
+
+[line number in individual story] matching line = 681    window = 676 686
+
+[line number in concatenated text file] matching line = 65804    window = 65799 65809
+
+
+     diplomatist only a few hours before. After a short, final struggle he
+     was hoisted, still bound hand and foot, into the spare seat of the
+     little car. His precious valise was wedged in beside him.
+
+     "I trust that you are as comfortable as circumstances permit," said
+==>      Holmes when the final arrangements were made. "Should I be guilty of <==
+     a liberty if I lit a cigar and placed it between your lips?"
+
+     But all amenities were wasted upon the angry German.
+
+     "I suppose you realize, Mr. Sherlock Holmes," said he, "that if your
+
+[line number in individual story] matching line = 686    window = 681 691
+
+[line number in concatenated text file] matching line = 65809    window = 65804 65814
+
+
+     Holmes when the final arrangements were made. "Should I be guilty of
+     a liberty if I lit a cigar and placed it between your lips?"
+
+     But all amenities were wasted upon the angry German.
+
+==>      "I suppose you realize, Mr. Sherlock Holmes," said he, "that if your <==
+     government bears you out in this treatment it becomes an act of war."
+
+     "What about your government and all this treatment?" said Holmes,
+     tapping the valise.
+
+
+[line number in individual story] matching line = 689    window = 684 694
+
+[line number in concatenated text file] matching line = 65812    window = 65807 65817
+
+
+     But all amenities were wasted upon the angry German.
+
+     "I suppose you realize, Mr. Sherlock Holmes," said he, "that if your
+     government bears you out in this treatment it becomes an act of war."
+
+==>      "What about your government and all this treatment?" said Holmes, <==
+     tapping the valise.
+
+     "You are a private individual. You have no warrant for my arrest. The
+     whole proceeding is absolutely illegal and outrageous."
+
+
+[line number in individual story] matching line = 695    window = 690 700
+
+[line number in concatenated text file] matching line = 65818    window = 65813 65823
+
+
+     tapping the valise.
+
+     "You are a private individual. You have no warrant for my arrest. The
+     whole proceeding is absolutely illegal and outrageous."
+
+==>      "Absolutely," said Holmes. <==
+
+     "Kidnapping a German subject."
+
+     "And stealing his private papers."
+
+
+[line number in individual story] matching line = 720    window = 715 725
+
+[line number in concatenated text file] matching line = 65843    window = 65838 65848
+
+
+     talk that we shall ever have."
+
+     The two friends chatted in intimate converse for a few minutes,
+     recalling once again the days of the past, while their prisoner
+     vainly wriggled to undo the bonds that held him. As they turned to
+==>      the car Holmes pointed back to the moonlit sea and shook a thoughtful <==
+     head.
+
+     "There's an east wind coming, Watson."
+
+     "I think not, Holmes. It is very warm."
+
+[line number in individual story] matching line = 725    window = 720 730
+
+[line number in concatenated text file] matching line = 65848    window = 65843 65853
+
+
+     the car Holmes pointed back to the moonlit sea and shook a thoughtful
+     head.
+
+     "There's an east wind coming, Watson."
+
+==>      "I think not, Holmes. It is very warm." <==
+
+     "Good old Watson! You are the one fixed point in a changing age.
+     There's an east wind coming all the same, such a wind as never blew
+     on England yet. It will be cold and bitter, Watson, and a good many
+     of us may wither before its blast. But it's God's own wind none the
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ =============================================================================================== 
+          in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ ----------------------------------------------------------------------------------------------- 
+ Holmes     22      0    0.0181968569065343           0             Inf     1.22605374534759e-13 
+ wind       4       0    0.0033085194375517           0             Inf     0.00701684095883343  
+ Watson     10      7    0.00827129859387924 0.00218545113955667   3.785    0.00834428689256207  
+ Sherlock   3       0    0.00248138957816377          0             Inf      0.029801607554577   
+ ----------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "His Last Bow"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 473    window = 468 478
+
+[line number in concatenated text file] matching line = 65596    window = 65591 65601
+
+
+     Culture. Only for one instant did the master spy glare at this
+     strangely irrelevant inscription. The next he was gripped at the back
+     of his neck by a grasp of iron, and a chloroformed sponge was held in
+     front of his writhing face.
+
+==>      "Another glass, Watson!" said Mr. Sherlock Holmes as he extended the <==
+     bottle of Imperial Tokay.
+
+     The thickset chauffeur, who had seated himself by the table, pushed
+     forward his glass with some eagerness.
+
+
+[line number in individual story] matching line = 481    window = 476 486
+
+[line number in concatenated text file] matching line = 65604    window = 65599 65609
+
+
+     The thickset chauffeur, who had seated himself by the table, pushed
+     forward his glass with some eagerness.
+
+     "It is a good wine, Holmes."
+
+==>      "A remarkable wine, Watson. Our friend upon the sofa has assured me <==
+     that it is from Franz Josef's special cellar at the Schoenbrunn
+     Palace. Might I trouble you to open the window, for chloroform vapour
+     does not help the palate."
+
+     The safe was ajar, and Holmes standing in front of it was removing
+
+[line number in individual story] matching line = 492    window = 487 497
+
+[line number in concatenated text file] matching line = 65615    window = 65610 65620
+
+
+     dossier after dossier, swiftly examining each, and then packing it
+     neatly in Von Bork's valise. The German lay upon the sofa sleeping
+     stertorously with a strap round his upper arms and another round his
+     legs.
+
+==>      "We need not hurry ourselves, Watson. We are safe from interruption. <==
+     Would you mind touching the bell? There is no one in the house except
+     old Martha, who has played her part to admiration. I got her the
+     situation here when first I took the matter up. Ah, Martha, you will
+     be glad to hear that all is well."
+
+
+[line number in individual story] matching line = 537    window = 532 542
+
+[line number in concatenated text file] matching line = 65660    window = 65655 65665
+
+
+     represent has been sent off long ago to the German government. These
+     are the originals which cold not safely be got out of the country."
+
+     "Then they are of no use."
+
+==>      "I should not go so far as to say that, Watson. They will at least <==
+     show our people what is known and what is not. I may say that a good
+     many of these papers have come through me, and I need not add are
+     thoroughly untrustworthy. It would brighten my declining years to see
+     a German cruiser navigating the Solent according to the mine-field
+     plans which I have furnished. But you, Watson"--he stopped his work
+
+[line number in individual story] matching line = 542    window = 537 547
+
+[line number in concatenated text file] matching line = 65665    window = 65660 65670
+
+
+     "I should not go so far as to say that, Watson. They will at least
+     show our people what is known and what is not. I may say that a good
+     many of these papers have come through me, and I need not add are
+     thoroughly untrustworthy. It would brighten my declining years to see
+     a German cruiser navigating the Solent according to the mine-field
+==>      plans which I have furnished. But you, Watson"--he stopped his work <==
+     and took his old friend by the shoulders--"I've hardly seen you in
+     the light yet. How have the years used you? You look the same blithe
+     boy as ever."
+
+     "I feel twenty years younger, Holmes. I have seldom felt so happy as
+
+[line number in individual story] matching line = 552    window = 547 557
+
+[line number in concatenated text file] matching line = 65675    window = 65670 65680
+
+
+     "I feel twenty years younger, Holmes. I have seldom felt so happy as
+     when I got your wire asking me to meet you at Harwich with the car.
+     But you, Holmes--you have changed very little--save for that horrible
+     goatee."
+
+==>      "These are the sacrifices one makes for one's country, Watson," said <==
+     Holmes, pulling at his little tuft. "To-morrow it will be but a
+     dreadful memory. With my hair cut and a few other superficial changes
+     I shall no doubt reappear at Claridge's to-morrow as I was before
+     this American stunt--I beg your pardon, Watson, my well of English
+     seems to be permanently defiled--before this American job came my
+
+[line number in individual story] matching line = 556    window = 551 561
+
+[line number in concatenated text file] matching line = 65679    window = 65674 65684
+
+
+
+     "These are the sacrifices one makes for one's country, Watson," said
+     Holmes, pulling at his little tuft. "To-morrow it will be but a
+     dreadful memory. With my hair cut and a few other superficial changes
+     I shall no doubt reappear at Claridge's to-morrow as I was before
+==>      this American stunt--I beg your pardon, Watson, my well of English <==
+     seems to be permanently defiled--before this American job came my
+     way."
+
+     "But you have retired, Holmes. We heard of you as living the life of
+     a hermit among your bees and your books in a small farm upon the
+
+[line number in individual story] matching line = 564    window = 559 569
+
+[line number in concatenated text file] matching line = 65687    window = 65682 65692
+
+
+
+     "But you have retired, Holmes. We heard of you as living the life of
+     a hermit among your bees and your books in a small farm upon the
+     South Downs."
+
+==>      "Exactly, Watson. Here is the fruit of my leisured ease, the magnum <==
+     opus of my latter years!" He picked up the volume from the table and
+     read out the whole title, Practical Handbook of Bee Culture, with
+     Some Observations upon the Segregation of the Queen. "Alone I did it.
+     Behold the fruit of pensive nights and laborious days when I watched
+     the little working gangs as once I watched the criminal world of
+
+[line number in individual story] matching line = 576    window = 571 581
+
+[line number in concatenated text file] matching line = 65699    window = 65694 65704
+
+
+
+     "But how did you get to work again?"
+
+     "Ah, I have often marvelled at it myself. The Foreign Minister alone
+     I could have withstood, but when the Premier also deigned to visit my
+==>      humble roof--! The fact is, Watson, that this gentleman upon the sofa <==
+     was a bit too good for our people. He was in a class by himself.
+     Things were going wrong, and no one could understand why they were
+     going wrong. Agents were suspected or even caught, but there was
+     evidence of some strong and secret central force. It was absolutely
+     necessary to expose it. Strong pressure was brought upon me to look
+
+[line number in individual story] matching line = 582    window = 577 587
+
+[line number in concatenated text file] matching line = 65705    window = 65700 65710
+
+
+     was a bit too good for our people. He was in a class by himself.
+     Things were going wrong, and no one could understand why they were
+     going wrong. Agents were suspected or even caught, but there was
+     evidence of some strong and secret central force. It was absolutely
+     necessary to expose it. Strong pressure was brought upon me to look
+==>      into the matter. It has cost me two years, Watson, but they have not <==
+     been devoid of excitement. When I say that I started my pilgrimage at
+     Chicago, graduated in an Irish secret society at Buffalo, gave
+     serious trouble to the constabulary at Skibbareen, and so eventually
+     caught the eye of a subordinate agent of Von Bork, who recommended me
+     as a likely man, you will realize that the matter was complex. Since
+
+[line number in individual story] matching line = 590    window = 585 595
+
+[line number in concatenated text file] matching line = 65713    window = 65708 65718
+
+
+     serious trouble to the constabulary at Skibbareen, and so eventually
+     caught the eye of a subordinate agent of Von Bork, who recommended me
+     as a likely man, you will realize that the matter was complex. Since
+     then I have been honoured by his confidence, which has not prevented
+     most of his plans going subtly wrong and five of his best agents
+==>      being in prison. I watched them, Watson, and I picked them as they <==
+     ripened. Well, sir, I hope that you are none the worse!"
+
+     The last remark was addressed to Von Bork himself, who after much
+     gasping and blinking had lain quietly listening to Holmes's
+     statement. He broke out now into a furious stream of German
+
+[line number in individual story] matching line = 669    window = 664 674
+
+[line number in concatenated text file] matching line = 65792    window = 65787 65797
+
+
+     other people, have at last been outwitted yourself. After all, you
+     have done your best for your country, and I have done my best for
+     mine, and what could be more natural? Besides," he added, not
+     unkindly, as he laid his hand upon the shoulder of the prostrate man,
+     "it is better than to fall before some ignoble foe. These papers are
+==>      now ready, Watson. If you will help me with our prisoner, I think <==
+     that we may get started for London at once."
+
+     It was no easy task to move Von Bork, for he was a strong and a
+     desperate man. Finally, holding either arm, the two friends walked
+     him very slowly down the garden walk which he had trod with such
+
+[line number in individual story] matching line = 712    window = 707 717
+
+[line number in concatenated text file] matching line = 65835    window = 65830 65840
+
+
+     creature, but at present his temper is a little inflamed, and it
+     would be as well not to try him too far. No, Mr. Von Bork, you will
+     go with us in a quiet, sensible fashion to Scotland Yard, whence you
+     can send for your friend, Baron Von Herling, and see if even now you
+     may not fill that place which he has reserved for you in the
+==>      ambassadorial suite. As to you, Watson, you are joining us with your <==
+     old service, as I understand, so London won't be out of your way.
+     Stand with me here upon the terrace, for it may be the last quiet
+     talk that we shall ever have."
+
+     The two friends chatted in intimate converse for a few minutes,
+
+[line number in individual story] matching line = 723    window = 718 728
+
+[line number in concatenated text file] matching line = 65846    window = 65841 65851
+
+
+     recalling once again the days of the past, while their prisoner
+     vainly wriggled to undo the bonds that held him. As they turned to
+     the car Holmes pointed back to the moonlit sea and shook a thoughtful
+     head.
+
+==>      "There's an east wind coming, Watson." <==
+
+     "I think not, Holmes. It is very warm."
+
+     "Good old Watson! You are the one fixed point in a changing age.
+     There's an east wind coming all the same, such a wind as never blew
+
+[line number in individual story] matching line = 727    window = 722 732
+
+[line number in concatenated text file] matching line = 65850    window = 65845 65855
+
+
+
+     "There's an east wind coming, Watson."
+
+     "I think not, Holmes. It is very warm."
+
+==>      "Good old Watson! You are the one fixed point in a changing age. <==
+     There's an east wind coming all the same, such a wind as never blew
+     on England yet. It will be cold and bitter, Watson, and a good many
+     of us may wither before its blast. But it's God's own wind none the
+     less, and a cleaner, better, stronger land will lie in the sunshine
+     when the storm has cleared. Start her up, Watson, for it's time that
+
+[line number in individual story] matching line = 729    window = 724 734
+
+[line number in concatenated text file] matching line = 65852    window = 65847 65857
+
+
+
+     "I think not, Holmes. It is very warm."
+
+     "Good old Watson! You are the one fixed point in a changing age.
+     There's an east wind coming all the same, such a wind as never blew
+==>      on England yet. It will be cold and bitter, Watson, and a good many <==
+     of us may wither before its blast. But it's God's own wind none the
+     less, and a cleaner, better, stronger land will lie in the sunshine
+     when the storm has cleared. Start her up, Watson, for it's time that
+     we were on our way. I have a check for five hundred pounds which
+     should be cashed early, for the drawer is quite capable of stopping
+
+[line number in individual story] matching line = 732    window = 727 736
+
+[line number in concatenated text file] matching line = 65855    window = 65850 65859
+
+
+     "Good old Watson! You are the one fixed point in a changing age.
+     There's an east wind coming all the same, such a wind as never blew
+     on England yet. It will be cold and bitter, Watson, and a good many
+     of us may wither before its blast. But it's God's own wind none the
+     less, and a cleaner, better, stronger land will lie in the sunshine
+==>      when the storm has cleared. Start her up, Watson, for it's time that <==
+     we were on our way. I have a check for five hundred pounds which
+     should be cashed early, for the drawer is quite capable of stopping
+     it if he can."
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ =================================================================================== 
+         in.raw out.raw       in.norm       out.norm ratio.norm         pval         
+ ----------------------------------------------------------------------------------- 
+ Watson    17      0    0.0134387351778656     0        Inf     2.27210273190923e-10 
+ wind      4       0    0.00316205533596838    0        Inf     0.00814230414553217  
+ best      3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ friend    3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ going     3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ once      3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ watched   3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ wrong     3       0    0.00237154150197628    0        Inf      0.0331148719497344  
+ ----------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "His Last Bow"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "His Last Bow"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

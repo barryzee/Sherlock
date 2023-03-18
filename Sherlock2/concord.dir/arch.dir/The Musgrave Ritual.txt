@@ -1,0 +1,417 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Musgrave Ritual"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 3    window = 1 8
+
+[line number in concatenated text file] matching line = 24948    window = 24946 24953
+
+
+
+     An anomaly which often struck me in the character of my friend
+==>      Sherlock Holmes was that, although in his methods of thought he was <==
+     the neatest and most methodical of mankind, and although also he
+     affected a certain quiet primness of dress, he was none the less in
+     his personal habits one of the most untidy men that ever drove a
+     fellow-lodger to distraction. Not that I am in the least conventional
+     in that respect myself. The rough-and-tumble work in Afghanistan,
+
+[line number in individual story] matching line = 16    window = 11 21
+
+[line number in concatenated text file] matching line = 24961    window = 24956 24966
+
+
+     limit, and when I find a man who keeps his cigars in the
+     coal-scuttle, his tobacco in the toe end of a Persian slipper, and
+     his unanswered correspondence transfixed by a jack-knife into the
+     very centre of his wooden mantelpiece, then I begin to give myself
+     virtuous airs. I have always held, too, that pistol practice should
+==>      be distinctly an open-air pastime; and when Holmes, in one of his <==
+     queer humors, would sit in an arm-chair with his hair-trigger and a
+     hundred Boxer cartridges, and proceed to adorn the opposite wall with
+     a patriotic V. R. done in bullet-pocks, I felt strongly that neither
+     the atmosphere nor the appearance of our room was improved by it.
+
+
+[line number in individual story] matching line = 84    window = 79 89
+
+[line number in concatenated text file] matching line = 25029    window = 25024 25034
+
+
+
+     "So much so that they are history."
+
+     "What do you mean by that?"
+
+==>      Sherlock Holmes picked them up one by one, and laid them along the <==
+     edge of the table. Then he reseated himself in his chair and looked
+     them over with a gleam of satisfaction in his eyes.
+
+     "These," said he, "are all that I have left to remind me of the
+     adventure of the Musgrave Ritual."
+
+[line number in individual story] matching line = 158    window = 153 163
+
+[line number in concatenated text file] matching line = 25103    window = 25098 25108
+
+
+     cordially shaken hands.
+
+     "'You probably heard of my poor father's death,' said he; 'he was
+     carried off about two years ago. Since then I have of course had the
+     Hurlstone estates to manage, and as I am member for my district as
+==>      well, my life has been a busy one. But I understand, Holmes, that you <==
+     are turning to practical ends those powers with which you used to
+     amaze us?'
+
+     "'Yes,' said I, 'I have taken to living by my wits.'
+
+
+[line number in individual story] matching line = 568    window = 563 573
+
+[line number in concatenated text file] matching line = 25513    window = 25508 25518
+
+
+     Ritual would then be fulfilled. And the shadow of the elm must mean
+     the farther end of the shadow, otherwise the trunk would have been
+     chosen as the guide. I had, then, to find where the far end of the
+     shadow would fall when the sun was just clear of the oak."
+
+==>      "That must have been difficult, Holmes, when the elm was no longer <==
+     there."
+
+     "Well, at least I knew that if Brunton could do it, I could also.
+     Besides, there was no real difficulty. I went with Musgrave to his
+     study and whittled myself this peg, to which I tied this long string
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================ 
+          in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------ 
+ Holmes     5       0    0.0108695652173913           0              Inf     1.48517856291714e-08 
+ also       2       0    0.00434782608695652          0              Inf     0.00371908385538894  
+ Sherlock   2       0    0.00434782608695652          0              Inf     0.00371908385538894  
+ although   2       1    0.00434782608695652 0.000267379679144385   16.261    0.0302782452859634  
+ mean       2       1    0.00434782608695652 0.000267379679144385   16.261    0.0302782452859634  
+ shadow     3       4    0.00652173913043478 0.00106951871657754    6.098     0.0357668979084089  
+ ------------------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Musgrave Ritual"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 47    window = 42 52
+
+[line number in concatenated text file] matching line = 24992    window = 24987 24997
+
+
+     behind him. This he placed in the middle of the floor and, squatting
+     down upon a stool in front of it, he threw back the lid. I could see
+     that it was already a third full of bundles of paper tied up with red
+     tape into separate packages.
+
+==>      "There are cases enough here, Watson," said he, looking at me with <==
+     mischievous eyes. "I think that if you knew all that I had in this
+     box you would ask me to pull some out instead of putting others in."
+
+     "These are the records of your early work, then?" I asked. "I have
+     often wished that I had notes of those cases."
+
+[line number in individual story] matching line = 56    window = 51 61
+
+[line number in concatenated text file] matching line = 25001    window = 24996 25006
+
+
+     "These are the records of your early work, then?" I asked. "I have
+     often wished that I had notes of those cases."
+
+     "Yes, my boy, these were all done prematurely before my biographer
+     had come to glorify me." He lifted bundle after bundle in a tender,
+==>      caressing sort of way. "They are not all successes, Watson," said he. <==
+     "But there are some pretty little problems among them. Here's the
+     record of the Tarleton murders, and the case of Vamberry, the wine
+     merchant, and the adventure of the old Russian woman, and the
+     singular affair of the aluminium crutch, as well as a full account of
+     Ricoletti of the club-foot, and his abominable wife. And here--ah,
+
+[line number in individual story] matching line = 96    window = 91 101
+
+[line number in concatenated text file] matching line = 25041    window = 25036 25046
+
+
+     I had heard him mention the case more than once, though I had never
+     been able to gather the details. "I should be so glad," said I, "if
+     you would give me an account of it."
+
+     "And leave the litter as it is?" he cried, mischievously. "Your
+==>      tidiness won't bear much strain after all, Watson. But I should be <==
+     glad that you should add this case to your annals, for there are
+     points in it which make it quite unique in the criminal records of
+     this or, I believe, of any other country. A collection of my trifling
+     achievements would certainly be incomplete which contained no account
+     of this very singular business.
+
+[line number in individual story] matching line = 170    window = 165 175
+
+[line number in concatenated text file] matching line = 25115    window = 25110 25120
+
+
+     exceedingly valuable to me. We have had some very strange doings at
+     Hurlstone, and the police have been able to throw no light upon the
+     matter. It is really the most extraordinary and inexplicable
+     business.'
+
+==>      "You can imagine with what eagerness I listened to him, Watson, for <==
+     the very chance for which I had been panting during all those months
+     of inaction seemed to have come within my reach. In my inmost heart I
+     believed that I could succeed where others failed, and now I had the
+     opportunity to test myself.
+
+
+[line number in individual story] matching line = 383    window = 378 388
+
+[line number in concatenated text file] matching line = 25328    window = 25323 25333
+
+
+     although we made every possible search and inquiry yesterday, we know
+     nothing of the fate either of Rachel Howells or of Richard Brunton.
+     The county police are at their wits' end, and I have come up to you
+     as a last resource.'
+
+==>      "You can imagine, Watson, with what eagerness I listened to this <==
+     extraordinary sequence of events, and endeavored to piece them
+     together, and to devise some common thread upon which they might all
+     hang. The butler was gone. The maid was gone. The maid had loved the
+     butler, but had afterwards had cause to hate him. She was of Welsh
+     blood, fiery and passionate. She had been terribly excited
+
+[line number in individual story] matching line = 404    window = 399 409
+
+[line number in concatenated text file] matching line = 25349    window = 25344 25354
+
+
+     "'It is rather an absurd business, this ritual of ours,' he answered.
+     'But it has at least the saving grace of antiquity to excuse it. I
+     have a copy of the questions and answers here if you care to run your
+     eye over them.'
+
+==>      "He handed me the very paper which I have here, Watson, and this is <==
+     the strange catechism to which each Musgrave had to submit when he
+     came to man's estate. I will read you the questions and answers as
+     they stand.
+
+     "'Whose was it?'
+
+[line number in individual story] matching line = 490    window = 485 495
+
+[line number in concatenated text file] matching line = 25435    window = 25430 25440
+
+
+     and a cellar, when it was used at all. A splendid park with fine old
+     timber surrounds the house, and the lake, to which my client had
+     referred, lay close to the avenue, about two hundred yards from the
+     building.
+
+==>      "I was already firmly convinced, Watson, that there were not three <==
+     separate mysteries here, but one only, and that if I could read the
+     Musgrave Ritual aright I should hold in my hand the clue which would
+     lead me to the truth concerning both the butler Brunton and the maid
+     Howells. To that then I turned all my energies. Why should this
+     servant be so anxious to master this old formula? Evidently because
+
+[line number in individual story] matching line = 559    window = 554 564
+
+[line number in concatenated text file] matching line = 25504    window = 25499 25509
+
+
+     "Reginald Musgrave looked at me in astonishment. 'Now that you call
+     it to my mind,' he answered, 'Brunton did ask me about the height of
+     the tree some months ago, in connection with some little argument
+     with the groom.'
+
+==>      "This was excellent news, Watson, for it showed me that I was on the <==
+     right road. I looked up at the sun. It was low in the heavens, and I
+     calculated that in less than an hour it would lie just above the
+     topmost branches of the old oak. One condition mentioned in the
+     Ritual would then be fulfilled. And the shadow of the elm must mean
+     the farther end of the shadow, otherwise the trunk would have been
+
+[line number in individual story] matching line = 585    window = 580 590
+
+[line number in concatenated text file] matching line = 25530    window = 25525 25535
+
+
+     "Of course the calculation now was a simple one. If a rod of six feet
+     threw a shadow of nine, a tree of sixty-four feet would throw one of
+     ninety-six, and the line of the one would of course be the line of
+     the other. I measured out the distance, which brought me almost to
+     the wall of the house, and I thrust a peg into the spot. You can
+==>      imagine my exultation, Watson, when within two inches of my peg I saw <==
+     a conical depression in the ground. I knew that it was the mark made
+     by Brunton in his measurements, and that I was still upon his trail.
+
+     "From this starting-point I proceeded to step, having first taken the
+     cardinal points by my pocket-compass. Ten steps with each foot took
+
+[line number in individual story] matching line = 598    window = 593 603
+
+[line number in concatenated text file] matching line = 25543    window = 25538 25548
+
+
+     to the south. It brought me to the very threshold of the old door.
+     Two steps to the west meant now that I was to go two paces down the
+     stone-flagged passage, and this was the place indicated by the
+     Ritual.
+
+==>      "Never have I felt such a cold chill of disappointment, Watson. For a <==
+     moment it seemed to me that there must be some radical mistake in my
+     calculations. The setting sun shone full upon the passage floor, and
+     I could see that the old, foot-worn gray stones with which it was
+     paved were firmly cemented together, and had certainly not been moved
+     for many a long year. Brunton had not been at work here. I tapped
+
+[line number in individual story] matching line = 663    window = 658 668
+
+[line number in concatenated text file] matching line = 25608    window = 25603 25613
+
+
+     days, but there was no wound or bruise upon his person to show how he
+     had met his dreadful end. When his body had been carried from the
+     cellar we found ourselves still confronted with a problem which was
+     almost as formidable as that with which we had started.
+
+==>      "I confess that so far, Watson, I had been disappointed in my <==
+     investigation. I had reckoned upon solving the matter when once I had
+     found the place referred to in the Ritual; but now I was there, and
+     was apparently as far as ever from knowing what it was which the
+     family had concealed with such elaborate precautions. It is true that
+     I had thrown a light upon the fate of Brunton, but now I had to
+
+[line number in individual story] matching line = 673    window = 668 678
+
+[line number in concatenated text file] matching line = 25618    window = 25613 25623
+
+
+     I had thrown a light upon the fate of Brunton, but now I had to
+     ascertain how that fate had come upon him, and what part had been
+     played in the matter by the woman who had disappeared. I sat down
+     upon a keg in the corner and thought the whole matter carefully over.
+
+==>      "You know my methods in such cases, Watson. I put myself in the man's <==
+     place and, having first gauged his intelligence, I try to imagine how
+     I should myself have proceeded under the same circumstances. In this
+     case the matter was simplified by Brunton's intelligence being quite
+     first-rate, so that it was unnecessary to make any allowance for the
+     personal equation, as the astronomers have dubbed it. He knew that
+
+[line number in individual story] matching line = 804    window = 799 809
+
+[line number in concatenated text file] matching line = 25749    window = 25744 25754
+
+
+     this guide to his descendant without explaining the meaning of it.
+     From that day to this it has been handed down from father to son,
+     until at last it came within reach of a man who tore its secret out
+     of it and lost his life in the venture.'
+
+==>      "And that's the story of the Musgrave Ritual, Watson. They have the <==
+     crown down at Hurlstone--though they had some legal bother and a
+     considerable sum to pay before they were allowed to retain it. I am
+     sure that if you mentioned my name they would be happy to show it to
+     you. Of the woman nothing was ever heard, and the probability is that
+     she got away out of England and carried herself and the memory of her
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================ 
+          in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------ 
+ Watson     13      0    0.00889192886456908          0              Inf     4.48853625270403e-09 
+ case       4       0    0.0027359781121751           0              Inf     0.00432884229091961  
+ here       6       3    0.00410396716826265 0.000699137730132836    5.87     0.0138247809585509  
+ business   3       0    0.00205198358413133          0              Inf      0.0211734898722123  
+ foot       3       0    0.00205198358413133          0              Inf      0.0211734898722123  
+ matter     5       3    0.00341997264021888 0.000699137730132836   4.892     0.0449883414507838  
+ ------------------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Musgrave Ritual"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Musgrave Ritual"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

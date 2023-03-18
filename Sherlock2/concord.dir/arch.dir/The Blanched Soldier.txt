@@ -1,0 +1,486 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Blanched Soldier"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 8    window = 3 13
+
+[line number in concatenated text file] matching line = 66977    window = 66972 66982
+
+
+     pertinacious. For a long time he has worried me to write an
+     experience of my own. Perhaps I have rather invited this persecution,
+     since I have often had occasion to point out to him how superficial
+     are his own accounts and to accuse him of pandering to popular taste
+     instead of confining himself rigidly to facts and figures. "Try it
+==>      yourself, Holmes!" he has retorted, and I am compelled to admit that, <==
+     having taken my pen in my hand, I do begin to realize that the matter
+     must be presented in such a way as may interest the reader. The
+     following case can hardly fail to do so, as it is among the strangest
+     happenings in my collection, though it chanced that Watson had no
+     note of it in his collection. Speaking of my old friend and
+
+[line number in individual story] matching line = 47    window = 42 52
+
+[line number in concatenated text file] matching line = 67016    window = 67011 67021
+
+
+
+     "Exactly."
+
+     "Middlesex Corps, no doubt."
+
+==>      "That is so. Mr. Holmes, you are a wizard." <==
+
+     I smiled at his bewildered expression.
+
+     "When a gentleman of virile appearance enters my room with such tan
+     upon his face as an English sun could never give, and with his
+
+[line number in individual story] matching line = 66    window = 61 71
+
+[line number in concatenated text file] matching line = 67035    window = 67030 67040
+
+
+     "I see no more than you, but I have trained myself to notice what I
+     see. However, Mr. Dodd, it was not to discuss the science of
+     observation that you called upon me this morning. What has been
+     happening at Tuxbury Old Park?"
+
+==>      "Mr. Holmes--!" <==
+
+     "My dear sir, there is no mystery. Your letter came with that
+     heading, and as you fixed this appointment in very pressing terms it
+     was clear that something sudden and important had occurred."
+
+
+[line number in individual story] matching line = 106    window = 101 111
+
+[line number in concatenated text file] matching line = 67075    window = 67070 67080
+
+
+     joys and sorrows. He was my mate--and that means a good deal in the
+     Army. We took the rough and the smooth together for a year of hard
+     fighting. Then he was hit with a bullet from an elephant gun in the
+     action near Diamond Hill outside Pretoria. I got one letter from the
+     hospital at Cape Town and one from Southampton. Since then not a
+==>      word--not one word, Mr. Holmes, for six months and more, and he my <==
+     closest pal.
+
+     "Well, when the war was over, and we all got back, I wrote to his
+     father and asked where Godfrey was. No answer. I waited a bit and
+     then I wrote again. This time I had a reply, short and gruff. Godfrey
+
+[line number in individual story] matching line = 115    window = 110 120
+
+[line number in concatenated text file] matching line = 67084    window = 67079 67089
+
+
+     father and asked where Godfrey was. No answer. I waited a bit and
+     then I wrote again. This time I had a reply, short and gruff. Godfrey
+     had gone on a voyage round the world, and it was not likely that he
+     would be back for a year. That was all.
+
+==>      "I wasn't satisfied, Mr. Holmes. The whole thing seemed to me so <==
+     damned unnatural. He was a good lad, and he would not drop a pal like
+     that. It was not like him. Then, again, I happened to know that he
+     was heir to a lot of money, and also that his father and he did not
+     always hit it off too well. The old man was sometimes a bully, and
+     young Godfrey had too much spirit to stand it. No, I wasn't
+
+[line number in individual story] matching line = 222    window = 217 227
+
+[line number in concatenated text file] matching line = 67191    window = 67186 67196
+
+
+     hear something of Godfrey's past which you are in a position to tell
+     her, but I would ask you to let the present and the future alone.
+     Such inquiries serve no useful purpose, sir, and place us in a
+     delicate and difficult position.'
+
+==>      "So I came to a dead end, Mr. Holmes. There was no getting past it. I <==
+     could only pretend to accept the situation and register a vow
+     inwardly that I would never rest until my friend's fate had been
+     cleared up. It was a dull evening. We dined quietly, the three of us,
+     in a gloomy, faded old room. The lady questioned me eagerly about her
+     son, but the old man seemed morose and depressed. I was so bored by
+
+[line number in individual story] matching line = 231    window = 226 236
+
+[line number in concatenated text file] matching line = 67200    window = 67195 67205
+
+
+     in a gloomy, faded old room. The lady questioned me eagerly about her
+     son, but the old man seemed morose and depressed. I was so bored by
+     the whole proceeding that I made an excuse as soon as I decently
+     could and retired to my bedroom. It was a large, bare room on the
+     ground floor, as gloomy as the rest of the house, but after a year of
+==>      sleeping upon the veldt, Mr. Holmes, one is not too particular about <==
+     one's quarters. I opened the curtains and looked out into the garden,
+     remarking that it was a fine night with a bright half-moon. Then I
+     sat down by the roaring fire with the lamp on a table beside me, and
+     endeavoured to distract my mind with a novel. I was interrupted,
+     however, by Ralph, the old butler, who came in with a fresh supply of
+
+[line number in individual story] matching line = 281    window = 276 286
+
+[line number in concatenated text file] matching line = 67250    window = 67245 67255
+
+
+     was dragged from his lips. It was a terrible and unexpected one.
+
+     "'I wish to God he was!' he cried, and, tearing himself free, he
+     dashed from the room.
+
+==>      "You will think, Mr. Holmes, that I returned to my chair in no very <==
+     happy state of mind. The old man's words seemed to me to bear only
+     one interpretation. Clearly my poor friend had become involved in
+     some criminal or, at the least, disreputable transaction which
+     touched the family honour. That stern old man had sent his son away
+     and hidden him from the world lest some scandal should come to light.
+
+[line number in individual story] matching line = 299    window = 294 304
+
+[line number in concatenated text file] matching line = 67268    window = 67263 67273
+
+
+     My client had paused as one in deep emotion.
+
+     "Pray continue," I said. "Your problem presents some very unusual
+     features."
+
+==>      "He was outside the window, Mr. Holmes, with his face pressed against <==
+     the glass. I have told you that I looked out at the night. When I did
+     so I left the curtains partly open. His figure was framed in this
+     gap. The window came down to the ground and I could see the whole
+     length of it, but it was his face which held my gaze. He was deadly
+     pale--never have I seen a man so white. I reckon ghosts may look like
+
+[line number in individual story] matching line = 309    window = 304 314
+
+[line number in concatenated text file] matching line = 67278    window = 67273 67283
+
+
+     pale--never have I seen a man so white. I reckon ghosts may look like
+     that; but his eyes met mine, and they were the eyes of a living man.
+     He sprang back when he saw that I was looking at him, and he vanished
+     into the darkness.
+
+==>      "There was something shocking about the man, Mr. Holmes. It wasn't <==
+     merely that ghastly face glimmering as white as cheese in the
+     darkness. It was more subtle than that--something slinking, something
+     furtive, something guilty-- something very unlike the frank, manly
+     lad that I had known. It left a feeling of horror in my mind.
+
+
+[line number in individual story] matching line = 328    window = 323 333
+
+[line number in concatenated text file] matching line = 67297    window = 67292 67302
+
+
+     me something was moving ahead of me. I ran on and called his name,
+     but it was no use. When I got to the end of the path there were
+     several others branching in different directions to various
+     outhouses. I stood hesitating, and as I did so I heard distinctly the
+     sound of a closing door. It was not behind me in the house, but ahead
+==>      of me, somewhere in the darkness. That was enough, Mr. Holmes, to <==
+     assure me that what I had seen was not a vision. Godfrey had run away
+     from me, and he had shut a door behind him. Of that I was certain.
+
+     "There was nothing more I could do, and I spent an uneasy night
+     turning the matter over in my mind and trying to find some theory
+
+[line number in individual story] matching line = 429    window = 424 434
+
+[line number in concatenated text file] matching line = 67398    window = 67393 67403
+
+
+     "'The matter will not bear discussion,' said he abruptly. 'You have
+     made a most damnable intrusion into the privacy of our family. You
+     were here as a guest and you have become a spy. I have nothing more
+     to say, sir, save that I have no wish ever to see you again.'
+
+==>      "At this I lost my temper, Mr. Holmes, and I spoke with some warmth. <==
+
+     "'I have seen your son, and I am convinced that for some reason of
+     your own you are concealing him from the world. I have no idea what
+     your motives are in cutting him off in this fashion, but I am sure
+     that he is no longer a free agent. I warn you, Colonel Emsworth, that
+
+[line number in individual story] matching line = 850    window = 845 855
+
+[line number in concatenated text file] matching line = 67819    window = 67814 67824
+
+
+
+     "What?"
+
+     "A well-marked case of pseudo-leprosy or ichthyosis, a scale-like
+     affection of the skin, unsightly, obstinate, but possibly curable,
+==>      and certainly noninfective. Yes, Mr. Holmes, the coincidence is a <==
+     remarkable one. But is it coincidence? Are there not subtle forces at
+     work of which we know little? Are we assured that the apprehension
+     from which this young man has no doubt suffered terribly since his
+     exposure to its contagion may not produce a physical effect which
+     simulates that which it fears? At any rate, I pledge my professional
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================= 
+           in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------- 
+ Holmes      13      0    0.00939306358381503          0              Inf     7.23318211265551e-10 
+ something   8       0    0.00578034682080925          0              Inf     3.00028662572223e-06 
+ Mr          13     16    0.00939306358381503 0.00357861775889063    2.625     0.0133822205429083  
+ mind        4       1    0.00289017341040462 0.000223663609930664   12.922    0.0146415934959086  
+ darkness    3       0    0.00216763005780347          0              Inf      0.0149217022951799  
+ wasn        3       0    0.00216763005780347          0              Inf      0.0149217022951799  
+ whole       3       0    0.00216763005780347          0              Inf      0.0149217022951799  
+ ------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Blanched Soldier"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 66971    window = 66970 66976
+
+
+
+==>      The ideas of my friend Watson, though limited, are exceedingly <==
+     pertinacious. For a long time he has worried me to write an
+     experience of my own. Perhaps I have rather invited this persecution,
+     since I have often had occasion to point out to him how superficial
+     are his own accounts and to accuse him of pandering to popular taste
+     instead of confining himself rigidly to facts and figures. "Try it
+
+[line number in individual story] matching line = 12    window = 7 17
+
+[line number in concatenated text file] matching line = 66981    window = 66976 66986
+
+
+     instead of confining himself rigidly to facts and figures. "Try it
+     yourself, Holmes!" he has retorted, and I am compelled to admit that,
+     having taken my pen in my hand, I do begin to realize that the matter
+     must be presented in such a way as may interest the reader. The
+     following case can hardly fail to do so, as it is among the strangest
+==>      happenings in my collection, though it chanced that Watson had no <==
+     note of it in his collection. Speaking of my old friend and
+     biographer, I would take this opportunity to remark that if I burden
+     myself with a companion in my various little inquiries it is not done
+     out of sentiment or caprice, but it is that Watson has some
+     remarkable characteristics of his own to which in his modesty he has
+
+[line number in individual story] matching line = 16    window = 11 21
+
+[line number in concatenated text file] matching line = 66985    window = 66980 66990
+
+
+     following case can hardly fail to do so, as it is among the strangest
+     happenings in my collection, though it chanced that Watson had no
+     note of it in his collection. Speaking of my old friend and
+     biographer, I would take this opportunity to remark that if I burden
+     myself with a companion in my various little inquiries it is not done
+==>      out of sentiment or caprice, but it is that Watson has some <==
+     remarkable characteristics of his own to which in his modesty he has
+     given small attention amid his exaggerated estimates of my own
+     performances. A confederate who foresees your conclusions and course
+     of action is always dangerous, but one to whom each development comes
+     as a perpetual surprise, and to whom the future is always a closed
+
+[line number in individual story] matching line = 26    window = 21 31
+
+[line number in concatenated text file] matching line = 66995    window = 66990 67000
+
+
+     as a perpetual surprise, and to whom the future is always a closed
+     book, is indeed an ideal helpmate.
+
+     I find from my notebook that it was in January, 1903, just after the
+     conclusion of the Boer War, that I had my visit from Mr. James M.
+==>      Dodd, a big, fresh, sunburned, upstanding Briton. The good Watson had <==
+     at that time deserted me for a wife, the only selfish action which I
+     can recall in our association. I was alone.
+
+     It is my habit to sit with my back to the window and to place my
+     visitors in the opposite chair, where the light falls full upon them.
+
+[line number in individual story] matching line = 493    window = 488 498
+
+[line number in concatenated text file] matching line = 67462    window = 67457 67467
+
+
+     will go back with you to Tuxbury Old Park."
+
+     "To-day?"
+
+     It happened that at the moment I was clearing up the case which my
+==>      friend Watson has described as that of the Abbey School, in which the <==
+     Duke of Greyminster was so deeply involved. I had also a commission
+     from the Sultan of Turkey which called for immediate action, as
+     political consequences of the gravest kind might arise from its
+     neglect. Therefore it was not until the beginning of the next week,
+     as my diary records, that I was able to start forth on my mission to
+
+[line number in individual story] matching line = 508    window = 503 513
+
+[line number in concatenated text file] matching line = 67477    window = 67472 67482
+
+
+     "This is an old friend," said I to Dodd. "It is possible that his
+     presence may be entirely unnecessary, and, on the other hand, it may
+     be essential. It is not necessary at the present stage to go further
+     into the matter."
+
+==>      The narratives of Watson have accustomed the reader, no doubt, to the <==
+     fact that I do not waste words or disclose my thoughts while a case
+     is actually under consideration. Dodd seemed surprised, but nothing
+     more was said, and the three of us continued our journey together. In
+     the train I asked Dodd one more question which I wished our companion
+     to hear.
+
+[line number in individual story] matching line = 550    window = 545 555
+
+[line number in concatenated text file] matching line = 67519    window = 67514 67524
+
+
+     friend to remain within it unless we should summon him. Ralph, a
+     little wrinkled old fellow, was in the conventional costume of black
+     coat and pepper-and-salt trousers, with only one curious variant. He
+     wore brown leather gloves, which at sight of us he instantly shuffled
+     off, laying them down on the hall-table as we passed in. I have, as
+==>      my friend Watson may have remarked, an abnormally acute set of <==
+     senses, and a faint but incisive scent was apparent. It seemed to
+     centre on the hall-table. I turned, placed my hat there, knocked it
+     off, stooped to pick it up, and contrived to bring my nose within a
+     foot of the gloves. Yes, it was undoubtedly from them that the
+     curious tarry odour was oozing. I passed on into the study with my
+
+[line number in individual story] matching line = 558    window = 553 563
+
+[line number in concatenated text file] matching line = 67527    window = 67522 67532
+
+
+     off, stooped to pick it up, and contrived to bring my nose within a
+     foot of the gloves. Yes, it was undoubtedly from them that the
+     curious tarry odour was oozing. I passed on into the study with my
+     case complete. Alas, that I should have to show my hand so when I
+     tell my own story! It was by concealing such links in the chain that
+==>      Watson was enabled to produce his meretricious finales. <==
+
+     Colonel Emsworth was not in his room, but he came quickly enough on
+     receipt of Ralph's message. We heard his quick, heavy step in the
+     passage. The door was flung open and he rushed in with bristling
+     beard and twisted features, as terrible an old man as ever I have
+
+[line number in individual story] matching line = 777    window = 772 782
+
+[line number in concatenated text file] matching line = 67746    window = 67741 67751
+
+
+     "Then I will ask Sir James to step this way. He is at present in the
+     carriage outside the door. Meanwhile, Colonel Emsworth, we may
+     perhaps assemble in your study, where I could give the necessary
+     explanations."
+
+==>      And here it is that I miss my Watson. By cunning questions and <==
+     ejaculations of wonder he could elevate my simple art, which is but
+     systematized common sense, into a prodigy. When I tell my own story I
+     have no such aid. And yet I will give my process of thought even as I
+     gave it to my small audience, which included Godfrey's mother in the
+     study of Colonel Emsworth.
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================== 
+            in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ -------------------------------------------------------------------------------------------------- 
+ Watson       9       0    0.0103448275862069           0              Inf     5.29249734809376e-10 
+ my           28     79     0.032183908045977   0.0184838558727188    1.741     0.0142619707930394  
+ study        3       1    0.00344827586206897 0.000233972859148339   14.738    0.0149690263405692  
+ collection   2       0    0.00229885057471264          0              Inf      0.0283931392443006  
+ companion    2       0    0.00229885057471264          0              Inf      0.0283931392443006  
+ step         2       0    0.00229885057471264          0              Inf      0.0283931392443006  
+ action       3       2    0.00344827586206897 0.000467945718296678   7.369     0.0483137082356958  
+ -------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Blanched Soldier"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Blanched Soldier"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

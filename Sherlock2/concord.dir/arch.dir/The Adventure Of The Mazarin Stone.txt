@@ -1,0 +1,1426 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure Of The Mazarin Stone"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 28    window = 23 33
+
+[line number in concatenated text file] matching line = 67861    window = 67856 67866
+
+
+
+     "That means a case, I suppose?"
+
+     "Yes, sir, he is very hard at it just now. I'm frightened for his
+     health. He gets paler and thinner, and he eats nothing. 'When will
+==>      you be pleased to dine, Mr. Holmes?' Mrs. Hudson asked. <==
+     'Seven-thirty, the day after to-morrow,' said he. You know his way
+     when he is keen on a case."
+
+     "Yes, Billy, I know."
+
+
+[line number in individual story] matching line = 49    window = 44 54
+
+[line number in concatenated text file] matching line = 67882    window = 67877 67887
+
+
+     case of the Crown diamond."
+
+     "What--the hundred-thousand-pound burglary?"
+
+     "Yes, sir. They must get it back, sir. Why, we had the Prime Minister
+==>      and the Home Secretary both sitting on that very sofa. Mr. Holmes was <==
+     very nice to them. He soon put them at their ease and promised he
+     would do all he could. Then there is Lord Cantlemere--"
+
+     "Ah!"
+
+
+[line number in individual story] matching line = 58    window = 53 63
+
+[line number in concatenated text file] matching line = 67891    window = 67886 67896
+
+
+     "Ah!"
+
+     "Yes, sir, you know what that means. He's a stiff 'un, sir, if I may
+     say so. I can get along with the Prime Minister, and I've nothing
+     against the Home Secretary, who seemed a civil, obliging sort of man,
+==>      but I can't stand his Lordship. Neither can Mr. Holmes, sir. You see, <==
+     he don't believe in Mr. Holmes and he was against employing him. He'd
+     rather he failed."
+
+     "And Mr. Holmes knows it?"
+
+
+[line number in individual story] matching line = 59    window = 54 64
+
+[line number in concatenated text file] matching line = 67892    window = 67887 67897
+
+
+
+     "Yes, sir, you know what that means. He's a stiff 'un, sir, if I may
+     say so. I can get along with the Prime Minister, and I've nothing
+     against the Home Secretary, who seemed a civil, obliging sort of man,
+     but I can't stand his Lordship. Neither can Mr. Holmes, sir. You see,
+==>      he don't believe in Mr. Holmes and he was against employing him. He'd <==
+     rather he failed."
+
+     "And Mr. Holmes knows it?"
+
+     "Mr. Holmes always knows whatever there is to know."
+
+[line number in individual story] matching line = 62    window = 57 67
+
+[line number in concatenated text file] matching line = 67895    window = 67890 67900
+
+
+     against the Home Secretary, who seemed a civil, obliging sort of man,
+     but I can't stand his Lordship. Neither can Mr. Holmes, sir. You see,
+     he don't believe in Mr. Holmes and he was against employing him. He'd
+     rather he failed."
+
+==>      "And Mr. Holmes knows it?" <==
+
+     "Mr. Holmes always knows whatever there is to know."
+
+     "Well, we'll hope he won't fail and that Lord Cantlemere will be
+     confounded. But I say, Billy, what is that curtain for across the
+
+[line number in individual story] matching line = 64    window = 59 69
+
+[line number in concatenated text file] matching line = 67897    window = 67892 67902
+
+
+     he don't believe in Mr. Holmes and he was against employing him. He'd
+     rather he failed."
+
+     "And Mr. Holmes knows it?"
+
+==>      "Mr. Holmes always knows whatever there is to know." <==
+
+     "Well, we'll hope he won't fail and that Lord Cantlemere will be
+     confounded. But I say, Billy, what is that curtain for across the
+     window?"
+
+
+[line number in individual story] matching line = 70    window = 65 75
+
+[line number in concatenated text file] matching line = 67903    window = 67898 67908
+
+
+
+     "Well, we'll hope he won't fail and that Lord Cantlemere will be
+     confounded. But I say, Billy, what is that curtain for across the
+     window?"
+
+==>      "Mr. Holmes had it put up there three days ago. We've got something <==
+     funny behind it."
+
+     Billy advanced and drew away the drapery which screened the alcove of
+     the bow window.
+
+
+[line number in individual story] matching line = 94    window = 89 99
+
+[line number in concatenated text file] matching line = 67927    window = 67922 67932
+
+
+     looked out into the street. "There are folk who watch us from over
+     yonder. I can see a fellow now at the window. Have a look for
+     yourself."
+
+     Watson had taken a step forward when the bedroom door opened, and the
+==>      long, thin form of Holmes emerged, his face pale and drawn, but his <==
+     step and bearing as active as ever. With a single spring he was at
+     the window, and had drawn the blind once more.
+
+     "That will do, Billy," said he. "You were in danger of your life
+     then, my boy, and I can't do without you just yet. Well, Watson, it
+
+[line number in individual story] matching line = 108    window = 103 113
+
+[line number in concatenated text file] matching line = 67941    window = 67936 67946
+
+
+     "So I gather."
+
+     "You can go, Billy. That boy is a problem, Watson. How far am I
+     justified in allowing him to be in danger?"
+
+==>      "Danger of what, Holmes?" <==
+
+     "Of sudden death. I'm expecting something this evening."
+
+     "Expecting what?"
+
+
+[line number in individual story] matching line = 116    window = 111 121
+
+[line number in concatenated text file] matching line = 67949    window = 67944 67954
+
+
+
+     "Expecting what?"
+
+     "To be murdered, Watson."
+
+==>      "No, no, you are joking, Holmes!" <==
+
+     "Even my limited sense of humour could evolve a better joke than
+     that. But we may be comfortable in the meantime, may we not? Is
+     alcohol permitted? The gasogene and cigars are in the old place. Let
+     me see you once more in the customary armchair. You have not, I hope,
+
+[line number in individual story] matching line = 133    window = 128 138
+
+[line number in concatenated text file] matching line = 67966    window = 67961 67971
+
+
+     surely, as a doctor, my dear Watson, you must admit that what your
+     digestion gains in the way of blood supply is so much lost to the
+     brain. I am a brain, Watson. The rest of me is a mere appendix.
+     Therefore, it is the brain I must consider."
+
+==>      "But this danger, Holmes?" <==
+
+     "Ah, yes, in case it should come off, it would perhaps be as well
+     that you should burden your memory with the name and address of the
+     murderer. You can give it to Scotland Yard, with my love and a
+     parting blessing. Sylvius is the name--Count Negretto Sylvius. Write
+
+[line number in individual story] matching line = 142    window = 137 147
+
+[line number in concatenated text file] matching line = 67975    window = 67970 67980
+
+
+     murderer. You can give it to Scotland Yard, with my love and a
+     parting blessing. Sylvius is the name--Count Negretto Sylvius. Write
+     it down, man, write it down! 136 Moorside Gardens, N. W. Got it?"
+
+     Watson's honest face was twitching with anxiety. He knew only too
+==>      well the immense risks taken by Holmes and was well aware that what <==
+     he said was more likely to be under-statement than exaggeration.
+     Watson was always the man of action, and he rose to the occasion.
+
+     "Count me in, Holmes. I have nothing to do for a day or two."
+
+
+[line number in individual story] matching line = 146    window = 141 151
+
+[line number in concatenated text file] matching line = 67979    window = 67974 67984
+
+
+     Watson's honest face was twitching with anxiety. He knew only too
+     well the immense risks taken by Holmes and was well aware that what
+     he said was more likely to be under-statement than exaggeration.
+     Watson was always the man of action, and he rose to the occasion.
+
+==>      "Count me in, Holmes. I have nothing to do for a day or two." <==
+
+     "Your morals don't improve, Watson. You have added fibbing to your
+     other vices. You bear every sign of the busy medical man, with calls
+     on him every hour."
+
+
+[line number in individual story] matching line = 192    window = 187 197
+
+[line number in concatenated text file] matching line = 68025    window = 68020 68030
+
+
+     work, as I understand, and I rather fancy it is in the opposite
+     window at the present moment. Have you seen the dummy? Of course,
+     Billy showed it to you. Well, it may get a bullet through its
+     beautiful head at any moment. Ah, Billy, what is it?"
+
+==>      The boy had reappeared in the room with a card upon a tray. Holmes <==
+     glanced at it with raised eyebrows and an amused smile.
+
+     "The man himself. I had hardly expected this. Grasp the nettle,
+     Watson! A man of nerve. Possibly you have heard of his reputation as
+     a shooter of big game. It would indeed be a triumphant ending to his
+
+[line number in individual story] matching line = 227    window = 222 232
+
+[line number in concatenated text file] matching line = 68060    window = 68055 68065
+
+
+     "Yes, sir."
+
+     Watson waited until the door was closed, and then he turned earnestly
+     to his companion.
+
+==>      "Look here, Holmes, this is simply impossible. This is a desperate <==
+     man, who sticks at nothing. He may have come to murder you."
+
+     "I should not be surprised."
+
+     "I insist upon staying with you."
+
+[line number in individual story] matching line = 244    window = 239 249
+
+[line number in concatenated text file] matching line = 68077    window = 68072 68082
+
+
+
+     "Well, I can't possibly leave you."
+
+     "Yes, you can, Watson. And you will, for you have never failed to
+     play the game. I am sure you will play it to the end. This man has
+==>      come for his own purpose, but he may stay for mine." Holmes took out <==
+     his notebook and scribbled a few lines. "Take a cab to Scotland Yard
+     and give this to Youghal of the C. I. D. Come back with the police.
+     The fellow's arrest will follow."
+
+     "I'll do that with joy."
+
+[line number in individual story] matching line = 283    window = 278 288
+
+[line number in concatenated text file] matching line = 68116    window = 68111 68121
+
+
+     instant he half raised his loaded cane once more, as if he would turn
+     his violence from the effigy to the original; but there was something
+     in that steady gray eye and mocking smile which caused his hand to
+     sink to his side.
+
+==>      "It's a pretty little thing," said Holmes, advancing towards the <==
+     image. "Tavernier, the French modeller, made it. He is as good at
+     waxworks as your friend Straubenzee is at air-guns."
+
+     "Air-guns, sir! What do you mean?"
+
+
+[line number in individual story] matching line = 296    window = 291 301
+
+[line number in concatenated text file] matching line = 68129    window = 68124 68134
+
+
+     you prefer to sit upon it. Your visit is really most opportune, for I
+     wanted badly to have a few minutes' chat with you."
+
+     The Count scowled, with heavy, threatening eyebrows.
+
+==>      "I, too, wished to have some words with you, Holmes. That is why I am <==
+     here. I won't deny that I intended to assault you just now."
+
+     Holmes swung his leg on the edge of the table.
+
+     "I rather gathered that you had some idea of the sort in your head,"
+
+[line number in individual story] matching line = 299    window = 294 304
+
+[line number in concatenated text file] matching line = 68132    window = 68127 68137
+
+
+     The Count scowled, with heavy, threatening eyebrows.
+
+     "I, too, wished to have some words with you, Holmes. That is why I am
+     here. I won't deny that I intended to assault you just now."
+
+==>      Holmes swung his leg on the edge of the table. <==
+
+     "I rather gathered that you had some idea of the sort in your head,"
+     said he. "But why these personal attentions?"
+
+     "Because you have gone out of your way to annoy me. Because you have
+
+[line number in individual story] matching line = 310    window = 305 315
+
+[line number in concatenated text file] matching line = 68143    window = 68138 68148
+
+
+     put your creatures upon my track."
+
+     "My creatures! I assure you no!"
+
+     "Nonsense! I have had them followed. Two can play at that game,
+==>      Holmes." <==
+
+     "It is a small point, Count Sylvius, but perhaps you would kindly
+     give me my prefix when you address me. You can understand that, with
+     my routine of work, I should find myself on familiar terms with half
+     the rogues' gallery, and you will agree that exceptions are
+
+[line number in individual story] matching line = 318    window = 313 323
+
+[line number in concatenated text file] matching line = 68151    window = 68146 68156
+
+
+     give me my prefix when you address me. You can understand that, with
+     my routine of work, I should find myself on familiar terms with half
+     the rogues' gallery, and you will agree that exceptions are
+     invidious."
+
+==>      "Well, Mr. Holmes, then." <==
+
+     "Excellent! But I assure you you are mistaken about my alleged
+     agents."
+
+     Count Sylvius laughed contemptuously.
+
+[line number in individual story] matching line = 336    window = 331 341
+
+[line number in concatenated text file] matching line = 68169    window = 68164 68174
+
+
+     stage had lost. And now you give my little impersonations your kindly
+     praise?"
+
+     "It was you--you yourself?"
+
+==>      Holmes shrugged his shoulders. "You can see in the corner the parasol <==
+     which you so politely handed to me in the Minories before you began
+     to suspect."
+
+     "If I had known, you might never--"
+
+
+[line number in individual story] matching line = 393    window = 388 398
+
+[line number in concatenated text file] matching line = 68226    window = 68221 68231
+
+
+
+     "You can, and you will."
+
+     "Indeed!"
+
+==>      "You can't bluff me, Count Sylvius." Holmes's eyes, as he gazed at <==
+     him, contracted and lightened until they were like two menacing
+     points of steel. "You are absolute plate-glass. I see to the very
+     back of your mind."
+
+     "Then, of course, you see where the diamond is!"
+
+[line number in individual story] matching line = 400    window = 395 405
+
+[line number in concatenated text file] matching line = 68233    window = 68228 68238
+
+
+     points of steel. "You are absolute plate-glass. I see to the very
+     back of your mind."
+
+     "Then, of course, you see where the diamond is!"
+
+==>      Holmes clapped his hands with amusement, and then pointed a derisive <==
+     finger. "Then you do know. You have admitted it!"
+
+     "I admit nothing."
+
+     "Now, Count, if you will be reasonable we can do business. If not,
+
+[line number in individual story] matching line = 411    window = 406 416
+
+[line number in concatenated text file] matching line = 68244    window = 68239 68249
+
+
+     you will get hurt."
+
+     Count Sylvius threw up his eyes to the ceiling. "And you talk about
+     bluff!" said he.
+
+==>      Holmes looked at him thoughtfully like a master chess-player who <==
+     meditates his crowning move. Then he threw open the table drawer and
+     drew out a squat notebook.
+
+     "Do you know what I keep in this book?"
+
+
+[line number in individual story] matching line = 426    window = 421 431
+
+[line number in concatenated text file] matching line = 68259    window = 68254 68264
+
+
+     "Me!"
+
+     "Yes, sir, you! You are all here--every action of your vile and
+     dangerous life."
+
+==>      "Damn you, Holmes!" cried the Count with blazing eyes. "There are <==
+     limits to my patience!"
+
+     "It's all here, Count. The real facts as to the death of old Mrs.
+     Harold, who left you the Blymer estate, which you so rapidly gambled
+     away."
+
+[line number in individual story] matching line = 467    window = 462 472
+
+[line number in concatenated text file] matching line = 68300    window = 68295 68305
+
+
+
+     The veins stood out on the Count's forehead. His dark, hairy hands
+     were clenched in a convulsion of restrained emotion. He tried to
+     speak, but the words would not shape themselves.
+
+==>      "That's the hand I play from," said Holmes. "I put it all upon the <==
+     table. But one card is missing. It's the king of diamonds. I don't
+     know where the stone is."
+
+     "You never shall know."
+
+
+[line number in individual story] matching line = 505    window = 500 510
+
+[line number in concatenated text file] matching line = 68338    window = 68333 68343
+
+
+     "My friend Watson was with me just now. I told him that I had a shark
+     and a gudgeon in my net; now I am drawing the net and up they come
+     together."
+
+     The Count had risen from his chair, and his hand was behind his back.
+==>      Holmes held something half protruding from the pocket of his <==
+     dressing-gown.
+
+     "You won't die in your bed, Holmes."
+
+     "I have often had the same idea. Does it matter very much? After all,
+
+[line number in individual story] matching line = 508    window = 503 513
+
+[line number in concatenated text file] matching line = 68341    window = 68336 68346
+
+
+
+     The Count had risen from his chair, and his hand was behind his back.
+     Holmes held something half protruding from the pocket of his
+     dressing-gown.
+
+==>      "You won't die in your bed, Holmes." <==
+
+     "I have often had the same idea. Does it matter very much? After all,
+     Count, your own exit is more likely to be perpendicular than
+     horizontal. But these anticipations of the future are morbid. Why not
+     give ourselves up to the unrestrained enjoyment of the present?"
+
+[line number in individual story] matching line = 516    window = 511 521
+
+[line number in concatenated text file] matching line = 68349    window = 68344 68354
+
+
+     Count, your own exit is more likely to be perpendicular than
+     horizontal. But these anticipations of the future are morbid. Why not
+     give ourselves up to the unrestrained enjoyment of the present?"
+
+     A sudden wild-beast light sprang up in the dark, menacing eyes of the
+==>      master criminal. Holmes's figure seemed to grow taller as he grew <==
+     tense and ready.
+
+     "It is no use your fingering your revolver, my friend," he said in a
+     quiet voice. "You know perfectly well that you dare not use it, even
+     if I gave you time to draw it. Nasty, noisy things, revolvers, Count.
+
+[line number in individual story] matching line = 528    window = 523 533
+
+[line number in concatenated text file] matching line = 68361    window = 68356 68366
+
+
+     your estimable partner. Good day, Mr. Merton. Rather dull in the
+     street, is it not?"
+
+     The prize-fighter, a heavily built young man with a stupid,
+     obstinate, slab-sided face, stood awkwardly at the door, looking
+==>      about him with a puzzled expression. Holmes's debonair manner was a <==
+     new experience, and though he vaguely felt that it was hostile, he
+     did not know how to counter it. He turned to his more astute comrade
+     for help.
+
+     "What's the game now, Count? What's this fellow want? What's up?" His
+
+[line number in individual story] matching line = 536    window = 531 541
+
+[line number in concatenated text file] matching line = 68369    window = 68364 68374
+
+
+     for help.
+
+     "What's the game now, Count? What's this fellow want? What's up?" His
+     voice was deep and raucous.
+
+==>      The Count shrugged his shoulders, and it was Holmes who answered. <==
+
+     "If I may put it in a nutshell, Mr. Merton, I should say it was all
+     up."
+
+     The boxer still addressed his remarks to his associate.
+
+[line number in individual story] matching line = 546    window = 541 551
+
+[line number in concatenated text file] matching line = 68379    window = 68374 68384
+
+
+     The boxer still addressed his remarks to his associate.
+
+     "Is this cove trying to be funny, or what? I'm not in the funny mood
+     myself."
+
+==>      "No, I expect not," said Holmes. "I think I can promise you that you <==
+     will feel even less humorous as the evening advances. Now, look here,
+     Count Sylvius. I'm a busy man and I can't waste time. I'm going into
+     that bedroom. Pray make yourselves quite at home in my absence. You
+     can explain to your friend how the matter lies without the restraint
+     of my presence. I shall try over the Hoffman 'Barcarole' upon my
+
+[line number in individual story] matching line = 556    window = 551 561
+
+[line number in concatenated text file] matching line = 68389    window = 68384 68394
+
+
+     of my presence. I shall try over the Hoffman 'Barcarole' upon my
+     violin. In five minutes I shall return for your final answer. You
+     quite grasp the alternative, do you not? Shall we take you, or shall
+     we have the stone?"
+
+==>      Holmes withdrew, picking up his violin from the corner as he passed. <==
+     A few moments later the long-drawn, wailing notes of that most
+     haunting of tunes came faintly through the closed door of the
+     bedroom.
+
+     "What is it, then?" asked Merton anxiously as his companion turned to
+
+[line number in individual story] matching line = 639    window = 634 644
+
+[line number in concatenated text file] matching line = 68472    window = 68467 68477
+
+
+     "Well, he must take it as it is and chance it. There's not a moment
+     to lose." Again, with the sense of danger which becomes an instinct
+     with the sportsman, he paused and looked hard at the window. Yes, it
+     was surely from the street that the faint sound had come.
+
+==>      "As to Holmes," he continued, "we can fool him easily enough. You <==
+     see, the damned fool won't arrest us if he can get the stone. Well,
+     we'll promise him the stone. We'll put him on the wrong track about
+     it, and before he finds that it is the wrong track it will be in
+     Holland and we out of the country."
+
+
+[line number in individual story] matching line = 673    window = 668 678
+
+[line number in concatenated text file] matching line = 68506    window = 68501 68511
+
+
+     to the window if you want to see the beauty properly. Now hold it to
+     the light! Here!"
+
+     "Thank you!"
+
+==>      With a single spring Holmes had leaped from the dummy's chair and had <==
+     grasped the precious jewel. He held it now in one hand, while his
+     other pointed a revolver at the Count's head. The two villains
+     staggered back in utter amazement. Before they had recovered Holmes
+     had pressed the electric bell.
+
+
+[line number in individual story] matching line = 676    window = 671 681
+
+[line number in concatenated text file] matching line = 68509    window = 68504 68514
+
+
+     "Thank you!"
+
+     With a single spring Holmes had leaped from the dummy's chair and had
+     grasped the precious jewel. He held it now in one hand, while his
+     other pointed a revolver at the Count's head. The two villains
+==>      staggered back in utter amazement. Before they had recovered Holmes <==
+     had pressed the electric bell.
+
+     "No violence, gentlemen--no violence, I beg of you! Consider the
+     furniture! It must be very clear to you that your position is an
+     impossible one. The police are waiting below."
+
+[line number in individual story] matching line = 696    window = 691 701
+
+[line number in concatenated text file] matching line = 68529    window = 68524 68534
+
+
+     would have been painfully constrained had you been aware of my
+     presence."
+
+     The Count gave a gesture of resignation.
+
+==>      "We give you best, Holmes. I believe you are the devil himself." <==
+
+     "Not far from him, at any rate," Holmes answered with a polite smile.
+
+     Sam Merton's slow intellect had only gradually appreciated the
+     situation. Now, as the sound of heavy steps came from the stairs
+
+[line number in individual story] matching line = 698    window = 693 703
+
+[line number in concatenated text file] matching line = 68531    window = 68526 68536
+
+
+
+     The Count gave a gesture of resignation.
+
+     "We give you best, Holmes. I believe you are the devil himself."
+
+==>      "Not far from him, at any rate," Holmes answered with a polite smile. <==
+
+     Sam Merton's slow intellect had only gradually appreciated the
+     situation. Now, as the sound of heavy steps came from the stairs
+     outside, he broke silence at last.
+
+
+[line number in individual story] matching line = 707    window = 702 712
+
+[line number in concatenated text file] matching line = 68540    window = 68535 68545
+
+
+     outside, he broke silence at last.
+
+     "A fair cop!" said he. "But, I say, what about that bloomin' fiddle!
+     I hear it yet."
+
+==>      "Tut, tut!" Holmes answered. "You are perfectly right. Let it play! <==
+     These modern gramophones are a remarkable invention."
+
+     There was an inrush of police, the handcuffs clicked and the
+     criminals were led to the waiting cab. Watson lingered with Holmes,
+     congratulating him upon this fresh leaf added to his laurels. Once
+
+[line number in individual story] matching line = 711    window = 706 716
+
+[line number in concatenated text file] matching line = 68544    window = 68539 68549
+
+
+
+     "Tut, tut!" Holmes answered. "You are perfectly right. Let it play!
+     These modern gramophones are a remarkable invention."
+
+     There was an inrush of police, the handcuffs clicked and the
+==>      criminals were led to the waiting cab. Watson lingered with Holmes, <==
+     congratulating him upon this fresh leaf added to his laurels. Once
+     more their conversation was interrupted by the imperturbable Billy
+     with his card-tray.
+
+     "Lord Cantlemere, sir."
+
+[line number in individual story] matching line = 719    window = 714 724
+
+[line number in concatenated text file] matching line = 68552    window = 68547 68557
+
+
+     with his card-tray.
+
+     "Lord Cantlemere, sir."
+
+     "Show him up, Billy. This is the eminent peer who represents the very
+==>      highest interests," said Holmes. "He is an excellent and loyal <==
+     person, but rather of the old regime. Shall we make him unbend? Dare
+     we venture upon a slight liberty? He knows, we may conjecture,
+     nothing of what has occurred."
+
+     The door opened to admit a thin, austere figure with a hatchet face
+
+[line number in individual story] matching line = 727    window = 722 732
+
+[line number in concatenated text file] matching line = 68560    window = 68555 68565
+
+
+     nothing of what has occurred."
+
+     The door opened to admit a thin, austere figure with a hatchet face
+     and drooping mid-Victorian whiskers of a glossy blackness which
+     hardly corresponded with the rounded shoulders and feeble gait.
+==>      Holmes advanced affably, and shook an unresponsive hand. <==
+
+     "How do you do, Lord Cantlemere? It is chilly for the time of year,
+     but rather warm indoors. May I take your overcoat?"
+
+     "No, I thank you; I will not take it off."
+
+[line number in individual story] matching line = 734    window = 729 739
+
+[line number in concatenated text file] matching line = 68567    window = 68562 68572
+
+
+     "How do you do, Lord Cantlemere? It is chilly for the time of year,
+     but rather warm indoors. May I take your overcoat?"
+
+     "No, I thank you; I will not take it off."
+
+==>      Holmes laid his hand insistently upon the sleeve. <==
+
+     "Pray allow me! My friend Dr. Watson would assure you that these
+     changes of temperature are most insidious."
+
+     His Lordship shook himself free with some impatience.
+
+[line number in individual story] matching line = 750    window = 745 755
+
+[line number in concatenated text file] matching line = 68583    window = 68578 68588
+
+
+
+     "I feared that you would find it so."
+
+     There was a distinct sneer in the old courtier's words and manner.
+
+==>      "Every man finds his limitations, Mr. Holmes, but at least it cures <==
+     us of the weakness of self-satisfaction."
+
+     "Yes, sir, I have been much perplexed."
+
+     "No doubt."
+
+[line number in individual story] matching line = 781    window = 776 786
+
+[line number in concatenated text file] matching line = 68614    window = 68609 68619
+
+
+
+     "You would arrest him upon that?"
+
+     "Most undoubtedly."
+
+==>      Holmes seldom laughed, but he got as near it as his old friend Watson <==
+     could remember.
+
+     "In that case, my dear sir, I shall be under the painful necessity of
+     advising your arrest."
+
+
+[line number in individual story] matching line = 790    window = 785 795
+
+[line number in concatenated text file] matching line = 68623    window = 68618 68628
+
+
+     advising your arrest."
+
+     Lord Cantlemere was very angry. Some of the ancient fires flickered
+     up into his sallow cheeks.
+
+==>      "You take a great liberty, Mr. Holmes. In fifty years of official <==
+     life I cannot recall such a case. I am a busy man, sir, engaged upon
+     important affairs, and I have no time or taste for foolish jokes. I
+     may tell you frankly, sir, that I have never been a believer in your
+     powers, and that I have always been of the opinion that the matter
+     was far safer in the hands of the regular police force. Your conduct
+
+[line number in individual story] matching line = 799    window = 794 804
+
+[line number in concatenated text file] matching line = 68632    window = 68627 68637
+
+
+     powers, and that I have always been of the opinion that the matter
+     was far safer in the hands of the regular police force. Your conduct
+     confirms all my conclusions. I have the honour, sir, to wish you
+     good-evening."
+
+==>      Holmes had swiftly changed his position and was between the peer and <==
+     the door.
+
+     "One moment, sir," said he. "To actually go off with the Mazarin
+     stone would be a more serious offence than to be found in temporary
+     possession of it."
+
+[line number in individual story] matching line = 817    window = 812 822
+
+[line number in concatenated text file] matching line = 68650    window = 68645 68655
+
+
+     "Come--come, do what I ask."
+
+     An instant later the amazed peer was standing, blinking and
+     stammering, with the great yellow stone on his shaking palm.
+
+==>      "What! What! How is this, Mr. Holmes?" <==
+
+     "Too bad, Lord Cantlemere, too bad!" cried Holmes. "My old friend
+     here will tell you that I have an impish habit of practical joking.
+     Also that I can never resist a dramatic situation. I took the
+     liberty--the very great liberty, I admit--of putting the stone into
+
+[line number in individual story] matching line = 819    window = 814 824
+
+[line number in concatenated text file] matching line = 68652    window = 68647 68657
+
+
+     An instant later the amazed peer was standing, blinking and
+     stammering, with the great yellow stone on his shaking palm.
+
+     "What! What! How is this, Mr. Holmes?"
+
+==>      "Too bad, Lord Cantlemere, too bad!" cried Holmes. "My old friend <==
+     here will tell you that I have an impish habit of practical joking.
+     Also that I can never resist a dramatic situation. I took the
+     liberty--the very great liberty, I admit--of putting the stone into
+     your pocket at the beginning of our interview."
+
+
+[line number in individual story] matching line = 828    window = 823 833
+
+[line number in concatenated text file] matching line = 68661    window = 68656 68666
+
+
+     your pocket at the beginning of our interview."
+
+     The old peer stared from the stone to the smiling face before him.
+
+     "Sir, I am bewildered. But--yes--it is indeed the Mazarin stone. We
+==>      are greatly your debtors, Mr. Holmes. Your sense of humour may, as <==
+     you admit, be somewhat perverted, and its exhibition remarkably
+     untimely, but at least I withdraw any reflection I have made upon
+     your amazing professional powers. But how--"
+
+     "The case is but half finished; the details can wait. No doubt, Lord
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================= 
+        in.raw out.raw       in.norm            out.norm       ratio.norm         pval         
+ --------------------------------------------------------------------------------------------- 
+ Holmes   51      0    0.0170797052913597           0             Inf     1.29486480490922e-09 
+ Mr       14      0    0.00468854655056932          0             Inf     0.00296095720595774  
+ had      21      5    0.00703281982585399 0.00223613595706619   3.145     0.0252126018588202  
+ --------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure Of The Mazarin Stone"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 67835    window = 67834 67840
+
+
+
+==>      It was pleasant to Dr. Watson to find himself once more in the untidy <==
+     room of the first floor in Baker Street which had been the
+     starting-point of so many remarkable adventures. He looked round him
+     at the scientific charts upon the wall, the acid-charred bench of
+     chemicals, the violin-case leaning in the corner, the coal-scuttle,
+     which contained of old the pipes and tobacco. Finally, his eyes came
+
+[line number in individual story] matching line = 20    window = 15 25
+
+[line number in concatenated text file] matching line = 67853    window = 67848 67858
+
+
+
+     Billy glanced with some solicitude at the closed door of the bedroom.
+
+     "I think he's in bed and asleep," he said.
+
+==>      It was seven in the evening of a lovely summer's day, but Dr. Watson <==
+     was sufficiently familiar with the irregularity of his old friend's
+     hours to feel no surprise at the idea.
+
+     "That means a case, I suppose?"
+
+
+[line number in individual story] matching line = 76    window = 71 81
+
+[line number in concatenated text file] matching line = 67909    window = 67904 67914
+
+
+     funny behind it."
+
+     Billy advanced and drew away the drapery which screened the alcove of
+     the bow window.
+
+==>      Dr. Watson could not restrain a cry of amazement. There was a <==
+     facsimile of his old friend, dressing-gown and all, the face turned
+     three-quarters towards the window and downward, as though reading an
+     invisible book, while the body was sunk deep in an armchair. Billy
+     detached the head and held it in the air.
+
+
+[line number in individual story] matching line = 93    window = 88 98
+
+[line number in concatenated text file] matching line = 67926    window = 67921 67931
+
+
+     "Before my time," said Billy. He drew the window curtains apart and
+     looked out into the street. "There are folk who watch us from over
+     yonder. I can see a fellow now at the window. Have a look for
+     yourself."
+
+==>      Watson had taken a step forward when the bedroom door opened, and the <==
+     long, thin form of Holmes emerged, his face pale and drawn, but his
+     step and bearing as active as ever. With a single spring he was at
+     the window, and had drawn the blind once more.
+
+     "That will do, Billy," said he. "You were in danger of your life
+
+[line number in individual story] matching line = 99    window = 94 104
+
+[line number in concatenated text file] matching line = 67932    window = 67927 67937
+
+
+     long, thin form of Holmes emerged, his face pale and drawn, but his
+     step and bearing as active as ever. With a single spring he was at
+     the window, and had drawn the blind once more.
+
+     "That will do, Billy," said he. "You were in danger of your life
+==>      then, my boy, and I can't do without you just yet. Well, Watson, it <==
+     is good to see you in your old quarters once again. You come at a
+     critical moment."
+
+     "So I gather."
+
+
+[line number in individual story] matching line = 105    window = 100 110
+
+[line number in concatenated text file] matching line = 67938    window = 67933 67943
+
+
+     is good to see you in your old quarters once again. You come at a
+     critical moment."
+
+     "So I gather."
+
+==>      "You can go, Billy. That boy is a problem, Watson. How far am I <==
+     justified in allowing him to be in danger?"
+
+     "Danger of what, Holmes?"
+
+     "Of sudden death. I'm expecting something this evening."
+
+[line number in individual story] matching line = 114    window = 109 119
+
+[line number in concatenated text file] matching line = 67947    window = 67942 67952
+
+
+
+     "Of sudden death. I'm expecting something this evening."
+
+     "Expecting what?"
+
+==>      "To be murdered, Watson." <==
+
+     "No, no, you are joking, Holmes!"
+
+     "Even my limited sense of humour could evolve a better joke than
+     that. But we may be comfortable in the meantime, may we not? Is
+
+[line number in individual story] matching line = 128    window = 123 133
+
+[line number in concatenated text file] matching line = 67961    window = 67956 67966
+
+
+     the place of food these days."
+
+     "But why not eat?"
+
+     "Because the faculties become refined when you starve them. Why,
+==>      surely, as a doctor, my dear Watson, you must admit that what your <==
+     digestion gains in the way of blood supply is so much lost to the
+     brain. I am a brain, Watson. The rest of me is a mere appendix.
+     Therefore, it is the brain I must consider."
+
+     "But this danger, Holmes?"
+
+[line number in individual story] matching line = 130    window = 125 135
+
+[line number in concatenated text file] matching line = 67963    window = 67958 67968
+
+
+     "But why not eat?"
+
+     "Because the faculties become refined when you starve them. Why,
+     surely, as a doctor, my dear Watson, you must admit that what your
+     digestion gains in the way of blood supply is so much lost to the
+==>      brain. I am a brain, Watson. The rest of me is a mere appendix. <==
+     Therefore, it is the brain I must consider."
+
+     "But this danger, Holmes?"
+
+     "Ah, yes, in case it should come off, it would perhaps be as well
+
+[line number in individual story] matching line = 141    window = 136 146
+
+[line number in concatenated text file] matching line = 67974    window = 67969 67979
+
+
+     that you should burden your memory with the name and address of the
+     murderer. You can give it to Scotland Yard, with my love and a
+     parting blessing. Sylvius is the name--Count Negretto Sylvius. Write
+     it down, man, write it down! 136 Moorside Gardens, N. W. Got it?"
+
+==>      Watson's honest face was twitching with anxiety. He knew only too <==
+     well the immense risks taken by Holmes and was well aware that what
+     he said was more likely to be under-statement than exaggeration.
+     Watson was always the man of action, and he rose to the occasion.
+
+     "Count me in, Holmes. I have nothing to do for a day or two."
+
+[line number in individual story] matching line = 144    window = 139 149
+
+[line number in concatenated text file] matching line = 67977    window = 67972 67982
+
+
+     it down, man, write it down! 136 Moorside Gardens, N. W. Got it?"
+
+     Watson's honest face was twitching with anxiety. He knew only too
+     well the immense risks taken by Holmes and was well aware that what
+     he said was more likely to be under-statement than exaggeration.
+==>      Watson was always the man of action, and he rose to the occasion. <==
+
+     "Count me in, Holmes. I have nothing to do for a day or two."
+
+     "Your morals don't improve, Watson. You have added fibbing to your
+     other vices. You bear every sign of the busy medical man, with calls
+
+[line number in individual story] matching line = 148    window = 143 153
+
+[line number in concatenated text file] matching line = 67981    window = 67976 67986
+
+
+     he said was more likely to be under-statement than exaggeration.
+     Watson was always the man of action, and he rose to the occasion.
+
+     "Count me in, Holmes. I have nothing to do for a day or two."
+
+==>      "Your morals don't improve, Watson. You have added fibbing to your <==
+     other vices. You bear every sign of the busy medical man, with calls
+     on him every hour."
+
+     "Not such important ones. But can't you have this fellow arrested?"
+
+
+[line number in individual story] matching line = 154    window = 149 159
+
+[line number in concatenated text file] matching line = 67987    window = 67982 67992
+
+
+     other vices. You bear every sign of the busy medical man, with calls
+     on him every hour."
+
+     "Not such important ones. But can't you have this fellow arrested?"
+
+==>      "Yes, Watson, I could. That's what worries him so." <==
+
+     "But why don't you?"
+
+     "Because I don't know where the diamond is."
+
+
+[line number in individual story] matching line = 177    window = 172 182
+
+[line number in concatenated text file] matching line = 68010    window = 68005 68015
+
+
+     in my net all the same."
+
+     "Where is this Count Sylvius?"
+
+     "I've been at his very elbow all the morning. You've seen me as an
+==>      old lady, Watson. I was never more convincing. He actually picked up <==
+     my parasol for me once. 'By your leave, madame,' said
+     he--half-Italian, you know, and with the Southern graces of manner
+     when in the mood, but a devil incarnate in the other mood. Life is
+     full of whimsical happenings, Watson."
+
+
+[line number in individual story] matching line = 181    window = 176 186
+
+[line number in concatenated text file] matching line = 68014    window = 68009 68019
+
+
+     "I've been at his very elbow all the morning. You've seen me as an
+     old lady, Watson. I was never more convincing. He actually picked up
+     my parasol for me once. 'By your leave, madame,' said
+     he--half-Italian, you know, and with the Southern graces of manner
+     when in the mood, but a devil incarnate in the other mood. Life is
+==>      full of whimsical happenings, Watson." <==
+
+     "It might have been tragedy."
+
+     "Well, perhaps it might. I followed him to old Straubenzee's workshop
+     in the Minories. Straubenzee made the air-gun--a very pretty bit of
+
+[line number in individual story] matching line = 196    window = 191 201
+
+[line number in concatenated text file] matching line = 68029    window = 68024 68034
+
+
+
+     The boy had reappeared in the room with a card upon a tray. Holmes
+     glanced at it with raised eyebrows and an amused smile.
+
+     "The man himself. I had hardly expected this. Grasp the nettle,
+==>      Watson! A man of nerve. Possibly you have heard of his reputation as <==
+     a shooter of big game. It would indeed be a triumphant ending to his
+     excellent sporting record if he added me to his bag. This is a proof
+     that he feels my toe very close behind his heel."
+
+     "Send for the police."
+
+[line number in individual story] matching line = 204    window = 199 209
+
+[line number in concatenated text file] matching line = 68037    window = 68032 68042
+
+
+     that he feels my toe very close behind his heel."
+
+     "Send for the police."
+
+     "I probably shall. But not just yet. Would you glance carefully out
+==>      of the window, Watson, and see if anyone is hanging about in the <==
+     street?"
+
+     Watson looked warily round the edge of the curtain.
+
+     "Yes, there is one rough fellow near the door."
+
+[line number in individual story] matching line = 207    window = 202 212
+
+[line number in concatenated text file] matching line = 68040    window = 68035 68045
+
+
+
+     "I probably shall. But not just yet. Would you glance carefully out
+     of the window, Watson, and see if anyone is hanging about in the
+     street?"
+
+==>      Watson looked warily round the edge of the curtain. <==
+
+     "Yes, there is one rough fellow near the door."
+
+     "That will be Sam Merton--the faithful but rather fatuous Sam. Where
+     is this gentleman, Billy?"
+
+[line number in individual story] matching line = 224    window = 219 229
+
+[line number in concatenated text file] matching line = 68057    window = 68052 68062
+
+
+
+     "If I am not in the room, show him in all the same."
+
+     "Yes, sir."
+
+==>      Watson waited until the door was closed, and then he turned earnestly <==
+     to his companion.
+
+     "Look here, Holmes, this is simply impossible. This is a desperate
+     man, who sticks at nothing. He may have come to murder you."
+
+
+[line number in individual story] matching line = 242    window = 237 247
+
+[line number in concatenated text file] matching line = 68075    window = 68070 68080
+
+
+
+     "No, my dear fellow--in my way."
+
+     "Well, I can't possibly leave you."
+
+==>      "Yes, you can, Watson. And you will, for you have never failed to <==
+     play the game. I am sure you will play it to the end. This man has
+     come for his own purpose, but he may stay for mine." Holmes took out
+     his notebook and scribbled a few lines. "Take a cab to Scotland Yard
+     and give this to Youghal of the C. I. D. Come back with the police.
+     The fellow's arrest will follow."
+
+[line number in individual story] matching line = 500    window = 495 505
+
+[line number in concatenated text file] matching line = 68333    window = 68328 68338
+
+
+     "No violence, Billy. Don't be rough with him. If you tell him that
+     Count Sylvius wants him he will certainly come."
+
+     "What are you going to do now?" asked the Count as Billy disappeared.
+
+==>      "My friend Watson was with me just now. I told him that I had a shark <==
+     and a gudgeon in my net; now I am drawing the net and up they come
+     together."
+
+     The Count had risen from his chair, and his hand was behind his back.
+     Holmes held something half protruding from the pocket of his
+
+[line number in individual story] matching line = 711    window = 706 716
+
+[line number in concatenated text file] matching line = 68544    window = 68539 68549
+
+
+
+     "Tut, tut!" Holmes answered. "You are perfectly right. Let it play!
+     These modern gramophones are a remarkable invention."
+
+     There was an inrush of police, the handcuffs clicked and the
+==>      criminals were led to the waiting cab. Watson lingered with Holmes, <==
+     congratulating him upon this fresh leaf added to his laurels. Once
+     more their conversation was interrupted by the imperturbable Billy
+     with his card-tray.
+
+     "Lord Cantlemere, sir."
+
+[line number in individual story] matching line = 736    window = 731 741
+
+[line number in concatenated text file] matching line = 68569    window = 68564 68574
+
+
+
+     "No, I thank you; I will not take it off."
+
+     Holmes laid his hand insistently upon the sleeve.
+
+==>      "Pray allow me! My friend Dr. Watson would assure you that these <==
+     changes of temperature are most insidious."
+
+     His Lordship shook himself free with some impatience.
+
+     "I am quite comfortable, sir. I have no need to stay. I have simply
+
+[line number in individual story] matching line = 781    window = 776 786
+
+[line number in concatenated text file] matching line = 68614    window = 68609 68619
+
+
+
+     "You would arrest him upon that?"
+
+     "Most undoubtedly."
+
+==>      Holmes seldom laughed, but he got as near it as his old friend Watson <==
+     could remember.
+
+     "In that case, my dear sir, I shall be under the painful necessity of
+     advising your arrest."
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================== 
+        in.raw out.raw       in.norm       out.norm ratio.norm         pval         
+ ---------------------------------------------------------------------------------- 
+ Watson   24      0    0.0178704393149665     0        Inf     4.67517278062113e-13 
+ Dr       4       0    0.00297840655249442    0        Inf      0.0126644993088837  
+ added    3       0    0.00223380491437081    0        Inf      0.0453207164406692  
+ boy      3       0    0.00223380491437081    0        Inf      0.0453207164406692  
+ brain    3       0    0.00223380491437081    0        Inf      0.0453207164406692  
+ dear     3       0    0.00223380491437081    0        Inf      0.0453207164406692  
+ ---------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure Of The Mazarin Stone"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+[line number in individual story] matching line = 28    window = 23 33
+
+[line number in concatenated text file] matching line = 67861    window = 67856 67866
+
+
+
+     "That means a case, I suppose?"
+
+     "Yes, sir, he is very hard at it just now. I'm frightened for his
+     health. He gets paler and thinner, and he eats nothing. 'When will
+==>      you be pleased to dine, Mr. Holmes?' Mrs. Hudson asked. <==
+     'Seven-thirty, the day after to-morrow,' said he. You know his way
+     when he is keen on a case."
+
+     "Yes, Billy, I know."
+
+
+[line number in individual story] matching line = 837    window = 832 842
+
+[line number in concatenated text file] matching line = 68670    window = 68665 68675
+
+
+
+     "The case is but half finished; the details can wait. No doubt, Lord
+     Cantlemere, your pleasure in telling of this successful result in the
+     exalted circle to which you return will be some small atonement for
+     my practical joke. Billy, you will show his Lordship out, and tell
+==>      Mrs. Hudson that I should be glad if she would send up dinner for two <==
+     as soon as possible."
+
+
+
+
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================ 
+        in.raw out.raw      in.norm            out.norm       ratio.norm         pval         
+ -------------------------------------------------------------------------------------------- 
+ Hudson   2       0    0.0149253731343284          0             Inf     1.83275316407429e-05 
+ Mrs      2       1    0.0149253731343284 0.00043994720633524   33.925   0.000783343621588978 
+ case     3      10    0.0223880597014925 0.0043994720633524    5.089     0.031203861300232   
+ -------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure Of The Mazarin Stone"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

@@ -1,0 +1,60 @@
+A Study In Scarlet	0.001090
+The Sign of the Four	0.000020
+A Scandal in Bohemia	0.000000
+The Red-Headed League	0.000000
+A Case of Identity	0.000000
+The Boscombe Valley Mystery	0.002500
+The Five Orange Pips	0.000000
+The Man with the Twisted Lip	0.000000
+The Adventure of the Blue Carbuncle	0.000000
+The Adventure of the Speckled Band	0.000000
+The Adventure of the Engineer's Thumb	0.000000
+The Adventure of the Noble Bachelor	0.001730
+The Adventure of the Beryl Coronet	0.000000
+The Adventure of the Copper Beeches	0.000000
+Silver Blaze	0.000000
+The Yellow Face	0.000000
+The Stock-Broker's Clerk	0.000000
+The "Gloria Scott"	0.000000
+The Musgrave Ritual	0.000000
+The Reigate Squires	0.000000
+The Crooked Man	0.000000
+The Resident Patient	0.000000
+The Greek Interpreter	0.000000
+The Naval Treaty	0.000000
+The Final Problem	0.000000
+The Adventure of the Empty House	0.001150
+The Adventure of the Norwood Builder	0.005540
+The Adventure of the Dancing Men	0.000000
+The Adventure of the Solitary Cyclist	0.000000
+The Adventure of the Priory School	0.000000
+The Adventure of Black Peter	0.000000
+The Adventure of Charles Augustus Milverton	0.000300
+The Adventure of the Six Napoleons	0.003970
+The Adventure of the Three Students	0.000000
+The Adventure of the Golden Pince-Nez	0.000000
+The Adventure of the Missing Three-Quarter	0.000000
+The Adventure of the Abbey Grange	0.000000
+The Adventure of the Second Stain	0.001040
+The Hound of the Baskervilles	0.000170
+The Valley Of Fear	0.000000
+The Adventure of Wisteria Lodge	0.000000
+The Adventure of the Cardboard Box	0.002700
+The Adventure of the Red Circle	0.000000
+The Adventure of the Bruce-Partington Plans	0.001220
+The Adventure of the Dying Detective	0.000000
+The Disappearance of Lady Frances Carfax	0.000650
+The Adventure of the Devil's Foot	0.000000
+His Last Bow	0.000000
+The Illustrious Client	0.000000
+The Blanched Soldier	0.000000
+The Adventure Of The Mazarin Stone	0.000000
+The Adventure of the Three Gables	0.000000
+The Adventure of the Sussex Vampire	0.000000
+The Adventure of the Three Garridebs	0.000160
+The Problem of Thor Bridge	0.000000
+The Adventure of the Creeping Man	0.000000
+The Adventure of the Lion's Mane	0.000000
+The Adventure of the Veiled Lodger	0.000000
+The Adventure of Shoscombe Old Place	0.000000
+The Adventure of the Retired Colourman	0.000000

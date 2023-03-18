@@ -1,0 +1,1420 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Dancing Men"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 33368    window = 33367 33373
+
+
+
+==>      Holmes had been seated for some hours in silence with his long, thin <==
+     back curved over a chemical vessel in which he was brewing a
+     particularly malodorous product. His head was sunk upon his breast,
+     and he looked from my point of view like a strange, lank bird, with
+     dull grey plumage and a black top-knot.
+
+
+[line number in individual story] matching line = 11    window = 6 16
+
+[line number in concatenated text file] matching line = 33377    window = 33372 33382
+
+
+     dull grey plumage and a black top-knot.
+
+     "So, Watson," said he, suddenly, "you do not propose to invest in
+     South African securities?"
+
+==>      I gave a start of astonishment. Accustomed as I was to Holmes's <==
+     curious faculties, this sudden intrusion into my most intimate
+     thoughts was utterly inexplicable.
+
+     "How on earth do you know that?" I asked.
+
+
+[line number in individual story] matching line = 68    window = 63 73
+
+[line number in concatenated text file] matching line = 33434    window = 33429 33439
+
+
+     of paper upon the table and turned once more to his chemical
+     analysis.
+
+     I looked with amazement at the absurd hieroglyphics upon the paper.
+
+==>      "Why, Holmes, it is a child's drawing," I cried. <==
+
+     "Oh, that's your idea!"
+
+     "What else should it be?"
+
+
+[line number in individual story] matching line = 87    window = 82 92
+
+[line number in concatenated text file] matching line = 33453    window = 33448 33458
+
+
+     He seemed to bring a whiff of his strong, fresh, bracing, east-coast
+     air with him as he entered. Having shaken hands with each of us, he
+     was about to sit down when his eye rested upon the paper with the
+     curious markings, which I had just examined and left upon the table.
+
+==>      "Well, Mr. Holmes, what do you make of these?" he cried. "They told <==
+     me that you were fond of queer mysteries, and I don't think you can
+     find a queerer one than that. I sent the paper on ahead so that you
+     might have time to study it before I came."
+
+     "It is certainly rather a curious production," said Holmes. "At first
+
+[line number in individual story] matching line = 92    window = 87 97
+
+[line number in concatenated text file] matching line = 33458    window = 33453 33463
+
+
+     "Well, Mr. Holmes, what do you make of these?" he cried. "They told
+     me that you were fond of queer mysteries, and I don't think you can
+     find a queerer one than that. I sent the paper on ahead so that you
+     might have time to study it before I came."
+
+==>      "It is certainly rather a curious production," said Holmes. "At first <==
+     sight it would appear to be some childish prank. It consists of a
+     number of absurd little figures dancing across the paper upon which
+     they are drawn. Why should you attribute any importance to so
+     grotesque an object?"
+
+
+[line number in individual story] matching line = 98    window = 93 103
+
+[line number in concatenated text file] matching line = 33464    window = 33459 33469
+
+
+     sight it would appear to be some childish prank. It consists of a
+     number of absurd little figures dancing across the paper upon which
+     they are drawn. Why should you attribute any importance to so
+     grotesque an object?"
+
+==>      "I never should, Mr. Holmes. But my wife does. It is frightening her <==
+     to death. She says nothing, but I can see terror in her eyes. That's
+     why I want to sift the matter to the bottom."
+
+     Holmes held up the paper so that the sunlight shone full upon it. It
+     was a page torn from a note-book. The markings were done in pencil,
+
+[line number in individual story] matching line = 102    window = 97 107
+
+[line number in concatenated text file] matching line = 33468    window = 33463 33473
+
+
+
+     "I never should, Mr. Holmes. But my wife does. It is frightening her
+     to death. She says nothing, but I can see terror in her eyes. That's
+     why I want to sift the matter to the bottom."
+
+==>      Holmes held up the paper so that the sunlight shone full upon it. It <==
+     was a page torn from a note-book. The markings were done in pencil,
+     and ran in this way:--
+
+     [ Picture: Picture of several figures of dancing men, some holding
+     flags ]
+
+[line number in individual story] matching line = 109    window = 104 114
+
+[line number in concatenated text file] matching line = 33475    window = 33470 33480
+
+
+     and ran in this way:--
+
+     [ Picture: Picture of several figures of dancing men, some holding
+     flags ]
+
+==>      Holmes examined it for some time, and then, folding it carefully up, <==
+     he placed it in his pocket-book.
+
+     "This promises to be a most interesting and unusual case," said he.
+     "You gave me a few particulars in your letter, Mr. Hilton Cubitt, but
+     I should be very much obliged if you would kindly go over it all
+
+[line number in individual story] matching line = 130    window = 125 135
+
+[line number in concatenated text file] matching line = 33496    window = 33491 33501
+
+
+     our parish, was staying in it. There was an American young lady
+     there--Patrick was the name--Elsie Patrick. In some way we became
+     friends, until before my month was up I was as much in love as a man
+     could be. We were quietly married at a registry office, and we
+     returned to Norfolk a wedded couple. You'll think it very mad, Mr.
+==>      Holmes, that a man of a good old family should marry a wife in this <==
+     fashion, knowing nothing of her past or of her people; but if you saw
+     her and knew her it would help you to understand.
+
+     "She was very straight about it, was Elsie. I can't say that she did
+     not give me every chance of getting out of it if I wished to do so.
+
+[line number in individual story] matching line = 158    window = 153 163
+
+[line number in concatenated text file] matching line = 33524    window = 33519 33529
+
+
+     afterwards, and I made none, for a promise is a promise; but she has
+     never known an easy hour from that moment. There is always a look of
+     fear upon her face--a look as if she were waiting and expecting. She
+     would do better to trust me. She would find that I was her best
+     friend. But until she speaks I can say nothing. Mind you, she is a
+==>      truthful woman, Mr. Holmes, and whatever trouble there may have been <==
+     in her past life it has been no fault of hers. I am only a simple
+     Norfolk squire, but there is not a man in England who ranks his
+     family honour more highly than I do. She knows it well, and she knew
+     it well before she married me. She would never bring any stain upon
+     it--of that I am sure.
+
+[line number in individual story] matching line = 178    window = 173 183
+
+[line number in concatenated text file] matching line = 33544    window = 33539 33549
+
+
+     see them. None did come for a week, and then yesterday morning I
+     found this paper lying on the sun-dial in the garden. I showed it to
+     Elsie, and down she dropped in a dead faint. Since then she has
+     looked like a woman in a dream, half dazed, and with terror always
+     lurking in her eyes. It was then that I wrote and sent the paper to
+==>      you, Mr. Holmes. It was not a thing that I could take to the police, <==
+     for they would have laughed at me, but you will tell me what to do. I
+     am not a rich man; but if there is any danger threatening my little
+     woman I would spend my last copper to shield her."
+
+     He was a fine creature, this man of the old English soil, simple,
+
+[line number in individual story] matching line = 186    window = 181 191
+
+[line number in concatenated text file] matching line = 33552    window = 33547 33557
+
+
+     woman I would spend my last copper to shield her."
+
+     He was a fine creature, this man of the old English soil, simple,
+     straight, and gentle, with his great, earnest blue eyes and broad,
+     comely face. His love for his wife and his trust in her shone in his
+==>      features. Holmes had listened to his story with the utmost attention, <==
+     and now he sat for some time in silent thought.
+
+     "Don't you think, Mr. Cubitt," said he, at last, "that your best plan
+     would be to make a direct appeal to your wife, and to ask her to
+     share her secret with you?"
+
+[line number in individual story] matching line = 195    window = 190 200
+
+[line number in concatenated text file] matching line = 33561    window = 33556 33566
+
+
+     would be to make a direct appeal to your wife, and to ask her to
+     share her secret with you?"
+
+     Hilton Cubitt shook his massive head.
+
+==>      "A promise is a promise, Mr. Holmes. If Elsie wished to tell me she <==
+     would. If not, it is not for me to force her confidence. But I am
+     justified in taking my own line--and I will."
+
+     "Then I will help you with all my heart. In the first place, have you
+     heard of any strangers being seen in your neighbourhood?"
+
+[line number in individual story] matching line = 226    window = 221 231
+
+[line number in concatenated text file] matching line = 33592    window = 33587 33597
+
+
+     fresh evidence come to me again. That is the best advice which I can
+     give you, Mr. Hilton Cubitt. If there are any pressing fresh
+     developments I shall be always ready to run down and see you in your
+     Norfolk home."
+
+==>      The interview left Sherlock Holmes very thoughtful, and several times <==
+     in the next few days I saw him take his slip of paper from his
+     note-book and look long and earnestly at the curious figures
+     inscribed upon it. He made no allusion to the affair, however, until
+     one afternoon a fortnight or so later. I was going out when he called
+     me back.
+
+[line number in individual story] matching line = 246    window = 241 251
+
+[line number in concatenated text file] matching line = 33612    window = 33607 33617
+
+
+
+     We had not long to wait, for our Norfolk squire came straight from
+     the station as fast as a hansom could bring him. He was looking
+     worried and depressed, with tired eyes and a lined forehead.
+
+==>      "It's getting on my nerves, this business, Mr. Holmes," said he, as <==
+     he sank, like a wearied man, into an arm-chair. "It's bad enough to
+     feel that you are surrounded by unseen, unknown folk, who have some
+     kind of design upon you; but when, in addition to that, you know that
+     it is just killing your wife by inches, then it becomes as much as
+     flesh and blood can endure. She's wearing away under it--just wearing
+
+[line number in individual story] matching line = 256    window = 251 261
+
+[line number in concatenated text file] matching line = 33622    window = 33617 33627
+
+
+     flesh and blood can endure. She's wearing away under it--just wearing
+     away before my eyes."
+
+     "Has she said anything yet?"
+
+==>      "No, Mr. Holmes, she has not. And yet there have been times when the <==
+     poor girl has wanted to speak, and yet could not quite bring herself
+     to take the plunge. I have tried to help her; but I dare say I did it
+     clumsily, and scared her off from it. She has spoken about my old
+     family, and our reputation in the county, and our pride in our
+     unsullied honour, and I always felt it was leading to the point; but
+
+[line number in individual story] matching line = 266    window = 261 271
+
+[line number in concatenated text file] matching line = 33632    window = 33627 33637
+
+
+     unsullied honour, and I always felt it was leading to the point; but
+     somehow it turned off before we got there."
+
+     "But you have found out something for yourself?"
+
+==>      "A good deal, Mr. Holmes. I have several fresh dancing men pictures <==
+     for you to examine, and, what is more important, I have seen the
+     fellow."
+
+     "What, the man who draws them?"
+
+
+[line number in individual story] matching line = 282    window = 277 287
+
+[line number in concatenated text file] matching line = 33648    window = 33643 33653
+
+
+     copy, and here it is." He unfolded a paper and laid it upon the
+     table. Here is a copy of the hieroglyphics:--
+
+     [ Picture: Picture of a few dancing men ]
+
+==>      "Excellent!" said Holmes. "Excellent! Pray continue." <==
+
+     "When I had taken the copy I rubbed out the marks; but two mornings
+     later a fresh inscription had appeared. I have a copy of it here":--
+
+     [ Picture: Picture of some more dancing man figures ]
+
+[line number in individual story] matching line = 289    window = 284 294
+
+[line number in concatenated text file] matching line = 33655    window = 33650 33660
+
+
+     "When I had taken the copy I rubbed out the marks; but two mornings
+     later a fresh inscription had appeared. I have a copy of it here":--
+
+     [ Picture: Picture of some more dancing man figures ]
+
+==>      Holmes rubbed his hands and chuckled with delight. <==
+
+     "Our material is rapidly accumulating," said he.
+
+     "Three days later a message was left scrawled upon paper, and placed
+     under a pebble upon the sun-dial. Here it is. The characters are, as
+
+[line number in individual story] matching line = 339    window = 334 344
+
+[line number in concatenated text file] matching line = 33705    window = 33700 33710
+
+
+
+     Again he produced a paper. The new dance was in this form:--
+
+     [ Picture: Picture of five dancing men figures ]
+
+==>      "Tell me," said Holmes--and I could see by his eyes that he was much <==
+     excited--"was this a mere addition to the first, or did it appear to
+     be entirely separate?"
+
+     "It was on a different panel of the door."
+
+
+[line number in individual story] matching line = 349    window = 344 354
+
+[line number in concatenated text file] matching line = 33715    window = 33710 33720
+
+
+
+     "Excellent! This is far the most important of all for our purpose. It
+     fills me with hopes. Now, Mr. Hilton Cubitt, please continue your
+     most interesting statement."
+
+==>      "I have nothing more to say, Mr. Holmes, except that I was angry with <==
+     my wife that night for having held me back when I might have caught
+     the skulking rascal. She said that she feared that I might come to
+     harm. For an instant it had crossed my mind that perhaps what she
+     really feared was that he might come to harm, for I could not doubt
+     that she knew who this man was and what he meant by these strange
+
+[line number in individual story] matching line = 355    window = 350 360
+
+[line number in concatenated text file] matching line = 33721    window = 33716 33726
+
+
+     my wife that night for having held me back when I might have caught
+     the skulking rascal. She said that she feared that I might come to
+     harm. For an instant it had crossed my mind that perhaps what she
+     really feared was that he might come to harm, for I could not doubt
+     that she knew who this man was and what he meant by these strange
+==>      signals. But there is a tone in my wife's voice, Mr. Holmes, and a <==
+     look in her eyes which forbid doubt, and I am sure that it was indeed
+     my own safety that was in her mind. There's the whole case, and now I
+     want your advice as to what I ought to do. My own inclination is to
+     put half-a-dozen of my farm lads in the shrubbery, and when this
+     fellow comes again to give him such a hiding that he will leave us in
+
+[line number in individual story] matching line = 363    window = 358 368
+
+[line number in concatenated text file] matching line = 33729    window = 33724 33734
+
+
+     want your advice as to what I ought to do. My own inclination is to
+     put half-a-dozen of my farm lads in the shrubbery, and when this
+     fellow comes again to give him such a hiding that he will leave us in
+     peace for the future."
+
+==>      "I fear it is too deep a case for such simple remedies," said Holmes. <==
+     "How long can you stay in London?"
+
+     "I must go back to-day. I would not leave my wife alone all night for
+     anything. She is very nervous and begged me to come back."
+
+
+[line number in individual story] matching line = 375    window = 370 380
+
+[line number in concatenated text file] matching line = 33741    window = 33736 33746
+
+
+     possibly have been able to return with you in a day or two. Meanwhile
+     you will leave me these papers, and I think that it is very likely
+     that I shall be able to pay you a visit shortly and to throw some
+     light upon your case."
+
+==>      Sherlock Holmes preserved his calm professional manner until our <==
+     visitor had left us, although it was easy for me, who knew him so
+     well, to see that he was profoundly excited. The moment that Hilton
+     Cubitt's broad back had disappeared through the door my comrade
+     rushed to the table, laid out all the slips of paper containing
+     dancing men in front of him, and threw himself into an intricate and
+
+[line number in individual story] matching line = 395    window = 390 400
+
+[line number in concatenated text file] matching line = 33761    window = 33756 33766
+
+
+     add to your collection, Watson," said he. "I expect that we shall be
+     able to go down to Norfolk to-morrow, and to take our friend some
+     very definite news as to the secret of his annoyance."
+
+     I confess that I was filled with curiosity, but I was aware that
+==>      Holmes liked to make his disclosures at his own time and in his own <==
+     way; so I waited until it should suit him to take me into his
+     confidence.
+
+     But there was a delay in that answering telegram, and two days of
+     impatience followed, during which Holmes pricked up his ears at every
+
+[line number in individual story] matching line = 400    window = 395 405
+
+[line number in concatenated text file] matching line = 33766    window = 33761 33771
+
+
+     Holmes liked to make his disclosures at his own time and in his own
+     way; so I waited until it should suit him to take me into his
+     confidence.
+
+     But there was a delay in that answering telegram, and two days of
+==>      impatience followed, during which Holmes pricked up his ears at every <==
+     ring of the bell. On the evening of the second there came a letter
+     from Hilton Cubitt. All was quiet with him, save that a long
+     inscription had appeared that morning upon the pedestal of the
+     sun-dial. He inclosed a copy of it, which is here reproduced:--
+
+
+[line number in individual story] matching line = 408    window = 403 413
+
+[line number in concatenated text file] matching line = 33774    window = 33769 33779
+
+
+     inscription had appeared that morning upon the pedestal of the
+     sun-dial. He inclosed a copy of it, which is here reproduced:--
+
+     [ Picture: Picture of many dancing men figures ]
+
+==>      Holmes bent over this grotesque frieze for some minutes, and then <==
+     suddenly sprang to his feet with an exclamation of surprise and
+     dismay. His face was haggard with anxiety.
+
+     "We have let this affair go far enough," said he. "Is there a train
+     to North Walsham to-night?"
+
+[line number in individual story] matching line = 418    window = 413 423
+
+[line number in concatenated text file] matching line = 33784    window = 33779 33789
+
+
+     to North Walsham to-night?"
+
+     I turned up the time-table. The last had just gone.
+
+     "Then we shall breakfast early and take the very first in the
+==>      morning," said Holmes. "Our presence is most urgently needed. Ah! <==
+     here is our expected cablegram. One moment, Mrs. Hudson; there may be
+     an answer. No, that is quite as I expected. This message makes it
+     even more essential that we should not lose an hour in letting Hilton
+     Cubitt know how matters stand, for it is a singular and a dangerous
+     web in which our simple Norfolk squire is entangled."
+
+[line number in individual story] matching line = 438    window = 433 443
+
+[line number in concatenated text file] matching line = 33804    window = 33799 33809
+
+
+
+     We had hardly alighted at North Walsham, and mentioned the name of
+     our destination, when the station-master hurried towards us. "I
+     suppose that you are the detectives from London?" said he.
+
+==>      A look of annoyance passed over Holmes's face. <==
+
+     "What makes you think such a thing?"
+
+     "Because Inspector Martin from Norwich has just passed through. But
+     maybe you are the surgeons. She's not dead--or wasn't by last
+
+[line number in individual story] matching line = 447    window = 442 452
+
+[line number in concatenated text file] matching line = 33813    window = 33808 33818
+
+
+     "Because Inspector Martin from Norwich has just passed through. But
+     maybe you are the surgeons. She's not dead--or wasn't by last
+     accounts. You may be in time to save her yet--though it be for the
+     gallows."
+
+==>      Holmes's brow was dark with anxiety. <==
+
+     "We are going to Ridling Thorpe Manor," said he, "but we have heard
+     nothing of what has passed there."
+
+     "It's a terrible business," said the station-master. "They are shot,
+
+[line number in individual story] matching line = 458    window = 453 463
+
+[line number in concatenated text file] matching line = 33824    window = 33819 33829
+
+
+     both Mr. Hilton Cubitt and his wife. She shot him and then
+     herself--so the servants say. He's dead and her life is despaired of.
+     Dear, dear, one of the oldest families in the County of Norfolk, and
+     one of the most honoured."
+
+==>      Without a word Holmes hurried to a carriage, and during the long <==
+     seven miles' drive he never opened his mouth. Seldom have I seen him
+     so utterly despondent. He had been uneasy during all our journey from
+     town, and I had observed that he had turned over the morning papers
+     with anxious attention; but now this sudden realization of his worst
+     fears left him in a blank melancholy. He leaned back in his seat,
+
+[line number in individual story] matching line = 483    window = 478 488
+
+[line number in concatenated text file] matching line = 33849    window = 33844 33854
+
+
+     man, with a quick, alert manner and a waxed moustache, had just
+     descended from a high dog-cart. He introduced himself as Inspector
+     Martin, of the Norfolk Constabulary, and he was considerably
+     astonished when he heard the name of my companion.
+
+==>      "Why, Mr. Holmes, the crime was only committed at three this morning. <==
+     How could you hear of it in London and get to the spot as soon as I?"
+
+     "I anticipated it. I came in the hope of preventing it."
+
+     "Then you must have important evidence of which we are ignorant, for
+
+[line number in individual story] matching line = 491    window = 486 496
+
+[line number in concatenated text file] matching line = 33857    window = 33852 33862
+
+
+     "I anticipated it. I came in the hope of preventing it."
+
+     "Then you must have important evidence of which we are ignorant, for
+     they were said to be a most united couple."
+
+==>      "I have only the evidence of the dancing men," said Holmes. "I will <==
+     explain the matter to you later. Meanwhile, since it is too late to
+     prevent this tragedy, I am very anxious that I should use the
+     knowledge which I possess in order to ensure that justice be done.
+     Will you associate me in your investigation, or will you prefer that
+     I should act independently?"
+
+[line number in individual story] matching line = 498    window = 493 503
+
+[line number in concatenated text file] matching line = 33864    window = 33859 33869
+
+
+     prevent this tragedy, I am very anxious that I should use the
+     knowledge which I possess in order to ensure that justice be done.
+     Will you associate me in your investigation, or will you prefer that
+     I should act independently?"
+
+==>      "I should be proud to feel that we were acting together, Mr. Holmes," <==
+     said the inspector, earnestly.
+
+     "In that case I should be glad to hear the evidence and to examine
+     the premises without an instant of unnecessary delay."
+
+
+[line number in individual story] matching line = 519    window = 514 524
+
+[line number in concatenated text file] matching line = 33885    window = 33880 33890
+
+
+     room, two barrels of which had been emptied. Mr. Hilton Cubitt had
+     been shot through the heart. It was equally conceivable that he had
+     shot her and then himself, or that she had been the criminal, for the
+     revolver lay upon the floor midway between them.
+
+==>      "Has he been moved?" asked Holmes. <==
+
+     "We have moved nothing except the lady. We could not leave her lying
+     wounded upon the floor."
+
+     "How long have you been here, doctor?"
+
+[line number in individual story] matching line = 551    window = 546 556
+
+[line number in concatenated text file] matching line = 33917    window = 33912 33922
+
+
+     "In the kitchen, I believe."
+
+     "Then I think we had better hear their story at once."
+
+     The old hall, oak-panelled and high-windowed, had been turned into a
+==>      court of investigation. Holmes sat in a great, old-fashioned chair, <==
+     his inexorable eyes gleaming out of his haggard face. I could read in
+     them a set purpose to devote his life to this quest until the client
+     whom he had failed to save should at last be avenged. The trim
+     Inspector Martin, the old, grey-headed country doctor, myself, and a
+     stolid village policeman made up the rest of that strange company.
+
+[line number in individual story] matching line = 582    window = 577 587
+
+[line number in concatenated text file] matching line = 33948    window = 33943 33953
+
+
+     united couple.
+
+     These were the main points of the servants' evidence. In answer to
+     Inspector Martin they were clear that every door was fastened upon
+     the inside, and that no one could have escaped from the house. In
+==>      answer to Holmes they both remembered that they were conscious of the <==
+     smell of powder from the moment that they ran out of their rooms upon
+     the top floor. "I commend that fact very carefully to your
+     attention," said Holmes to his professional colleague. "And now I
+     think that we are in a position to undertake a thorough examination
+     of the room."
+
+[line number in individual story] matching line = 585    window = 580 590
+
+[line number in concatenated text file] matching line = 33951    window = 33946 33956
+
+
+     Inspector Martin they were clear that every door was fastened upon
+     the inside, and that no one could have escaped from the house. In
+     answer to Holmes they both remembered that they were conscious of the
+     smell of powder from the moment that they ran out of their rooms upon
+     the top floor. "I commend that fact very carefully to your
+==>      attention," said Holmes to his professional colleague. "And now I <==
+     think that we are in a position to undertake a thorough examination
+     of the room."
+
+     The study proved to be a small chamber, lined on three sides with
+     books, and with a writing-table facing an ordinary window, which
+
+[line number in individual story] matching line = 602    window = 597 607
+
+[line number in concatenated text file] matching line = 33968    window = 33963 33973
+
+
+     powder-marking either upon his dressing-gown or on his hands.
+     According to the country surgeon the lady had stains upon her face,
+     but none upon her hand.
+
+     "The absence of the latter means nothing, though its presence may
+==>      mean everything," said Holmes. "Unless the powder from a <==
+     badly-fitting cartridge happens to spurt backwards, one may fire many
+     shots without leaving a sign. I would suggest that Mr. Cubitt's body
+     may now be removed. I suppose, doctor, you have not recovered the
+     bullet which wounded the lady?"
+
+
+[line number in individual story] matching line = 612    window = 607 617
+
+[line number in concatenated text file] matching line = 33978    window = 33973 33983
+
+
+
+     "A serious operation will be necessary before that can be done. But
+     there are still four cartridges in the revolver. Two have been fired
+     and two wounds inflicted, so that each bullet can be accounted for."
+
+==>      "So it would seem," said Holmes. "Perhaps you can account also for <==
+     the bullet which has so obviously struck the edge of the window?"
+
+     He had turned suddenly, and his long, thin finger was pointing to a
+     hole which had been drilled right through the lower window-sash about
+     an inch above the bottom.
+
+[line number in individual story] matching line = 629    window = 624 634
+
+[line number in concatenated text file] matching line = 33995    window = 33990 34000
+
+
+     Then a third shot has been fired, and therefore a third person must
+     have been present. But who could that have been and how could he have
+     got away?"
+
+     "That is the problem which we are now about to solve," said Sherlock
+==>      Holmes. "You remember, Inspector Martin, when the servants said that <==
+     on leaving their room they were at once conscious of a smell of
+     powder I remarked that the point was an extremely important one?"
+
+     "Yes, sir; but I confess I did not quite follow you."
+
+
+[line number in individual story] matching line = 659    window = 654 664
+
+[line number in concatenated text file] matching line = 34025    window = 34020 34030
+
+
+
+     "The woman's first instinct would be to shut and fasten the window.
+     But, halloa! what is this?"
+
+     It was a lady's hand-bag which stood upon the study table--a trim
+==>      little hand-bag of crocodile-skin and silver. Holmes opened it and <==
+     turned the contents out. There were twenty fifty-pound notes of the
+     Bank of England, held together by an india-rubber band--nothing else.
+
+     "This must be preserved, for it will figure in the trial," said
+     Holmes, as he handed the bag with its contents to the inspector. "It
+
+[line number in individual story] matching line = 664    window = 659 669
+
+[line number in concatenated text file] matching line = 34030    window = 34025 34035
+
+
+     little hand-bag of crocodile-skin and silver. Holmes opened it and
+     turned the contents out. There were twenty fifty-pound notes of the
+     Bank of England, held together by an india-rubber band--nothing else.
+
+     "This must be preserved, for it will figure in the trial," said
+==>      Holmes, as he handed the bag with its contents to the inspector. "It <==
+     is now necessary that we should try to throw some light upon this
+     third bullet, which has clearly, from the splintering of the wood,
+     been fired from inside the room. I should like to see Mrs. King, the
+     cook, again. You said, Mrs. King, that you were awakened by a loud
+     explosion. When you said that, did you mean that it seemed to you to
+
+[line number in individual story] matching line = 688    window = 683 693
+
+[line number in concatenated text file] matching line = 34054    window = 34049 34059
+
+
+     evidence the garden has to offer."
+
+     A flower-bed extended up to the study window, and we all broke into
+     an exclamation as we approached it. The flowers were trampled down,
+     and the soft soil was imprinted all over with footmarks. Large,
+==>      masculine feet they were, with peculiarly long, sharp toes. Holmes <==
+     hunted about among the grass and leaves like a retriever after a
+     wounded bird. Then, with a cry of satisfaction, he bent forward and
+     picked up a little brazen cylinder.
+
+     "I thought so," said he; "the revolver had an ejector, and here is
+
+[line number in individual story] matching line = 698    window = 693 703
+
+[line number in concatenated text file] matching line = 34064    window = 34059 34069
+
+
+     "I thought so," said he; "the revolver had an ejector, and here is
+     the third cartridge. I really think, Inspector Martin, that our case
+     is almost complete."
+
+     The country inspector's face had shown his intense amazement at the
+==>      rapid and masterful progress of Holmes's investigation. At first he <==
+     had shown some disposition to assert his own position; but now he was
+     overcome with admiration and ready to follow without question
+     wherever Holmes led.
+
+     "Whom do you suspect?" he asked.
+
+[line number in individual story] matching line = 701    window = 696 706
+
+[line number in concatenated text file] matching line = 34067    window = 34062 34072
+
+
+
+     The country inspector's face had shown his intense amazement at the
+     rapid and masterful progress of Holmes's investigation. At first he
+     had shown some disposition to assert his own position; but now he was
+     overcome with admiration and ready to follow without question
+==>      wherever Holmes led. <==
+
+     "Whom do you suspect?" he asked.
+
+     "I'll go into that later. There are several points in this problem
+     which I have not been able to explain to you yet. Now that I have got
+
+[line number in individual story] matching line = 710    window = 705 715
+
+[line number in concatenated text file] matching line = 34076    window = 34071 34081
+
+
+     "I'll go into that later. There are several points in this problem
+     which I have not been able to explain to you yet. Now that I have got
+     so far I had best proceed on my own lines, and then clear the whole
+     matter up once and for all."
+
+==>      "Just as you wish, Mr. Holmes, so long as we get our man." <==
+
+     "I have no desire to make mysteries, but it is impossible at the
+     moment of action to enter into long and complex explanations. I have
+     the threads of this affair all in my hand. Even if this lady should
+     never recover consciousness we can still reconstruct the events of
+
+[line number in individual story] matching line = 734    window = 729 739
+
+[line number in concatenated text file] matching line = 34100    window = 34095 34105
+
+
+     "Perhaps they have not heard yet of all that happened here during the
+     night?"
+
+     "Maybe not, sir."
+
+==>      Holmes thought for a little and then a curious smile played over his <==
+     face.
+
+     "Saddle a horse, my lad," said he. "I shall wish you to take a note
+     to Elrige's Farm."
+
+
+[line number in individual story] matching line = 746    window = 741 751
+
+[line number in concatenated text file] matching line = 34112    window = 34107 34117
+
+
+     these in front of him he worked for some time at the study-table.
+     Finally he handed a note to the boy, with directions to put it into
+     the hands of the person to whom it was addressed, and especially to
+     answer no questions of any sort which might be put to him. I saw the
+     outside of the note, addressed in straggling, irregular characters,
+==>      very unlike Holmes's usual precise hand. It was consigned to Mr. Abe <==
+     Slaney, Elrige's Farm, East Ruston, Norfolk.
+
+     "I think, inspector," Holmes remarked, "that you would do well to
+     telegraph for an escort, as, if my calculations prove to be correct,
+     you may have a particularly dangerous prisoner to convey to the
+
+[line number in individual story] matching line = 749    window = 744 754
+
+[line number in concatenated text file] matching line = 34115    window = 34110 34120
+
+
+     answer no questions of any sort which might be put to him. I saw the
+     outside of the note, addressed in straggling, irregular characters,
+     very unlike Holmes's usual precise hand. It was consigned to Mr. Abe
+     Slaney, Elrige's Farm, East Ruston, Norfolk.
+
+==>      "I think, inspector," Holmes remarked, "that you would do well to <==
+     telegraph for an escort, as, if my calculations prove to be correct,
+     you may have a particularly dangerous prisoner to convey to the
+     county jail. The boy who takes this note could no doubt forward your
+     telegram. If there is an afternoon train to town, Watson, I think we
+     should do well to take it, as I have a chemical analysis of some
+
+[line number in individual story] matching line = 757    window = 752 762
+
+[line number in concatenated text file] matching line = 34123    window = 34118 34128
+
+
+     county jail. The boy who takes this note could no doubt forward your
+     telegram. If there is an afternoon train to town, Watson, I think we
+     should do well to take it, as I have a chemical analysis of some
+     interest to finish, and this investigation draws rapidly to a close."
+
+==>      When the youth had been dispatched with the note, Sherlock Holmes <==
+     gave his instructions to the servants. If any visitor were to call
+     asking for Mrs. Hilton Cubitt no information should be given as to
+     her condition, but he was to be shown at once into the drawing-room.
+     He impressed these points upon them with the utmost earnestness.
+     Finally he led the way into the drawing-room with the remark that the
+
+[line number in individual story] matching line = 769    window = 764 774
+
+[line number in concatenated text file] matching line = 34135    window = 34130 34140
+
+
+     time as best we might until we could see what was in store for us.
+     The doctor had departed to his patients, and only the inspector and
+     myself remained.
+
+     "I think that I can help you to pass an hour in an interesting and
+==>      profitable manner," said Holmes, drawing his chair up to the table <==
+     and spreading out in front of him the various papers upon which were
+     recorded the antics of the dancing men. "As to you, friend Watson, I
+     owe you every atonement for having allowed your natural curiosity to
+     remain so long unsatisfied. To you, inspector, the whole incident may
+     appeal as a remarkable professional study. I must tell you first of
+
+[line number in individual story] matching line = 917    window = 912 922
+
+[line number in concatenated text file] matching line = 34283    window = 34278 34288
+
+
+
+     "But why should he come?"
+
+     "Because I have written and asked him."
+
+==>      "But this is incredible, Mr. Holmes! Why should he come because you <==
+     have asked him? Would not such a request rather rouse his suspicions
+     and cause him to fly?"
+
+     "I think I have known how to frame the letter," said Sherlock Holmes.
+     "In fact, if I am not very much mistaken, here is the gentleman
+
+[line number in individual story] matching line = 921    window = 916 926
+
+[line number in concatenated text file] matching line = 34287    window = 34282 34292
+
+
+
+     "But this is incredible, Mr. Holmes! Why should he come because you
+     have asked him? Would not such a request rather rouse his suspicions
+     and cause him to fly?"
+
+==>      "I think I have known how to frame the letter," said Sherlock Holmes. <==
+     "In fact, if I am not very much mistaken, here is the gentleman
+     himself coming up the drive."
+
+     A man was striding up the path which led to the door. He was a tall,
+     handsome, swarthy fellow, clad in a suit of grey flannel, with a
+
+[line number in individual story] matching line = 932    window = 927 937
+
+[line number in concatenated text file] matching line = 34298    window = 34293 34303
+
+
+     Panama hat, a bristling black beard, and a great, aggressive hooked
+     nose, and flourishing a cane as he walked. He swaggered up the path
+     as if the place belonged to him, and we heard his loud, confident
+     peal at the bell.
+
+==>      "I think, gentlemen," said Holmes, quietly, "that we had best take up <==
+     our position behind the door. Every precaution is necessary when
+     dealing with such a fellow. You will need your handcuffs, inspector.
+     You can leave the talking to me."
+
+     We waited in silence for a minute--one of those minutes which one can
+
+[line number in individual story] matching line = 939    window = 934 944
+
+[line number in concatenated text file] matching line = 34305    window = 34300 34310
+
+
+     dealing with such a fellow. You will need your handcuffs, inspector.
+     You can leave the talking to me."
+
+     We waited in silence for a minute--one of those minutes which one can
+     never forget. Then the door opened and the man stepped in. In an
+==>      instant Holmes clapped a pistol to his head and Martin slipped the <==
+     handcuffs over his wrists. It was all done so swiftly and deftly that
+     the fellow was helpless before he knew that he was attacked. He
+     glared from one to the other of us with a pair of blazing black eyes.
+     Then he burst into a bitter laugh.
+
+
+[line number in individual story] matching line = 975    window = 970 980
+
+[line number in concatenated text file] matching line = 34341    window = 34336 34346
+
+
+     years ago. Who was this Englishman that he should come between us? I
+     tell you that I had the first right to her, and that I was only
+     claiming my own."
+
+     "She broke away from your influence when she found the man that you
+==>      are," said Holmes, sternly. "She fled from America to avoid you, and <==
+     she married an honourable gentleman in England. You dogged her and
+     followed her and made her life a misery to her in order to induce her
+     to abandon the husband whom she loved and respected in order to fly
+     with you, whom she feared and hated. You have ended by bringing about
+     the death of a noble man and driving his wife to suicide. That is
+
+[line number in individual story] matching line = 996    window = 991 1001
+
+[line number in concatenated text file] matching line = 34362    window = 34357 34367
+
+
+     "I wrote it to bring you here."
+
+     "You wrote it? There was no one on earth outside the Joint who knew
+     the secret of the dancing men. How came you to write it?"
+
+==>      "What one man can invent another can discover," said Holmes. "There <==
+     is a cab coming to convey you to Norwich, Mr. Slaney. But, meanwhile,
+     you have time to make some small reparation for the injury you have
+     wrought. Are you aware that Mrs. Hilton Cubitt has herself lain under
+     grave suspicion of the murder of her husband, and that it was only my
+     presence here and the knowledge which I happened to possess which has
+
+[line number in individual story] matching line = 1061    window = 1056 1066
+
+[line number in concatenated text file] matching line = 34427    window = 34422 34432
+
+
+
+     "It is time for us to go."
+
+     "Can I see her first?"
+
+==>      "No, she is not conscious. Mr. Sherlock Holmes, I only hope that if <==
+     ever again I have an important case I shall have the good fortune to
+     have you by my side."
+
+     We stood at the window and watched the cab drive away. As I turned
+     back my eye caught the pellet of paper which the prisoner had tossed
+
+[line number in individual story] matching line = 1067    window = 1062 1072
+
+[line number in concatenated text file] matching line = 34433    window = 34428 34438
+
+
+     ever again I have an important case I shall have the good fortune to
+     have you by my side."
+
+     We stood at the window and watched the cab drive away. As I turned
+     back my eye caught the pellet of paper which the prisoner had tossed
+==>      upon the table. It was the note with which Holmes had decoyed him. <==
+
+     "See if you can read it, Watson," said he, with a smile.
+
+     It contained no word, but this little line of dancing men:--
+
+
+[line number in individual story] matching line = 1075    window = 1070 1080
+
+[line number in concatenated text file] matching line = 34441    window = 34436 34446
+
+
+
+     It contained no word, but this little line of dancing men:--
+
+     [ Picture: Picture of various dancing men ]
+
+==>      "If you use the code which I have explained," said Holmes, "you will <==
+     find that it simply means 'Come here at once.' I was convinced that
+     it was an invitation which he would not refuse, since he could never
+     imagine that it could come from anyone but the lady. And so, my dear
+     Watson, we have ended by turning the dancing men to good when they
+     have so often been the agents of evil, and I think that I have
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+        in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------- 
+ Holmes   61      0    0.0128151260504202           0              Inf     7.19099276371769e-13 
+ Mr       25      4    0.00525210084033613 0.000967351874244256   5.429    0.000810303180515111 
+ We       9       0    0.00189075630252101          0              Inf      0.0137700975085476  
+ said     37     15    0.00777310924369748 0.00362756952841596    2.143     0.0155832086013312  
+ should   20      6    0.00420168067226891 0.00145102781136638    2.896     0.0278155551128691  
+ long     12      2    0.00252100840336134 0.000483675937122128   5.212     0.0315989683936623  
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Dancing Men"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 8    window = 3 13
+
+[line number in concatenated text file] matching line = 33374    window = 33369 33379
+
+
+     back curved over a chemical vessel in which he was brewing a
+     particularly malodorous product. His head was sunk upon his breast,
+     and he looked from my point of view like a strange, lank bird, with
+     dull grey plumage and a black top-knot.
+
+==>      "So, Watson," said he, suddenly, "you do not propose to invest in <==
+     South African securities?"
+
+     I gave a start of astonishment. Accustomed as I was to Holmes's
+     curious faculties, this sudden intrusion into my most intimate
+     thoughts was utterly inexplicable.
+
+[line number in individual story] matching line = 20    window = 15 25
+
+[line number in concatenated text file] matching line = 33386    window = 33381 33391
+
+
+     "How on earth do you know that?" I asked.
+
+     He wheeled round upon his stool, with a steaming test-tube in his
+     hand and a gleam of amusement in his deep-set eyes.
+
+==>      "Now, Watson, confess yourself utterly taken aback," said he. <==
+
+     "I am."
+
+     "I ought to make you sign a paper to that effect."
+
+
+[line number in individual story] matching line = 33    window = 28 38
+
+[line number in concatenated text file] matching line = 33399    window = 33394 33404
+
+
+     "Because in five minutes you will say that it is all so absurdly
+     simple."
+
+     "I am sure that I shall say nothing of the kind."
+
+==>      "You see, my dear Watson"--he propped his test-tube in the rack and <==
+     began to lecture with the air of a professor addressing his
+     class--"it is not really difficult to construct a series of
+     inferences, each dependent upon its predecessor and each simple in
+     itself. If, after doing so, one simply knocks out all the central
+     inferences and presents one's audience with the starting-point and
+
+[line number in individual story] matching line = 62    window = 57 67
+
+[line number in concatenated text file] matching line = 33428    window = 33423 33433
+
+
+
+     "How absurdly simple!" I cried.
+
+     "Quite so!" said he, a little nettled. "Every problem becomes very
+     childish when once it is explained to you. Here is an unexplained
+==>      one. See what you can make of that, friend Watson." He tossed a sheet <==
+     of paper upon the table and turned once more to his chemical
+     analysis.
+
+     I looked with amazement at the absurd hieroglyphics upon the paper.
+
+
+[line number in individual story] matching line = 77    window = 72 82
+
+[line number in concatenated text file] matching line = 33443    window = 33438 33448
+
+
+     "What else should it be?"
+
+     "That is what Mr. Hilton Cubitt, of Ridling Thorpe Manor, Norfolk, is
+     very anxious to know. This little conundrum came by the first post,
+     and he was to follow by the next train. There's a ring at the bell,
+==>      Watson. I should not be very much surprised if this were he." <==
+
+     A heavy step was heard upon the stairs, and an instant later there
+     entered a tall, ruddy, clean-shaven gentleman, whose clear eyes and
+     florid cheeks told of a life led far from the fogs of Baker Street.
+     He seemed to bring a whiff of his strong, fresh, bracing, east-coast
+
+[line number in individual story] matching line = 115    window = 110 120
+
+[line number in concatenated text file] matching line = 33481    window = 33476 33486
+
+
+     he placed it in his pocket-book.
+
+     "This promises to be a most interesting and unusual case," said he.
+     "You gave me a few particulars in your letter, Mr. Hilton Cubitt, but
+     I should be very much obliged if you would kindly go over it all
+==>      again for the benefit of my friend, Dr. Watson." <==
+
+     "I'm not much of a story-teller," said our visitor, nervously
+     clasping and unclasping his great, strong hands. "You'll just ask me
+     anything that I don't make clear. I'll begin at the time of my
+     marriage last year; but I want to say first of all that, though I'm
+
+[line number in individual story] matching line = 233    window = 228 238
+
+[line number in concatenated text file] matching line = 33599    window = 33594 33604
+
+
+     note-book and look long and earnestly at the curious figures
+     inscribed upon it. He made no allusion to the affair, however, until
+     one afternoon a fortnight or so later. I was going out when he called
+     me back.
+
+==>      "You had better stay here, Watson." <==
+
+     "Why?"
+
+     "Because I had a wire from Hilton Cubitt this morning--you remember
+     Hilton Cubitt, of the dancing men? He was to reach Liverpool Street
+
+[line number in individual story] matching line = 390    window = 385 395
+
+[line number in concatenated text file] matching line = 33756    window = 33751 33761
+
+
+     sometimes he was puzzled, and would sit for long spells with a
+     furrowed brow and a vacant eye. Finally he sprang from his chair with
+     a cry of satisfaction, and walked up and down the room rubbing his
+     hands together. Then he wrote a long telegram upon a cable form. "If
+     my answer to this is as I hope, you will have a very pretty case to
+==>      add to your collection, Watson," said he. "I expect that we shall be <==
+     able to go down to Norfolk to-morrow, and to take our friend some
+     very definite news as to the secret of his annoyance."
+
+     I confess that I was filled with curiosity, but I was aware that
+     Holmes liked to make his disclosures at his own time and in his own
+
+[line number in individual story] matching line = 753    window = 748 758
+
+[line number in concatenated text file] matching line = 34119    window = 34114 34124
+
+
+
+     "I think, inspector," Holmes remarked, "that you would do well to
+     telegraph for an escort, as, if my calculations prove to be correct,
+     you may have a particularly dangerous prisoner to convey to the
+     county jail. The boy who takes this note could no doubt forward your
+==>      telegram. If there is an afternoon train to town, Watson, I think we <==
+     should do well to take it, as I have a chemical analysis of some
+     interest to finish, and this investigation draws rapidly to a close."
+
+     When the youth had been dispatched with the note, Sherlock Holmes
+     gave his instructions to the servants. If any visitor were to call
+
+[line number in individual story] matching line = 771    window = 766 776
+
+[line number in concatenated text file] matching line = 34137    window = 34132 34142
+
+
+     myself remained.
+
+     "I think that I can help you to pass an hour in an interesting and
+     profitable manner," said Holmes, drawing his chair up to the table
+     and spreading out in front of him the various papers upon which were
+==>      recorded the antics of the dancing men. "As to you, friend Watson, I <==
+     owe you every atonement for having allowed your natural curiosity to
+     remain so long unsatisfied. To you, inspector, the whole incident may
+     appeal as a remarkable professional study. I must tell you first of
+     all the interesting circumstances connected with the previous
+     consultations which Mr. Hilton Cubitt has had with me in Baker
+
+[line number in individual story] matching line = 893    window = 888 898
+
+[line number in concatenated text file] matching line = 34259    window = 34254 34264
+
+
+
+     The addition of a P and a D completed a message which showed me that
+     the rascal was proceeding from persuasion to threats, and my
+     knowledge of the crooks of Chicago prepared me to find that he might
+     very rapidly put his words into action. I at once came to Norfolk
+==>      with my friend and colleague, Dr. Watson, but, unhappily, only in <==
+     time to find that the worst had already occurred."
+
+     "It is a privilege to be associated with you in the handling of a
+     case," said the inspector, warmly. "You will excuse me, however, if I
+     speak frankly to you. You are only answerable to yourself, but I have
+
+[line number in individual story] matching line = 1069    window = 1064 1074
+
+[line number in concatenated text file] matching line = 34435    window = 34430 34440
+
+
+
+     We stood at the window and watched the cab drive away. As I turned
+     back my eye caught the pellet of paper which the prisoner had tossed
+     upon the table. It was the note with which Holmes had decoyed him.
+
+==>      "See if you can read it, Watson," said he, with a smile. <==
+
+     It contained no word, but this little line of dancing men:--
+
+     [ Picture: Picture of various dancing men ]
+
+
+[line number in individual story] matching line = 1079    window = 1074 1084
+
+[line number in concatenated text file] matching line = 34445    window = 34440 34450
+
+
+
+     "If you use the code which I have explained," said Holmes, "you will
+     find that it simply means 'Come here at once.' I was convinced that
+     it was an invitation which he would not refuse, since he could never
+     imagine that it could come from anyone but the lady. And so, my dear
+==>      Watson, we have ended by turning the dancing men to good when they <==
+     have so often been the agents of evil, and I think that I have
+     fulfilled my promise of giving you something unusual for your
+     note-book. Three-forty is our train, and I fancy we should be back in
+     Baker Street for dinner."
+
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ==================================================================================================== 
+              in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------------- 
+ Watson         13      0    0.0106470106470106           0              Inf     1.43646574343899e-13 
+ Baker          3       0    0.00245700245700246          0              Inf     0.00299564851145622  
+ chemical       3       0    0.00245700245700246          0              Inf     0.00299564851145622  
+ friend         5       4    0.0040950040950041  0.000709345628657563   5.773     0.0114969238431418  
+ interesting    3       1    0.00245700245700246 0.000177336407164391   13.855    0.0193883004470865  
+ Street         3       1    0.00245700245700246 0.000177336407164391   13.855    0.0193883004470865  
+ train          3       1    0.00245700245700246 0.000177336407164391   13.855    0.0193883004470865  
+ absurdly       2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ afternoon      2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ analysis       2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ curiosity      2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ Dr             2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ explained      2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ inferences     2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ m              2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ particularly   2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ simply         2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ strong         2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ test           2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ tube           2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ unusual        2       0    0.00163800163800164          0              Inf      0.0344141510334021  
+ ---------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Dancing Men"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+[line number in individual story] matching line = 419    window = 414 424
+
+[line number in concatenated text file] matching line = 33785    window = 33780 33790
+
+
+
+     I turned up the time-table. The last had just gone.
+
+     "Then we shall breakfast early and take the very first in the
+     morning," said Holmes. "Our presence is most urgently needed. Ah!
+==>      here is our expected cablegram. One moment, Mrs. Hudson; there may be <==
+     an answer. No, that is quite as I expected. This message makes it
+     even more essential that we should not lose an hour in letting Hilton
+     Cubitt know how matters stand, for it is a singular and a dangerous
+     web in which our simple Norfolk squire is entangled."
+
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+           in.raw out.raw      in.norm            out.norm       ratio.norm        pval         
+ ---------------------------------------------------------------------------------------------- 
+ expected    2       1    0.021505376344086 0.000351370344342937   61.204   3.5418582885328e-06 
+ Ah          1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ breakfast   1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ cablegram   1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ entangled   1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ essential   1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ Hudson      1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ letting     1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ lose        1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ matters     1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ needed      1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ urgently    1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ web         1       0    0.010752688172043          0              Inf     0.00744996843670733 
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Dancing Men"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

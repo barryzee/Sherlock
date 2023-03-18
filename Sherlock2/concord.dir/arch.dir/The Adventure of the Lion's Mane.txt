@@ -1,0 +1,382 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Lion's Mane"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 50    window = 45 55
+
+[line number in concatenated text file] matching line = 73025    window = 73020 73030
+
+
+     out before breakfast to enjoy the exquisite air. I walked along the
+     cliff path which led to the steep descent to the beach. As I walked I
+     heard a shout behind me, and there was Harold Stackhurst waving his
+     hand in cheery greeting.
+
+==>      "What a morning, Mr. Holmes! I thought I should see you out." <==
+
+     "Going for a swim, I see."
+
+     "At your old tricks again," he laughed, patting his bulging pocket.
+     "Yes. McPherson started early, and I expect I may find him there."
+
+[line number in individual story] matching line = 175    window = 170 180
+
+[line number in concatenated text file] matching line = 73150    window = 73145 73155
+
+
+     village constable, a big, ginger-moustached man of the slow, solid
+     Sussex breed--a breed which covers much good sense under a heavy,
+     silent exterior. He listened to everything, took note of all we said,
+     and finally drew me aside.
+
+==>      "I'd be glad of your advice, Mr. Holmes. This is a big thing for me <==
+     to handle, and I'll hear of it from Lewes if I go wrong."
+
+     I advised him to send for his immediate superior, and for a doctor;
+     also to allow nothing to be moved, and as few fresh footmarks as
+     possible to be made, until they came. In the meantime I searched the
+
+[line number in individual story] matching line = 243    window = 238 248
+
+[line number in concatenated text file] matching line = 73218    window = 73213 73223
+
+
+
+     "Well, then, we must explore the matter of the girl. Do you know
+     her?"
+
+     "Everyone knows her. She is the beauty of the neighbourhood--a real
+==>      beauty, Holmes, who would draw attention everywhere. I knew that <==
+     McPherson was attracted by her, but I had no notion that it had gone
+     so far as these letters would seem to indicate."
+
+     "But who is she?"
+
+
+[line number in individual story] matching line = 361    window = 356 366
+
+[line number in concatenated text file] matching line = 73336    window = 73331 73341
+
+
+     concentration which showed me that she possessed strong character as
+     well as great beauty. Maud Bellamy will always remain in my memory as
+     a most complete and remarkable woman. It seems that she already knew
+     me by sight, for she turned to me at the end.
+
+==>      "Bring them to justice, Mr. Holmes. You have my sympathy and my help, <==
+     whoever they may be." It seemed to me that she glanced defiantly at
+     her father and brother as she spoke.
+
+     "Thank you," said I. "I value a woman's instinct in such matters. You
+     use the word 'they.' You think that more than one was concerned?"
+
+[line number in individual story] matching line = 568    window = 563 573
+
+[line number in concatenated text file] matching line = 73543    window = 73538 73548
+
+
+     "I have seen them. So has the doctor."
+
+     "But I have examined them very carefully with a lens. They have
+     peculiarities."
+
+==>      "What are they, Mr. Holmes?" <==
+
+     I stepped to my bureau and brought out an enlarged photograph. "This
+     is my method in such cases," I explained.
+
+     "You certainly do things thoroughly, Mr. Holmes."
+
+[line number in individual story] matching line = 573    window = 568 578
+
+[line number in concatenated text file] matching line = 73548    window = 73543 73553
+
+
+     "What are they, Mr. Holmes?"
+
+     I stepped to my bureau and brought out an enlarged photograph. "This
+     is my method in such cases," I explained.
+
+==>      "You certainly do things thoroughly, Mr. Holmes." <==
+
+     "I should hardly be what I am if I did not. Now let us consider this
+     weal which extends round the right shoulder. Do you observe nothing
+     remarkable?"
+
+
+[line number in individual story] matching line = 598    window = 593 603
+
+[line number in concatenated text file] matching line = 73573    window = 73568 73578
+
+
+     marked points would represent where the meshes crossed each other."
+
+     "A most ingenious comparison. Or shall we say a very stiff
+     cat-o'-nine-tails with small hard knots upon it?"
+
+==>      "By Jove, Mr. Holmes, I think you have hit it." <==
+
+     "Or there may be some very different cause, Mr. Bardle. But your case
+     is far too weak for an arrest. Besides, we have those last words--the
+     'Lion's Mane.'"
+
+
+[line number in individual story] matching line = 610    window = 605 615
+
+[line number in concatenated text file] matching line = 73585    window = 73580 73590
+
+
+
+     "Yes, I have considered that. If the second word had borne any
+     resemblance to Murdoch--but it did not. He gave it almost in a
+     shriek. I am sure that it was 'Mane.'"
+
+==>      "Have you no alternative, Mr. Holmes?" <==
+
+     "Perhaps I have. But I do not care to discuss it until there is
+     something more solid to discuss."
+
+     "And when will that be?"
+
+[line number in individual story] matching line = 621    window = 616 626
+
+[line number in concatenated text file] matching line = 73596    window = 73591 73601
+
+
+
+     "In an hour--possibly less."
+
+     The inspector rubbed his chin and looked at me with dubious eyes.
+
+==>      "I wish I could see what was in your mind, Mr. Holmes. Perhaps it's <==
+     those fishing-boats."
+
+     "No, no, they were too far out."
+
+     "Well, then, is it Bellamy and that big son of his? They were not too
+
+[line number in individual story] matching line = 672    window = 667 677
+
+[line number in concatenated text file] matching line = 73647    window = 73642 73652
+
+
+     faint, but at least it was ease from pain.
+
+     To question him had been impossible, but the moment we were assured
+     of his condition Stackhurst turned upon me.
+
+==>      "My God!" he cried, "what is it, Holmes? What is it?" <==
+
+     "Where did you find him?"
+
+     "Down on the beach. Exactly where poor McPherson met his end. If this
+     man's heart had been weak as McPherson's was, he would not be here
+
+[line number in individual story] matching line = 686    window = 681 691
+
+[line number in concatenated text file] matching line = 73661    window = 73656 73666
+
+
+     "Did you see him on the beach?"
+
+     "I was walking on the cliff when I heard his cry. He was at the edge
+     of the water, reeling about like a drunken man. I ran down, threw
+     some clothes about him, and brought him up. For heaven's sake,
+==>      Holmes, use all the powers you have and spare no pains to lift the <==
+     curse from this place, for life is becoming unendurable. Can you,
+     with all your world-wide reputation, do nothing for us?"
+
+     "I think I can, Stackhurst. Come with me now! And you, Inspector,
+     come along! We will see if we cannot deliver this murderer into your
+
+[line number in individual story] matching line = 725    window = 720 730
+
+[line number in concatenated text file] matching line = 73700    window = 73695 73705
+
+
+     cleared we saw that it had settled upon the ledge below. One flapping
+     edge of yellow membrane showed that our victim was beneath it. A
+     thick oily scum oozed out from below the stone and stained the water
+     round, rising slowly to the surface.
+
+==>      "Well, this gets me!" cried the inspector. "What was it, Mr. Holmes? <==
+     I'm born and bred in these parts, but I never saw such a thing. It
+     don't belong to Sussex."
+
+     "Just as well for Sussex," I remarked. "It may have been the
+     southwest gale that brought it up. Come back to my house, both of
+
+[line number in individual story] matching line = 783    window = 778 788
+
+[line number in concatenated text file] matching line = 73758    window = 73753 73763
+
+
+     bottleful, and it seems to have saved his life. There is the book,
+     Inspector. I leave it with you, and you cannot doubt that it contains
+     a full explanation of the tragedy of poor McPherson."
+
+     "And incidentally exonerates me," remarked Ian Murdoch with a wry
+==>      smile. "I do not blame you, Inspector, nor you, Mr. Holmes, for your <==
+     suspicions were natural. I feel that on the very eve of my arrest I
+     have only cleared myself by sharing the fate of my poor friend."
+
+     "No, Mr. Murdoch. I was already upon the track, and had I been out as
+     early as I intended I might well have saved you from this terrific
+
+[line number in individual story] matching line = 791    window = 786 796
+
+[line number in concatenated text file] matching line = 73766    window = 73761 73771
+
+
+
+     "No, Mr. Murdoch. I was already upon the track, and had I been out as
+     early as I intended I might well have saved you from this terrific
+     experience."
+
+==>      "But how did you know, Mr. Holmes?" <==
+
+     "I am an omnivorous reader with a strangely retentive memory for
+     trifles. That phrase 'the Lion's Mane' haunted my mind. I knew that I
+     had seen it somewhere in an unexpected context. You have seen that it
+     does describe the creature. I have no doubt that it was floating on
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+        in.raw out.raw       in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------- 
+ Holmes   14      0    0.0128913443830571           0              Inf     4.71562743721958e-12 
+ Mr       13     11    0.0119705340699816  0.00271136307616465    4.415    0.000194673074547276 
+ beauty   3       0    0.00276243093922652          0              Inf     0.00826188924270675  
+ you      17     33    0.0156537753222836  0.00813408922849396    1.924     0.0385439592029925  
+ big      3       1    0.00276243093922652 0.000246487552378605   11.207    0.0424832135207031  
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Lion's Mane"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 9    window = 4 14
+
+[line number in concatenated text file] matching line = 72984    window = 72979 72989
+
+
+     professional career should have come to me after my retirement, and
+     be brought, as it were, to my very door. It occurred after my
+     withdrawal to my little Sussex home, when I had given myself up
+     entirely to that soothing life of Nature for which I had so often
+     yearned during the long years spent amid the gloom of London. At this
+==>      period of my life the good Watson had passed almost beyond my ken. An <==
+     occasional week-end visit was the most that I ever saw of him. Thus I
+     must act as my own chronicler. Ah! had he but been with me, how much
+     he might have made of so wonderful a happening and of my eventual
+     triumph against every difficulty! As it is, however, I must needs
+     tell my tale in my own plain way, showing by my words each step upon
+
+[line number in individual story] matching line = 499    window = 494 504
+
+[line number in concatenated text file] matching line = 73474    window = 73469 73479
+
+
+     stood alone by that place of death. Then at last I turned and walked
+     slowly homeward.
+
+     I had just reached the top of the path when it came to me. Like a
+     flash, I remembered the thing for which I had so eagerly and vainly
+==>      grasped. You will know, or Watson has written in vain, that I hold a <==
+     vast store of out-of-the-way knowledge without scientific system, but
+     very available for the needs of my work. My mind is like a crowded
+     box-room with packets of all sorts stowed away therein--so many that
+     I may well have but a vague perception of what was there. I had known
+     that there was something which might bear upon this matter. It was
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================ 
+        in.raw out.raw       in.norm            out.norm      ratio.norm         pval         
+ -------------------------------------------------------------------------------------------- 
+ needs    2       0    0.00740740740740741         0             Inf     0.000471175198223866 
+ Watson   2       0    0.00740740740740741         0             Inf     0.000471175198223866 
+ my       12     48    0.0444444444444444  0.0154340836012862    2.88    0.00127043595094214  
+ -------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Lion's Mane"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Adventure of the Lion's Mane"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

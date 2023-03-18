@@ -1,0 +1,649 @@
+CONCORDANCE RESULTS FOR THE TEXT: "The Five Orange Pips"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Holmes"
+window=5
+
+[line number in individual story] matching line = 2    window = 1 7
+
+[line number in concatenated text file] matching line = 13212    window = 13211 13217
+
+
+
+==>      When I glance over my notes and records of the Sherlock Holmes cases <==
+     between the years '82 and '90, I am faced by so many which present
+     strange and interesting features that it is no easy matter to know
+     which to choose and which to leave. Some, however, have already
+     gained publicity through the papers, and others have not offered a
+     field for those peculiar qualities which my friend possessed in so
+
+[line number in individual story] matching line = 27    window = 22 32
+
+[line number in concatenated text file] matching line = 13237    window = 13232 13242
+
+
+     Paradol Chamber, of the Amateur Mendicant Society, who held a
+     luxurious club in the lower vault of a furniture warehouse, of the
+     facts connected with the loss of the British barque "Sophy Anderson",
+     of the singular adventures of the Grice Patersons in the island of
+     Uffa, and finally of the Camberwell poisoning case. In the latter, as
+==>      may be remembered, Sherlock Holmes was able, by winding up the dead <==
+     man's watch, to prove that it had been wound up two hours before, and
+     that therefore the deceased had gone to bed within that time--a
+     deduction which was of the greatest importance in clearing up the
+     case. All these I may sketch out at some future date, but none of
+     them present such singular features as the strange train of
+
+[line number in individual story] matching line = 43    window = 38 48
+
+[line number in concatenated text file] matching line = 13253    window = 13248 13258
+
+
+     heart of great, hand-made London we were forced to raise our minds
+     for the instant from the routine of life and to recognise the
+     presence of those great elemental forces which shriek at mankind
+     through the bars of his civilisation, like untamed beasts in a cage.
+     As evening drew in, the storm grew higher and louder, and the wind
+==>      cried and sobbed like a child in the chimney. Sherlock Holmes sat <==
+     moodily at one side of the fireplace cross-indexing his records of
+     crime, while I at the other was deep in one of Clark Russell's fine
+     sea-stories until the howl of the gale from without seemed to blend
+     with the text, and the splash of the rain to lengthen out into the
+     long swash of the sea waves. My wife was on a visit to her mother's,
+
+[line number in individual story] matching line = 64    window = 59 69
+
+[line number in concatenated text file] matching line = 13274    window = 13269 13279
+
+
+
+     "If so, it is a serious case. Nothing less would bring a man out on
+     such a day and at such an hour. But I take it that it is more likely
+     to be some crony of the landlady's."
+
+==>      Sherlock Holmes was wrong in his conjecture, however, for there came <==
+     a step in the passage and a tapping at the door. He stretched out his
+     long arm to turn the lamp away from himself and towards the vacant
+     chair upon which a newcomer must sit.
+
+     "Come in!" said he.
+
+[line number in individual story] matching line = 84    window = 79 89
+
+[line number in concatenated text file] matching line = 13294    window = 13289 13299
+
+
+
+     "I owe you an apology," he said, raising his golden pince-nez to his
+     eyes. "I trust that I am not intruding. I fear that I have brought
+     some traces of the storm and rain into your snug chamber."
+
+==>      "Give me your coat and umbrella," said Holmes. "They may rest here on <==
+     the hook and will be dry presently. You have come up from the
+     south-west, I see."
+
+     "Yes, from Horsham."
+
+
+[line number in individual story] matching line = 101    window = 96 106
+
+[line number in concatenated text file] matching line = 13311    window = 13306 13316
+
+
+
+     "And help."
+
+     "That is not always so easy."
+
+==>      "I have heard of you, Mr. Holmes. I heard from Major Prendergast how <==
+     you saved him in the Tankerville Club scandal."
+
+     "Ah, of course. He was wrongfully accused of cheating at cards."
+
+     "He said that you could solve anything."
+
+[line number in individual story] matching line = 132    window = 127 137
+
+[line number in concatenated text file] matching line = 13342    window = 13337 13347
+
+
+
+     "And yet I question, sir, whether, in all your experience, you have
+     ever listened to a more mysterious and inexplicable chain of events
+     than those which have happened in my own family."
+
+==>      "You fill me with interest," said Holmes. "Pray give us the essential <==
+     facts from the commencement, and I can afterwards question you as to
+     those details which seem to me to be most important."
+
+     The young man pulled his chair up and pushed his wet feet out towards
+     the blaze.
+
+[line number in individual story] matching line = 252    window = 247 257
+
+[line number in concatenated text file] matching line = 13462    window = 13457 13467
+
+
+     it behind him, like a man who can brazen it out no longer against the
+     terror which lies at the roots of his soul. At such times I have seen
+     his face, even on a cold day, glisten with moisture, as though it
+     were new raised from a basin.
+
+==>      "Well, to come to an end of the matter, Mr. Holmes, and not to abuse <==
+     your patience, there came a night when he made one of those drunken
+     sallies from which he never came back. We found him, when we went to
+     search for him, face downward in a little green-scummed pool, which
+     lay at the foot of the garden. There was no sign of any violence, and
+     the water was but two feet deep, so that the jury, having regard to
+
+[line number in individual story] matching line = 264    window = 259 269
+
+[line number in concatenated text file] matching line = 13474    window = 13469 13479
+
+
+     knew how he winced from the very thought of death, had much ado to
+     persuade myself that he had gone out of his way to meet it. The
+     matter passed, however, and my father entered into possession of the
+     estate, and of some Â£14,000, which lay to his credit at the bank."
+
+==>      "One moment," Holmes interposed, "your statement is, I foresee, one <==
+     of the most remarkable to which I have ever listened. Let me have the
+     date of the reception by your uncle of the letter, and the date of
+     his supposed suicide."
+
+     "The letter arrived on March 10, 1883. His death was seven weeks
+
+[line number in individual story] matching line = 377    window = 372 382
+
+[line number in concatenated text file] matching line = 13587    window = 13582 13592
+
+
+     "This is the envelope," he continued. "The postmark is
+     London--eastern division. Within are the very words which were upon
+     my father's last message: 'K. K. K.'; and then 'Put the papers on the
+     sundial.'"
+
+==>      "What have you done?" asked Holmes. <==
+
+     "Nothing."
+
+     "Nothing?"
+
+
+[line number in individual story] matching line = 389    window = 384 394
+
+[line number in concatenated text file] matching line = 13599    window = 13594 13604
+
+
+     have felt helpless. I have felt like one of those poor rabbits when
+     the snake is writhing towards it. I seem to be in the grasp of some
+     resistless, inexorable evil, which no foresight and no precautions
+     can guard against."
+
+==>      "Tut! tut!" cried Sherlock Holmes. "You must act, man, or you are <==
+     lost. Nothing but energy can save you. This is no time for despair."
+
+     "I have seen the police."
+
+     "Ah!"
+
+[line number in individual story] matching line = 401    window = 396 406
+
+[line number in concatenated text file] matching line = 13611    window = 13606 13616
+
+
+     "But they listened to my story with a smile. I am convinced that the
+     inspector has formed the opinion that the letters are all practical
+     jokes, and that the deaths of my relations were really accidents, as
+     the jury stated, and were not to be connected with the warnings."
+
+==>      Holmes shook his clenched hands in the air. "Incredible imbecility!" <==
+     he cried.
+
+     "They have, however, allowed me a policeman, who may remain in the
+     house with me."
+
+
+[line number in individual story] matching line = 411    window = 406 416
+
+[line number in concatenated text file] matching line = 13621    window = 13616 13626
+
+
+
+     "Has he come with you to-night?"
+
+     "No. His orders were to stay in the house."
+
+==>      Again Holmes raved in the air. <==
+
+     "Why did you come to me," he cried, "and, above all, why did you not
+     come at once?"
+
+     "I did not know. It was only to-day that I spoke to Major Prendergast
+
+[line number in individual story] matching line = 435    window = 430 440
+
+[line number in concatenated text file] matching line = 13645    window = 13640 13650
+
+
+     which has, perhaps, fluttered out from among the others, and in that
+     way has escaped destruction. Beyond the mention of pips, I do not see
+     that it helps us much. I think myself that it is a page from some
+     private diary. The writing is undoubtedly my uncle's."
+
+==>      Holmes moved the lamp, and we both bent over the sheet of paper, <==
+     which showed by its ragged edge that it had indeed been torn from a
+     book. It was headed, "March, 1869," and beneath were the following
+     enigmatical notices:
+
+
+
+[line number in individual story] matching line = 448    window = 443 453
+
+[line number in concatenated text file] matching line = 13658    window = 13653 13663
+
+
+     Augustine.
+     9th. McCauley cleared.
+     10th. John Swain cleared.
+     12th. Visited Paramore. All well.
+
+==>      "Thank you!" said Holmes, folding up the paper and returning it to <==
+     our visitor. "And now you must on no account lose another instant. We
+     cannot spare time even to discuss what you have told me. You must get
+     home instantly and act."
+
+     "What shall I do?"
+
+[line number in individual story] matching line = 500    window = 495 505
+
+[line number in concatenated text file] matching line = 13710    window = 13705 13715
+
+
+     wind still screamed and the rain splashed and pattered against the
+     windows. This strange, wild story seemed to have come to us from amid
+     the mad elements--blown in upon us like a sheet of sea-weed in a
+     gale--and now to have been reabsorbed by them once more.
+
+==>      Sherlock Holmes sat for some time in silence, with his head sunk <==
+     forward and his eyes bent upon the red glow of the fire. Then he lit
+     his pipe, and leaning back in his chair he watched the blue
+     smoke-rings as they chased each other up to the ceiling.
+
+     "I think, Watson," he remarked at last, "that of all our cases we
+
+[line number in individual story] matching line = 521    window = 516 526
+
+[line number in concatenated text file] matching line = 13731    window = 13726 13736
+
+
+     "There can be no question as to their nature," he answered.
+
+     "Then what are they? Who is this K. K. K., and why does he pursue
+     this unhappy family?"
+
+==>      Sherlock Holmes closed his eyes and placed his elbows upon the arms <==
+     of his chair, with his finger-tips together. "The ideal reasoner," he
+     remarked, "would, when he had once been shown a single fact in all
+     its bearings, deduce from it not only all the chain of events which
+     led up to it but also all the results which would follow from it. As
+     Cuvier could correctly describe a whole animal by the contemplation
+
+[line number in individual story] matching line = 551    window = 546 556
+
+[line number in concatenated text file] matching line = 13761    window = 13756 13766
+
+
+     within fifty miles of town, chemistry eccentric, anatomy
+     unsystematic, sensational literature and crime records unique,
+     violin-player, boxer, swordsman, lawyer, and self-poisoner by cocaine
+     and tobacco. Those, I think, were the main points of my analysis."
+
+==>      Holmes grinned at the last item. "Well," he said, "I say now, as I <==
+     said then, that a man should keep his little brain-attic stocked with
+     all the furniture that he is likely to use, and the rest he can put
+     away in the lumber-room of his library, where he can get it if he
+     wants it. Now, for such a case as the one which has been submitted to
+     us to-night, we need certainly to muster all our resources. Kindly
+
+[line number in individual story] matching line = 623    window = 618 628
+
+[line number in concatenated text file] matching line = 13833    window = 13828 13838
+
+
+     K. ceases to be the initials of an individual and becomes the badge
+     of a society."
+
+     "But of what society?"
+
+==>      "Have you never--" said Sherlock Holmes, bending forward and sinking <==
+     his voice--"have you never heard of the Ku Klux Klan?"
+
+     "I never have."
+
+     Holmes turned over the leaves of the book upon his knee. "Here it
+
+[line number in individual story] matching line = 628    window = 623 633
+
+[line number in concatenated text file] matching line = 13838    window = 13833 13843
+
+
+     "Have you never--" said Sherlock Holmes, bending forward and sinking
+     his voice--"have you never heard of the Ku Klux Klan?"
+
+     "I never have."
+
+==>      Holmes turned over the leaves of the book upon his knee. "Here it <==
+     is," said he presently:
+
+     "'Ku Klux Klan. A name derived from the fanciful resemblance to the
+     sound produced by cocking a rifle. This terrible secret society was
+     formed by some ex-Confederate soldiers in the Southern states after
+
+[line number in individual story] matching line = 655    window = 650 660
+
+[line number in concatenated text file] matching line = 13865    window = 13860 13870
+
+
+     United States government and of the better classes of the community
+     in the South. Eventually, in the year 1869, the movement rather
+     suddenly collapsed, although there have been sporadic outbreaks of
+     the same sort since that date.'
+
+==>      "You will observe," said Holmes, laying down the volume, "that the <==
+     sudden breaking up of the society was coincident with the
+     disappearance of Openshaw from America with their papers. It may well
+     have been cause and effect. It is no wonder that he and his family
+     have some of the more implacable spirits upon their track. You can
+     understand that this register and diary may implicate some of the
+
+[line number in individual story] matching line = 679    window = 674 684
+
+[line number in concatenated text file] matching line = 13889    window = 13884 13894
+
+
+     let us try to forget for half an hour the miserable weather and the
+     still more miserable ways of our fellow-men."
+
+     It had cleared in the morning, and the sun was shining with a subdued
+     brightness through the dim veil which hangs over the great city.
+==>      Sherlock Holmes was already at breakfast when I came down. <==
+
+     "You will excuse me for not waiting for you," said he; "I have, I
+     foresee, a very busy day before me in looking into this case of young
+     Openshaw's."
+
+
+[line number in individual story] matching line = 699    window = 694 704
+
+[line number in concatenated text file] matching line = 13909    window = 13904 13914
+
+
+
+     As I waited, I lifted the unopened newspaper from the table and
+     glanced my eye over it. It rested upon a heading which sent a chill
+     to my heart.
+
+==>      "Holmes," I cried, "you are too late." <==
+
+     "Ah!" said he, laying down his cup, "I feared as much. How was it
+     done?" He spoke calmly, but I could see that he was deeply moved.
+
+     "My eye caught the name of Openshaw, and the heading 'Tragedy Near
+
+[line number in individual story] matching line = 725    window = 720 730
+
+[line number in concatenated text file] matching line = 13935    window = 13930 13940
+
+
+     can be no doubt that the deceased had been the victim of an
+     unfortunate accident, which should have the effect of calling the
+     attention of the authorities to the condition of the riverside
+     landing-stages."
+
+==>      We sat in silence for some minutes, Holmes more depressed and shaken <==
+     than I had ever seen him.
+
+     "That hurts my pride, Watson," he said at last. "It is a petty
+     feeling, no doubt, but it hurts my pride. It becomes a personal
+     matter with me now, and, if God sends me health, I shall set my hand
+
+[line number in individual story] matching line = 749    window = 744 754
+
+[line number in concatenated text file] matching line = 13959    window = 13954 13964
+
+
+
+     "No; I shall be my own police. When I have spun the web they may take
+     the flies, but not before."
+
+     All day I was engaged in my professional work, and it was late in the
+==>      evening before I returned to Baker Street. Sherlock Holmes had not <==
+     come back yet. It was nearly ten o'clock before he entered, looking
+     pale and worn. He walked up to the sideboard, and tearing a piece
+     from the loaf he devoured it voraciously, washing it down with a long
+     draught of water.
+
+
+
+SEARCH PATTERN: Holmes
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ==================================================================================== 
+          in.raw out.raw       in.norm       out.norm ratio.norm         pval         
+ ------------------------------------------------------------------------------------ 
+ Holmes     25      0     0.011611704598235     0        Inf     9.87803437290858e-11 
+ Sherlock   10      0    0.00464468183929401    0        Inf     0.000100946985752279 
+ ------------------------------------------------------------------------------------ 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Five Orange Pips"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Watson"
+window=5
+
+[line number in individual story] matching line = 505    window = 500 510
+
+[line number in concatenated text file] matching line = 13715    window = 13710 13720
+
+
+     Sherlock Holmes sat for some time in silence, with his head sunk
+     forward and his eyes bent upon the red glow of the fire. Then he lit
+     his pipe, and leaning back in his chair he watched the blue
+     smoke-rings as they chased each other up to the ceiling.
+
+==>      "I think, Watson," he remarked at last, "that of all our cases we <==
+     have had none more fantastic than this."
+
+     "Save, perhaps, the Sign of Four."
+
+     "Well, yes. Save, perhaps, that. And yet this John Openshaw seems to
+
+[line number in individual story] matching line = 728    window = 723 733
+
+[line number in concatenated text file] matching line = 13938    window = 13933 13943
+
+
+     landing-stages."
+
+     We sat in silence for some minutes, Holmes more depressed and shaken
+     than I had ever seen him.
+
+==>      "That hurts my pride, Watson," he said at last. "It is a petty <==
+     feeling, no doubt, but it hurts my pride. It becomes a personal
+     matter with me now, and, if God sends me health, I shall set my hand
+     upon this gang. That he should come to me for help, and that I should
+     send him away to his death--!" He sprang from his chair and paced
+     about the room in uncontrollable agitation, with a flush upon his
+
+[line number in individual story] matching line = 740    window = 735 745
+
+[line number in concatenated text file] matching line = 13950    window = 13945 13955
+
+
+     hands.
+
+     "They must be cunning devils," he exclaimed at last. "How could they
+     have decoyed him down there? The Embankment is not on the direct line
+     to the station. The bridge, no doubt, was too crowded, even on such a
+==>      night, for their purpose. Well, Watson, we shall see who will win in <==
+     the long run. I am going out now!"
+
+     "To the police?"
+
+     "No; I shall be my own police. When I have spun the web they may take
+
+[line number in individual story] matching line = 771    window = 766 776
+
+[line number in concatenated text file] matching line = 13981    window = 13976 13986
+
+
+     "Well."
+
+     "You have a clue?"
+
+     "I have them in the hollow of my hand. Young Openshaw shall not long
+==>      remain unavenged. Why, Watson, let us put their own devilish <==
+     trade-mark upon them. It is well thought of!"
+
+     "What do you mean?"
+
+     He took an orange from the cupboard, and tearing it to pieces he
+
+
+SEARCH PATTERN: Watson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ============================================================================================== 
+         in.raw out.raw      in.norm             out.norm       ratio.norm         pval         
+ ---------------------------------------------------------------------------------------------- 
+ Watson    4       0    0.0124223602484472          0              Inf     4.22653375953919e-09 
+ hurts     2       0    0.0062111801242236          0              Inf     0.000464433795600768 
+ pride     2       0    0.0062111801242236          0              Inf     0.000464433795600768 
+ Save      2       0    0.0062111801242236          0              Inf     0.000464433795600768 
+ silence   2       0    0.0062111801242236          0              Inf     0.000464433795600768 
+ Well      3       4    0.0093167701863354 0.00107613666935701    8.658    0.00668488084650467  
+ perhaps   2       2    0.0062111801242236 0.000538068334678504   11.543    0.0291577277901439  
+ sat       2       2    0.0062111801242236 0.000538068334678504   11.543    0.0291577277901439  
+ shall     4      12    0.0124223602484472 0.00322841000807102    3.848     0.0396692233701236  
+ ---------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Five Orange Pips"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Hudson"
+window=5
+
+[line number in individual story] matching line = 441    window = 436 446
+
+[line number in concatenated text file] matching line = 13651    window = 13646 13656
+
+
+     which showed by its ragged edge that it had indeed been torn from a
+     book. It was headed, "March, 1869," and beneath were the following
+     enigmatical notices:
+
+
+==>      4th. Hudson came. Same old platform. <==
+     7th. Set the pips on McCauley, Paramore, and John Swain, of St.
+     Augustine.
+     9th. McCauley cleared.
+     10th. John Swain cleared.
+     12th. Visited Paramore. All well.
+
+
+SEARCH PATTERN: Hudson
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+ 
+ ================================================================================================= 
+             in.raw out.raw      in.norm            out.norm       ratio.norm         pval         
+ ------------------------------------------------------------------------------------------------- 
+ McCauley      2       0    0.0344827586206897          0             Inf     1.44242235921018e-08 
+ Paramore      2       0    0.0344827586206897          0             Inf     1.44242235921018e-08 
+ Swain         2       0    0.0344827586206897          0             Inf     1.44242235921018e-08 
+ cleared       2       5    0.0344827586206897 0.00295333727111636   11.676   0.00728189392611332  
+ 10th          1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ 12th          1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ 4th           1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ 7th           1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ 9th           1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ Augustine     1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ enigmatical   1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ headed        1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ Hudson        1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ indeed        1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ notices       1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ platform      1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ ragged        1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ Same          1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ Set           1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ St            1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ torn          1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ Visited       1       0    0.0172413793103448          0             Inf     0.00906554862972756  
+ John          2       7    0.0344827586206897 0.00413467217956291    8.34     0.0248053685642989  
+ ------------------------------------------------------------------------------------------------- 
+
+
+
+==============================================
+
+CONCORDANCE RESULTS FOR THE TEXT: "The Five Orange Pips"
+CONCORDANCE RESULTS FOR THE SEARCH PATTERN: "Lestrade"
+window=5
+
+
+SEARCH PATTERN: Lestrade
+
+COMPARISON OF WORD COUNTS WITHIN VS. OUTSIDE OF THE CONTEXT WINDOW:
+
+RATIO.NORM IS IN.NORM/OUT.NORM
+
+CHISQ PVAL IS LESS THAN 0.O5 FOR CANDIDATE CORRELATED WORDS
+
+AND FOR WHICH RATIO.NORM IS GREATER THAN 1
+THE MOST LIKELY LEADS (IF ANY) ARE THE TERMS IN THE TOP FOCUS TABLE
+
+!!BEWARE OF FALSE POSITIVES!!
+AFTER YOU IDENTIFY A GOOD LEAD, YOU CAN USE THE LEAD TO PERFORM
+A TEXT SEARCH OF THE CONTEXT PASSAGES LISTED ABOVE
+
+==============================================
+

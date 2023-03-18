@@ -1,0 +1,60 @@
+A Study In Scarlet	0.002220
+The Sign of the Four	0.003150
+A Scandal in Bohemia	0.005640
+The Red-Headed League	0.005830
+A Case of Identity	0.006600
+The Boscombe Valley Mystery	0.004890
+The Five Orange Pips	0.003420
+The Man with the Twisted Lip	0.003150
+The Adventure of the Blue Carbuncle	0.004870
+The Adventure of the Speckled Band	0.005710
+The Adventure of the Engineer's Thumb	0.001690
+The Adventure of the Noble Bachelor	0.004200
+The Adventure of the Beryl Coronet	0.002890
+The Adventure of the Copper Beeches	0.004320
+Silver Blaze	0.005330
+The Yellow Face	0.002530
+The Stock-Broker's Clerk	0.003830
+The "Gloria Scott"	0.001020
+The Musgrave Ritual	0.000660
+The Reigate Squires	0.007370
+The Crooked Man	0.001540
+The Resident Patient	0.005900
+The Greek Interpreter	0.004150
+The Naval Treaty	0.005320
+The Final Problem	0.004190
+The Adventure of the Empty House	0.004600
+The Adventure of the Norwood Builder	0.006950
+The Adventure of the Dancing Men	0.006290
+The Adventure of the Solitary Cyclist	0.006260
+The Adventure of the Priory School	0.007510
+The Adventure of Black Peter	0.006790
+The Adventure of Charles Augustus Milverton	0.008360
+The Adventure of the Six Napoleons	0.006970
+The Adventure of the Three Students	0.007590
+The Adventure of the Golden Pince-Nez	0.006500
+The Adventure of the Missing Three-Quarter	0.006490
+The Adventure of the Abbey Grange	0.004490
+The Adventure of the Second Stain	0.008320
+The Hound of the Baskervilles	0.003250
+The Valley Of Fear	0.002610
+The Adventure of Wisteria Lodge	0.005450
+The Adventure of the Cardboard Box	0.003170
+The Adventure of the Red Circle	0.004260
+The Adventure of the Bruce-Partington Plans	0.005810
+The Adventure of the Dying Detective	0.008670
+The Disappearance of Lady Frances Carfax	0.007050
+The Adventure of the Devil's Foot	0.005920
+His Last Bow	0.003630
+The Illustrious Client	0.006170
+The Blanched Soldier	0.001690
+The Adventure Of The Mazarin Stone	0.009040
+The Adventure of the Three Gables	0.012090
+The Adventure of the Sussex Vampire	0.007550
+The Adventure of the Three Garridebs	0.008090
+The Problem of Thor Bridge	0.006170
+The Adventure of the Creeping Man	0.008240
+The Adventure of the Lion's Mane	0.001950
+The Adventure of the Veiled Lodger	0.004940
+The Adventure of Shoscombe Old Place	0.008190
+The Adventure of the Retired Colourman	0.007640

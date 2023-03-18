@@ -1,0 +1,60 @@
+A Study In Scarlet	43167	0.002220
+The Sign of the Four	42915	0.003150
+A Scandal in Bohemia	8512	0.005640
+The Red-Headed League	9098	0.005830
+A Case of Identity	6971	0.006600
+The Boscombe Valley Mystery	9614	0.004890
+The Five Orange Pips	7312	0.003420
+The Man with the Twisted Lip	9192	0.003150
+The Adventure of the Blue Carbuncle	7805	0.004870
+The Adventure of the Speckled Band	9801	0.005710
+The Adventure of the Engineer's Thumb	8281	0.001690
+The Adventure of the Noble Bachelor	8100	0.004200
+The Adventure of the Beryl Coronet	9674	0.002890
+The Adventure of the Copper Beeches	9943	0.004320
+Silver Blaze	9573	0.005330
+The Yellow Face	7497	0.002530
+The Stock-Broker's Clerk	6782	0.003830
+The "Gloria Scott"	7835	0.001020
+The Musgrave Ritual	7568	0.000660
+The Reigate Squires	7196	0.007370
+The Crooked Man	7126	0.001540
+The Resident Patient	6607	0.005900
+The Greek Interpreter	6996	0.004150
+The Naval Treaty	12603	0.005320
+The Final Problem	7155	0.004190
+The Adventure of the Empty House	8689	0.004600
+The Adventure of the Norwood Builder	9213	0.006950
+The Adventure of the Dancing Men	9702	0.006290
+The Adventure of the Solitary Cyclist	7824	0.006260
+The Adventure of the Priory School	11458	0.007510
+The Adventure of Black Peter	8098	0.006790
+The Adventure of Charles Augustus Milverton	6699	0.008360
+The Adventure of the Six Napoleons	8319	0.006970
+The Adventure of the Three Students	6456	0.007590
+The Adventure of the Golden Pince-Nez	8921	0.006500
+The Adventure of the Missing Three-Quarter	8011	0.006490
+The Adventure of the Abbey Grange	9141	0.004490
+The Adventure of the Second Stain	9621	0.008320
+The Hound of the Baskervilles	59015	0.003250
+The Valley Of Fear	57480	0.002610
+The Adventure of Wisteria Lodge	11375	0.005450
+The Adventure of the Cardboard Box	8510	0.003170
+The Adventure of the Red Circle	7277	0.004260
+The Adventure of the Bruce-Partington Plans	10668	0.005810
+The Adventure of the Dying Detective	5769	0.008670
+The Disappearance of Lady Frances Carfax	7665	0.007050
+The Adventure of the Devil's Foot	9968	0.005920
+His Last Bow	6054	0.003630
+The Illustrious Client	9731	0.006170
+The Blanched Soldier	7705	0.001690
+The Adventure Of The Mazarin Stone	5639	0.009040
+The Adventure of the Three Gables	6039	0.012090
+The Adventure of the Sussex Vampire	5957	0.007550
+The Adventure of the Three Garridebs	6184	0.008090
+The Problem of Thor Bridge	9569	0.006170
+The Adventure of the Creeping Man	7646	0.008240
+The Adventure of the Lion's Mane	7171	0.001950
+The Adventure of the Veiled Lodger	4457	0.004940
+The Adventure of Shoscombe Old Place	6230	0.008190
+The Adventure of the Retired Colourman	5498	0.007640
