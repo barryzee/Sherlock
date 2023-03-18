@@ -1,0 +1,39 @@
+[1] "MATCH CALL:\n"
+Sherlock(titles = titles, texts = texts, patterns = patterns, 
+    toupper = toupper, odir = odir, concord = TRUE, verbose = TRUE)
+[1] "\nGRAB FUNCTION PARAMETERS:\n"
+$mc
+Sherlock(titles = titles, texts = texts, patterns = patterns, 
+    toupper = toupper, odir = odir, concord = TRUE, verbose = TRUE)
+
+$metadata
+[1] "/Volumes/Lacie_mini_2TB/sherlock_project_good_data/Sherlock_project_results/Wimsey2/metadata.txt"
+
+$titles
+[1] "/Volumes/Lacie_mini_2TB/sherlock_project_good_data/Sherlock_project_texts/dorothy_sayers/TITLES.txt"
+
+$texts
+[1] "/Volumes/Lacie_mini_2TB/sherlock_project_good_data/Sherlock_project_texts/dorothy_sayers/combined.txt"
+
+$patterns
+[1] "Wimsey"  "Bunter"  "Harriet" "Parker" 
+
+$toupper
+[1] FALSE
+
+$odir
+[1] "/Volumes/Lacie_mini_2TB/sherlock_project_good_data/Sherlock_project_results/Wimsey2"
+
+$concord
+[1] TRUE
+
+$minl
+[1] 100
+
+$P
+[1] 1e-05
+
+$verbose
+[1] TRUE
+
+[1] "OUTPUT DIRECTORY: /Volumes/Lacie_mini_2TB/sherlock_project_good_data/Sherlock_project_results/Wimsey2"
